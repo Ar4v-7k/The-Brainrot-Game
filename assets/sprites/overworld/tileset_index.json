@@ -1,0 +1,4098 @@
+{
+  "grass_light": [
+    0,
+    0
+  ],
+  "grass_dark": [
+    0,
+    1
+  ],
+  "path_dirt": [
+    0,
+    2
+  ],
+  "path_stone": [
+    0,
+    3
+  ],
+  "water_still": [
+    0,
+    4
+  ],
+  "water_wave": [
+    0,
+    5
+  ],
+  "sand": [
+    0,
+    6
+  ],
+  "snow": [
+    0,
+    7
+  ],
+  "tree_top_left": [
+    0,
+    8
+  ],
+  "tree_top_right": [
+    0,
+    9
+  ],
+  "tree_bot_left": [
+    0,
+    10
+  ],
+  "tree_bot_right": [
+    0,
+    11
+  ],
+  "wall_stone": [
+    0,
+    12
+  ],
+  "wall_dark": [
+    0,
+    13
+  ],
+  "door_closed": [
+    0,
+    14
+  ],
+  "door_open": [
+    0,
+    15
+  ],
+  "flower_patch": [
+    0,
+    16
+  ],
+  "tall_grass": [
+    0,
+    17
+  ],
+  "cave_floor": [
+    0,
+    18
+  ],
+  "cave_wall": [
+    0,
+    19
+  ],
+  "ice_floor": [
+    0,
+    20
+  ],
+  "jungle_floor": [
+    0,
+    21
+  ],
+  "desert_floor": [
+    0,
+    22
+  ],
+  "ruin_floor": [
+    0,
+    23
+  ],
+  "house_roof": [
+    0,
+    24
+  ],
+  "house_wall": [
+    0,
+    25
+  ],
+  "fence_h": [
+    0,
+    26
+  ],
+  "fence_v": [
+    0,
+    27
+  ],
+  "sign_post": [
+    0,
+    28
+  ],
+  "counter_shop": [
+    0,
+    29
+  ],
+  "bed": [
+    0,
+    30
+  ],
+  "chest": [
+    0,
+    31
+  ],
+  "ground_grass_000": [
+    1,
+    0
+  ],
+  "ground_grass_001": [
+    1,
+    1
+  ],
+  "ground_grass_002": [
+    1,
+    2
+  ],
+  "ground_grass_003": [
+    1,
+    3
+  ],
+  "ground_grass_004": [
+    1,
+    4
+  ],
+  "ground_grass_005": [
+    1,
+    5
+  ],
+  "ground_grass_006": [
+    1,
+    6
+  ],
+  "ground_grass_007": [
+    1,
+    7
+  ],
+  "ground_grass_008": [
+    1,
+    8
+  ],
+  "ground_grass_009": [
+    1,
+    9
+  ],
+  "ground_grass_010": [
+    1,
+    10
+  ],
+  "ground_grass_011": [
+    1,
+    11
+  ],
+  "ground_grass_012": [
+    1,
+    12
+  ],
+  "ground_grass_013": [
+    1,
+    13
+  ],
+  "ground_grass_014": [
+    1,
+    14
+  ],
+  "ground_grass_015": [
+    1,
+    15
+  ],
+  "ground_grass_016": [
+    1,
+    16
+  ],
+  "ground_grass_017": [
+    1,
+    17
+  ],
+  "ground_grass_018": [
+    1,
+    18
+  ],
+  "ground_grass_019": [
+    1,
+    19
+  ],
+  "ground_grass_020": [
+    1,
+    20
+  ],
+  "ground_grass_021": [
+    1,
+    21
+  ],
+  "ground_grass_022": [
+    1,
+    22
+  ],
+  "ground_grass_023": [
+    1,
+    23
+  ],
+  "ground_grass_024": [
+    1,
+    24
+  ],
+  "ground_grass_025": [
+    1,
+    25
+  ],
+  "ground_grass_026": [
+    1,
+    26
+  ],
+  "ground_grass_027": [
+    1,
+    27
+  ],
+  "ground_grass_028": [
+    1,
+    28
+  ],
+  "ground_grass_029": [
+    1,
+    29
+  ],
+  "ground_grass_030": [
+    1,
+    30
+  ],
+  "ground_grass_031": [
+    1,
+    31
+  ],
+  "ground_grass_032": [
+    2,
+    0
+  ],
+  "ground_grass_033": [
+    2,
+    1
+  ],
+  "ground_grass_034": [
+    2,
+    2
+  ],
+  "ground_grass_035": [
+    2,
+    3
+  ],
+  "ground_grass_036": [
+    2,
+    4
+  ],
+  "ground_grass_037": [
+    2,
+    5
+  ],
+  "ground_grass_038": [
+    2,
+    6
+  ],
+  "ground_grass_039": [
+    2,
+    7
+  ],
+  "ground_grass_040": [
+    2,
+    8
+  ],
+  "ground_grass_041": [
+    2,
+    9
+  ],
+  "ground_grass_042": [
+    2,
+    10
+  ],
+  "ground_grass_043": [
+    2,
+    11
+  ],
+  "ground_grass_044": [
+    2,
+    12
+  ],
+  "ground_grass_045": [
+    2,
+    13
+  ],
+  "ground_grass_046": [
+    2,
+    14
+  ],
+  "ground_grass_047": [
+    2,
+    15
+  ],
+  "ground_grass_048": [
+    2,
+    16
+  ],
+  "ground_grass_049": [
+    2,
+    17
+  ],
+  "ground_grass_050": [
+    2,
+    18
+  ],
+  "ground_grass_051": [
+    2,
+    19
+  ],
+  "ground_grass_052": [
+    2,
+    20
+  ],
+  "ground_grass_053": [
+    2,
+    21
+  ],
+  "ground_grass_054": [
+    2,
+    22
+  ],
+  "ground_grass_055": [
+    2,
+    23
+  ],
+  "ground_grass_056": [
+    2,
+    24
+  ],
+  "ground_grass_057": [
+    2,
+    25
+  ],
+  "ground_grass_058": [
+    2,
+    26
+  ],
+  "ground_grass_059": [
+    2,
+    27
+  ],
+  "ground_grass_060": [
+    2,
+    28
+  ],
+  "ground_grass_061": [
+    2,
+    29
+  ],
+  "ground_grass_062": [
+    2,
+    30
+  ],
+  "ground_grass_063": [
+    2,
+    31
+  ],
+  "ground_grass_064": [
+    3,
+    0
+  ],
+  "ground_grass_065": [
+    3,
+    1
+  ],
+  "ground_grass_066": [
+    3,
+    2
+  ],
+  "ground_grass_067": [
+    3,
+    3
+  ],
+  "ground_grass_068": [
+    3,
+    4
+  ],
+  "ground_grass_069": [
+    3,
+    5
+  ],
+  "ground_grass_070": [
+    3,
+    6
+  ],
+  "ground_grass_071": [
+    3,
+    7
+  ],
+  "ground_grass_072": [
+    3,
+    8
+  ],
+  "ground_grass_073": [
+    3,
+    9
+  ],
+  "ground_grass_074": [
+    3,
+    10
+  ],
+  "ground_grass_075": [
+    3,
+    11
+  ],
+  "ground_grass_076": [
+    3,
+    12
+  ],
+  "ground_grass_077": [
+    3,
+    13
+  ],
+  "ground_grass_078": [
+    3,
+    14
+  ],
+  "ground_grass_079": [
+    3,
+    15
+  ],
+  "ground_path_dirt_000": [
+    3,
+    16
+  ],
+  "ground_path_dirt_001": [
+    3,
+    17
+  ],
+  "ground_path_dirt_002": [
+    3,
+    18
+  ],
+  "ground_path_dirt_003": [
+    3,
+    19
+  ],
+  "ground_path_dirt_004": [
+    3,
+    20
+  ],
+  "ground_path_dirt_005": [
+    3,
+    21
+  ],
+  "ground_path_dirt_006": [
+    3,
+    22
+  ],
+  "ground_path_dirt_007": [
+    3,
+    23
+  ],
+  "ground_path_dirt_008": [
+    3,
+    24
+  ],
+  "ground_path_dirt_009": [
+    3,
+    25
+  ],
+  "ground_path_dirt_010": [
+    3,
+    26
+  ],
+  "ground_path_dirt_011": [
+    3,
+    27
+  ],
+  "ground_path_dirt_012": [
+    3,
+    28
+  ],
+  "ground_path_dirt_013": [
+    3,
+    29
+  ],
+  "ground_path_dirt_014": [
+    3,
+    30
+  ],
+  "ground_path_dirt_015": [
+    3,
+    31
+  ],
+  "ground_path_dirt_016": [
+    4,
+    0
+  ],
+  "ground_path_dirt_017": [
+    4,
+    1
+  ],
+  "ground_path_dirt_018": [
+    4,
+    2
+  ],
+  "ground_path_dirt_019": [
+    4,
+    3
+  ],
+  "ground_path_dirt_020": [
+    4,
+    4
+  ],
+  "ground_path_dirt_021": [
+    4,
+    5
+  ],
+  "ground_path_dirt_022": [
+    4,
+    6
+  ],
+  "ground_path_dirt_023": [
+    4,
+    7
+  ],
+  "ground_path_dirt_024": [
+    4,
+    8
+  ],
+  "ground_path_dirt_025": [
+    4,
+    9
+  ],
+  "ground_path_dirt_026": [
+    4,
+    10
+  ],
+  "ground_path_dirt_027": [
+    4,
+    11
+  ],
+  "ground_path_dirt_028": [
+    4,
+    12
+  ],
+  "ground_path_dirt_029": [
+    4,
+    13
+  ],
+  "ground_path_dirt_030": [
+    4,
+    14
+  ],
+  "ground_path_dirt_031": [
+    4,
+    15
+  ],
+  "ground_path_dirt_032": [
+    4,
+    16
+  ],
+  "ground_path_dirt_033": [
+    4,
+    17
+  ],
+  "ground_path_dirt_034": [
+    4,
+    18
+  ],
+  "ground_path_dirt_035": [
+    4,
+    19
+  ],
+  "ground_path_dirt_036": [
+    4,
+    20
+  ],
+  "ground_path_dirt_037": [
+    4,
+    21
+  ],
+  "ground_path_dirt_038": [
+    4,
+    22
+  ],
+  "ground_path_dirt_039": [
+    4,
+    23
+  ],
+  "ground_path_dirt_040": [
+    4,
+    24
+  ],
+  "ground_path_dirt_041": [
+    4,
+    25
+  ],
+  "ground_path_dirt_042": [
+    4,
+    26
+  ],
+  "ground_path_dirt_043": [
+    4,
+    27
+  ],
+  "ground_path_dirt_044": [
+    4,
+    28
+  ],
+  "ground_path_dirt_045": [
+    4,
+    29
+  ],
+  "ground_path_dirt_046": [
+    4,
+    30
+  ],
+  "ground_path_dirt_047": [
+    4,
+    31
+  ],
+  "ground_path_dirt_048": [
+    5,
+    0
+  ],
+  "ground_path_dirt_049": [
+    5,
+    1
+  ],
+  "ground_path_dirt_050": [
+    5,
+    2
+  ],
+  "ground_path_dirt_051": [
+    5,
+    3
+  ],
+  "ground_path_dirt_052": [
+    5,
+    4
+  ],
+  "ground_path_dirt_053": [
+    5,
+    5
+  ],
+  "ground_path_dirt_054": [
+    5,
+    6
+  ],
+  "ground_path_dirt_055": [
+    5,
+    7
+  ],
+  "ground_path_dirt_056": [
+    5,
+    8
+  ],
+  "ground_path_dirt_057": [
+    5,
+    9
+  ],
+  "ground_path_dirt_058": [
+    5,
+    10
+  ],
+  "ground_path_dirt_059": [
+    5,
+    11
+  ],
+  "ground_path_stone_000": [
+    5,
+    12
+  ],
+  "ground_path_stone_001": [
+    5,
+    13
+  ],
+  "ground_path_stone_002": [
+    5,
+    14
+  ],
+  "ground_path_stone_003": [
+    5,
+    15
+  ],
+  "ground_path_stone_004": [
+    5,
+    16
+  ],
+  "ground_path_stone_005": [
+    5,
+    17
+  ],
+  "ground_path_stone_006": [
+    5,
+    18
+  ],
+  "ground_path_stone_007": [
+    5,
+    19
+  ],
+  "ground_path_stone_008": [
+    5,
+    20
+  ],
+  "ground_path_stone_009": [
+    5,
+    21
+  ],
+  "ground_path_stone_010": [
+    5,
+    22
+  ],
+  "ground_path_stone_011": [
+    5,
+    23
+  ],
+  "ground_path_stone_012": [
+    5,
+    24
+  ],
+  "ground_path_stone_013": [
+    5,
+    25
+  ],
+  "ground_path_stone_014": [
+    5,
+    26
+  ],
+  "ground_path_stone_015": [
+    5,
+    27
+  ],
+  "ground_path_stone_016": [
+    5,
+    28
+  ],
+  "ground_path_stone_017": [
+    5,
+    29
+  ],
+  "ground_path_stone_018": [
+    5,
+    30
+  ],
+  "ground_path_stone_019": [
+    5,
+    31
+  ],
+  "ground_path_stone_020": [
+    6,
+    0
+  ],
+  "ground_path_stone_021": [
+    6,
+    1
+  ],
+  "ground_path_stone_022": [
+    6,
+    2
+  ],
+  "ground_path_stone_023": [
+    6,
+    3
+  ],
+  "ground_path_stone_024": [
+    6,
+    4
+  ],
+  "ground_path_stone_025": [
+    6,
+    5
+  ],
+  "ground_path_stone_026": [
+    6,
+    6
+  ],
+  "ground_path_stone_027": [
+    6,
+    7
+  ],
+  "ground_path_stone_028": [
+    6,
+    8
+  ],
+  "ground_path_stone_029": [
+    6,
+    9
+  ],
+  "ground_path_stone_030": [
+    6,
+    10
+  ],
+  "ground_path_stone_031": [
+    6,
+    11
+  ],
+  "ground_path_stone_032": [
+    6,
+    12
+  ],
+  "ground_path_stone_033": [
+    6,
+    13
+  ],
+  "ground_path_stone_034": [
+    6,
+    14
+  ],
+  "ground_path_stone_035": [
+    6,
+    15
+  ],
+  "ground_path_stone_036": [
+    6,
+    16
+  ],
+  "ground_path_stone_037": [
+    6,
+    17
+  ],
+  "ground_path_stone_038": [
+    6,
+    18
+  ],
+  "ground_path_stone_039": [
+    6,
+    19
+  ],
+  "ground_path_stone_040": [
+    6,
+    20
+  ],
+  "ground_path_stone_041": [
+    6,
+    21
+  ],
+  "ground_path_stone_042": [
+    6,
+    22
+  ],
+  "ground_path_stone_043": [
+    6,
+    23
+  ],
+  "ground_path_stone_044": [
+    6,
+    24
+  ],
+  "ground_sand_000": [
+    6,
+    25
+  ],
+  "ground_sand_001": [
+    6,
+    26
+  ],
+  "ground_sand_002": [
+    6,
+    27
+  ],
+  "ground_sand_003": [
+    6,
+    28
+  ],
+  "ground_sand_004": [
+    6,
+    29
+  ],
+  "ground_sand_005": [
+    6,
+    30
+  ],
+  "ground_sand_006": [
+    6,
+    31
+  ],
+  "ground_sand_007": [
+    7,
+    0
+  ],
+  "ground_sand_008": [
+    7,
+    1
+  ],
+  "ground_sand_009": [
+    7,
+    2
+  ],
+  "ground_sand_010": [
+    7,
+    3
+  ],
+  "ground_sand_011": [
+    7,
+    4
+  ],
+  "ground_sand_012": [
+    7,
+    5
+  ],
+  "ground_sand_013": [
+    7,
+    6
+  ],
+  "ground_sand_014": [
+    7,
+    7
+  ],
+  "ground_sand_015": [
+    7,
+    8
+  ],
+  "ground_sand_016": [
+    7,
+    9
+  ],
+  "ground_sand_017": [
+    7,
+    10
+  ],
+  "ground_sand_018": [
+    7,
+    11
+  ],
+  "ground_sand_019": [
+    7,
+    12
+  ],
+  "ground_sand_020": [
+    7,
+    13
+  ],
+  "ground_sand_021": [
+    7,
+    14
+  ],
+  "ground_sand_022": [
+    7,
+    15
+  ],
+  "ground_sand_023": [
+    7,
+    16
+  ],
+  "ground_sand_024": [
+    7,
+    17
+  ],
+  "ground_sand_025": [
+    7,
+    18
+  ],
+  "ground_sand_026": [
+    7,
+    19
+  ],
+  "ground_sand_027": [
+    7,
+    20
+  ],
+  "ground_sand_028": [
+    7,
+    21
+  ],
+  "ground_sand_029": [
+    7,
+    22
+  ],
+  "ground_snow_000": [
+    7,
+    23
+  ],
+  "ground_snow_001": [
+    7,
+    24
+  ],
+  "ground_snow_002": [
+    7,
+    25
+  ],
+  "ground_snow_003": [
+    7,
+    26
+  ],
+  "ground_snow_004": [
+    7,
+    27
+  ],
+  "ground_snow_005": [
+    7,
+    28
+  ],
+  "ground_snow_006": [
+    7,
+    29
+  ],
+  "ground_snow_007": [
+    7,
+    30
+  ],
+  "ground_snow_008": [
+    7,
+    31
+  ],
+  "ground_snow_009": [
+    8,
+    0
+  ],
+  "ground_snow_010": [
+    8,
+    1
+  ],
+  "ground_snow_011": [
+    8,
+    2
+  ],
+  "ground_snow_012": [
+    8,
+    3
+  ],
+  "ground_snow_013": [
+    8,
+    4
+  ],
+  "ground_snow_014": [
+    8,
+    5
+  ],
+  "ground_snow_015": [
+    8,
+    6
+  ],
+  "ground_snow_016": [
+    8,
+    7
+  ],
+  "ground_snow_017": [
+    8,
+    8
+  ],
+  "ground_snow_018": [
+    8,
+    9
+  ],
+  "ground_snow_019": [
+    8,
+    10
+  ],
+  "ground_snow_020": [
+    8,
+    11
+  ],
+  "ground_snow_021": [
+    8,
+    12
+  ],
+  "ground_snow_022": [
+    8,
+    13
+  ],
+  "ground_snow_023": [
+    8,
+    14
+  ],
+  "ground_snow_024": [
+    8,
+    15
+  ],
+  "ground_snow_025": [
+    8,
+    16
+  ],
+  "ground_snow_026": [
+    8,
+    17
+  ],
+  "ground_snow_027": [
+    8,
+    18
+  ],
+  "ground_snow_028": [
+    8,
+    19
+  ],
+  "ground_snow_029": [
+    8,
+    20
+  ],
+  "ground_ice_000": [
+    8,
+    21
+  ],
+  "ground_ice_001": [
+    8,
+    22
+  ],
+  "ground_ice_002": [
+    8,
+    23
+  ],
+  "ground_ice_003": [
+    8,
+    24
+  ],
+  "ground_ice_004": [
+    8,
+    25
+  ],
+  "ground_ice_005": [
+    8,
+    26
+  ],
+  "ground_ice_006": [
+    8,
+    27
+  ],
+  "ground_ice_007": [
+    8,
+    28
+  ],
+  "ground_ice_008": [
+    8,
+    29
+  ],
+  "ground_ice_009": [
+    8,
+    30
+  ],
+  "ground_ice_010": [
+    8,
+    31
+  ],
+  "ground_ice_011": [
+    9,
+    0
+  ],
+  "ground_ice_012": [
+    9,
+    1
+  ],
+  "ground_ice_013": [
+    9,
+    2
+  ],
+  "ground_ice_014": [
+    9,
+    3
+  ],
+  "ground_ice_015": [
+    9,
+    4
+  ],
+  "ground_ice_016": [
+    9,
+    5
+  ],
+  "ground_ice_017": [
+    9,
+    6
+  ],
+  "ground_ice_018": [
+    9,
+    7
+  ],
+  "ground_ice_019": [
+    9,
+    8
+  ],
+  "ground_ice_020": [
+    9,
+    9
+  ],
+  "ground_ice_021": [
+    9,
+    10
+  ],
+  "ground_ice_022": [
+    9,
+    11
+  ],
+  "ground_ice_023": [
+    9,
+    12
+  ],
+  "ground_ice_024": [
+    9,
+    13
+  ],
+  "ground_cave_000": [
+    9,
+    14
+  ],
+  "ground_cave_001": [
+    9,
+    15
+  ],
+  "ground_cave_002": [
+    9,
+    16
+  ],
+  "ground_cave_003": [
+    9,
+    17
+  ],
+  "ground_cave_004": [
+    9,
+    18
+  ],
+  "ground_cave_005": [
+    9,
+    19
+  ],
+  "ground_cave_006": [
+    9,
+    20
+  ],
+  "ground_cave_007": [
+    9,
+    21
+  ],
+  "ground_cave_008": [
+    9,
+    22
+  ],
+  "ground_cave_009": [
+    9,
+    23
+  ],
+  "ground_cave_010": [
+    9,
+    24
+  ],
+  "ground_cave_011": [
+    9,
+    25
+  ],
+  "ground_cave_012": [
+    9,
+    26
+  ],
+  "ground_cave_013": [
+    9,
+    27
+  ],
+  "ground_cave_014": [
+    9,
+    28
+  ],
+  "ground_cave_015": [
+    9,
+    29
+  ],
+  "ground_cave_016": [
+    9,
+    30
+  ],
+  "ground_cave_017": [
+    9,
+    31
+  ],
+  "ground_cave_018": [
+    10,
+    0
+  ],
+  "ground_cave_019": [
+    10,
+    1
+  ],
+  "ground_cave_020": [
+    10,
+    2
+  ],
+  "ground_cave_021": [
+    10,
+    3
+  ],
+  "ground_cave_022": [
+    10,
+    4
+  ],
+  "ground_cave_023": [
+    10,
+    5
+  ],
+  "ground_cave_024": [
+    10,
+    6
+  ],
+  "ground_cave_025": [
+    10,
+    7
+  ],
+  "ground_cave_026": [
+    10,
+    8
+  ],
+  "ground_cave_027": [
+    10,
+    9
+  ],
+  "ground_cave_028": [
+    10,
+    10
+  ],
+  "ground_cave_029": [
+    10,
+    11
+  ],
+  "ground_cave_030": [
+    10,
+    12
+  ],
+  "ground_cave_031": [
+    10,
+    13
+  ],
+  "ground_cave_032": [
+    10,
+    14
+  ],
+  "ground_cave_033": [
+    10,
+    15
+  ],
+  "ground_cave_034": [
+    10,
+    16
+  ],
+  "ground_cave_035": [
+    10,
+    17
+  ],
+  "ground_cave_036": [
+    10,
+    18
+  ],
+  "ground_cave_037": [
+    10,
+    19
+  ],
+  "ground_cave_038": [
+    10,
+    20
+  ],
+  "ground_cave_039": [
+    10,
+    21
+  ],
+  "ground_ruin_000": [
+    10,
+    22
+  ],
+  "ground_ruin_001": [
+    10,
+    23
+  ],
+  "ground_ruin_002": [
+    10,
+    24
+  ],
+  "ground_ruin_003": [
+    10,
+    25
+  ],
+  "ground_ruin_004": [
+    10,
+    26
+  ],
+  "ground_ruin_005": [
+    10,
+    27
+  ],
+  "ground_ruin_006": [
+    10,
+    28
+  ],
+  "ground_ruin_007": [
+    10,
+    29
+  ],
+  "ground_ruin_008": [
+    10,
+    30
+  ],
+  "ground_ruin_009": [
+    10,
+    31
+  ],
+  "ground_ruin_010": [
+    11,
+    0
+  ],
+  "ground_ruin_011": [
+    11,
+    1
+  ],
+  "ground_ruin_012": [
+    11,
+    2
+  ],
+  "ground_ruin_013": [
+    11,
+    3
+  ],
+  "ground_ruin_014": [
+    11,
+    4
+  ],
+  "ground_ruin_015": [
+    11,
+    5
+  ],
+  "ground_ruin_016": [
+    11,
+    6
+  ],
+  "ground_ruin_017": [
+    11,
+    7
+  ],
+  "ground_ruin_018": [
+    11,
+    8
+  ],
+  "ground_ruin_019": [
+    11,
+    9
+  ],
+  "ground_ruin_020": [
+    11,
+    10
+  ],
+  "ground_ruin_021": [
+    11,
+    11
+  ],
+  "ground_ruin_022": [
+    11,
+    12
+  ],
+  "ground_ruin_023": [
+    11,
+    13
+  ],
+  "ground_ruin_024": [
+    11,
+    14
+  ],
+  "ground_ruin_025": [
+    11,
+    15
+  ],
+  "ground_ruin_026": [
+    11,
+    16
+  ],
+  "ground_ruin_027": [
+    11,
+    17
+  ],
+  "ground_ruin_028": [
+    11,
+    18
+  ],
+  "ground_ruin_029": [
+    11,
+    19
+  ],
+  "ground_ruin_030": [
+    11,
+    20
+  ],
+  "ground_ruin_031": [
+    11,
+    21
+  ],
+  "ground_ruin_032": [
+    11,
+    22
+  ],
+  "ground_ruin_033": [
+    11,
+    23
+  ],
+  "ground_ruin_034": [
+    11,
+    24
+  ],
+  "ground_jungle_000": [
+    11,
+    25
+  ],
+  "ground_jungle_001": [
+    11,
+    26
+  ],
+  "ground_jungle_002": [
+    11,
+    27
+  ],
+  "ground_jungle_003": [
+    11,
+    28
+  ],
+  "ground_jungle_004": [
+    11,
+    29
+  ],
+  "ground_jungle_005": [
+    11,
+    30
+  ],
+  "ground_jungle_006": [
+    11,
+    31
+  ],
+  "ground_jungle_007": [
+    12,
+    0
+  ],
+  "ground_jungle_008": [
+    12,
+    1
+  ],
+  "ground_jungle_009": [
+    12,
+    2
+  ],
+  "ground_jungle_010": [
+    12,
+    3
+  ],
+  "ground_jungle_011": [
+    12,
+    4
+  ],
+  "ground_jungle_012": [
+    12,
+    5
+  ],
+  "ground_jungle_013": [
+    12,
+    6
+  ],
+  "ground_jungle_014": [
+    12,
+    7
+  ],
+  "ground_jungle_015": [
+    12,
+    8
+  ],
+  "ground_jungle_016": [
+    12,
+    9
+  ],
+  "ground_jungle_017": [
+    12,
+    10
+  ],
+  "ground_jungle_018": [
+    12,
+    11
+  ],
+  "ground_jungle_019": [
+    12,
+    12
+  ],
+  "ground_jungle_020": [
+    12,
+    13
+  ],
+  "ground_jungle_021": [
+    12,
+    14
+  ],
+  "ground_jungle_022": [
+    12,
+    15
+  ],
+  "ground_jungle_023": [
+    12,
+    16
+  ],
+  "ground_jungle_024": [
+    12,
+    17
+  ],
+  "ground_jungle_025": [
+    12,
+    18
+  ],
+  "ground_jungle_026": [
+    12,
+    19
+  ],
+  "ground_jungle_027": [
+    12,
+    20
+  ],
+  "ground_jungle_028": [
+    12,
+    21
+  ],
+  "ground_jungle_029": [
+    12,
+    22
+  ],
+  "ground_jungle_030": [
+    12,
+    23
+  ],
+  "ground_jungle_031": [
+    12,
+    24
+  ],
+  "ground_jungle_032": [
+    12,
+    25
+  ],
+  "ground_jungle_033": [
+    12,
+    26
+  ],
+  "ground_jungle_034": [
+    12,
+    27
+  ],
+  "ground_desert_000": [
+    12,
+    28
+  ],
+  "ground_desert_001": [
+    12,
+    29
+  ],
+  "ground_desert_002": [
+    12,
+    30
+  ],
+  "ground_desert_003": [
+    12,
+    31
+  ],
+  "ground_desert_004": [
+    13,
+    0
+  ],
+  "ground_desert_005": [
+    13,
+    1
+  ],
+  "ground_desert_006": [
+    13,
+    2
+  ],
+  "ground_desert_007": [
+    13,
+    3
+  ],
+  "ground_desert_008": [
+    13,
+    4
+  ],
+  "ground_desert_009": [
+    13,
+    5
+  ],
+  "ground_desert_010": [
+    13,
+    6
+  ],
+  "ground_desert_011": [
+    13,
+    7
+  ],
+  "ground_desert_012": [
+    13,
+    8
+  ],
+  "ground_desert_013": [
+    13,
+    9
+  ],
+  "ground_desert_014": [
+    13,
+    10
+  ],
+  "ground_desert_015": [
+    13,
+    11
+  ],
+  "ground_desert_016": [
+    13,
+    12
+  ],
+  "ground_desert_017": [
+    13,
+    13
+  ],
+  "ground_desert_018": [
+    13,
+    14
+  ],
+  "ground_desert_019": [
+    13,
+    15
+  ],
+  "ground_desert_020": [
+    13,
+    16
+  ],
+  "ground_desert_021": [
+    13,
+    17
+  ],
+  "ground_desert_022": [
+    13,
+    18
+  ],
+  "ground_desert_023": [
+    13,
+    19
+  ],
+  "ground_desert_024": [
+    13,
+    20
+  ],
+  "water_still_variant_000": [
+    13,
+    21
+  ],
+  "water_still_variant_001": [
+    13,
+    22
+  ],
+  "water_still_variant_002": [
+    13,
+    23
+  ],
+  "water_still_variant_003": [
+    13,
+    24
+  ],
+  "water_still_variant_004": [
+    13,
+    25
+  ],
+  "water_still_variant_005": [
+    13,
+    26
+  ],
+  "water_still_variant_006": [
+    13,
+    27
+  ],
+  "water_still_variant_007": [
+    13,
+    28
+  ],
+  "water_still_variant_008": [
+    13,
+    29
+  ],
+  "water_still_variant_009": [
+    13,
+    30
+  ],
+  "water_still_variant_010": [
+    13,
+    31
+  ],
+  "water_still_variant_011": [
+    14,
+    0
+  ],
+  "water_still_variant_012": [
+    14,
+    1
+  ],
+  "water_still_variant_013": [
+    14,
+    2
+  ],
+  "water_still_variant_014": [
+    14,
+    3
+  ],
+  "water_still_variant_015": [
+    14,
+    4
+  ],
+  "water_still_variant_016": [
+    14,
+    5
+  ],
+  "water_still_variant_017": [
+    14,
+    6
+  ],
+  "water_still_variant_018": [
+    14,
+    7
+  ],
+  "water_still_variant_019": [
+    14,
+    8
+  ],
+  "water_still_variant_020": [
+    14,
+    9
+  ],
+  "water_still_variant_021": [
+    14,
+    10
+  ],
+  "water_still_variant_022": [
+    14,
+    11
+  ],
+  "water_still_variant_023": [
+    14,
+    12
+  ],
+  "water_wave_variant_000": [
+    14,
+    13
+  ],
+  "water_wave_variant_001": [
+    14,
+    14
+  ],
+  "water_wave_variant_002": [
+    14,
+    15
+  ],
+  "water_wave_variant_003": [
+    14,
+    16
+  ],
+  "water_wave_variant_004": [
+    14,
+    17
+  ],
+  "water_wave_variant_005": [
+    14,
+    18
+  ],
+  "water_wave_variant_006": [
+    14,
+    19
+  ],
+  "water_wave_variant_007": [
+    14,
+    20
+  ],
+  "water_wave_variant_008": [
+    14,
+    21
+  ],
+  "water_wave_variant_009": [
+    14,
+    22
+  ],
+  "water_wave_variant_010": [
+    14,
+    23
+  ],
+  "water_wave_variant_011": [
+    14,
+    24
+  ],
+  "water_wave_variant_012": [
+    14,
+    25
+  ],
+  "water_wave_variant_013": [
+    14,
+    26
+  ],
+  "water_wave_variant_014": [
+    14,
+    27
+  ],
+  "water_wave_variant_015": [
+    14,
+    28
+  ],
+  "water_wave_variant_016": [
+    14,
+    29
+  ],
+  "water_wave_variant_017": [
+    14,
+    30
+  ],
+  "water_wave_variant_018": [
+    14,
+    31
+  ],
+  "water_wave_variant_019": [
+    15,
+    0
+  ],
+  "water_wave_variant_020": [
+    15,
+    1
+  ],
+  "water_wave_variant_021": [
+    15,
+    2
+  ],
+  "water_wave_variant_022": [
+    15,
+    3
+  ],
+  "water_wave_variant_023": [
+    15,
+    4
+  ],
+  "water_wave_variant_024": [
+    15,
+    5
+  ],
+  "water_wave_variant_025": [
+    15,
+    6
+  ],
+  "water_wave_variant_026": [
+    15,
+    7
+  ],
+  "water_wave_variant_027": [
+    15,
+    8
+  ],
+  "water_edge_000": [
+    15,
+    9
+  ],
+  "water_edge_001": [
+    15,
+    10
+  ],
+  "water_edge_002": [
+    15,
+    11
+  ],
+  "water_edge_003": [
+    15,
+    12
+  ],
+  "water_edge_004": [
+    15,
+    13
+  ],
+  "water_edge_005": [
+    15,
+    14
+  ],
+  "water_edge_006": [
+    15,
+    15
+  ],
+  "water_edge_007": [
+    15,
+    16
+  ],
+  "water_edge_008": [
+    15,
+    17
+  ],
+  "water_edge_009": [
+    15,
+    18
+  ],
+  "water_edge_010": [
+    15,
+    19
+  ],
+  "water_edge_011": [
+    15,
+    20
+  ],
+  "water_edge_012": [
+    15,
+    21
+  ],
+  "water_edge_013": [
+    15,
+    22
+  ],
+  "water_edge_014": [
+    15,
+    23
+  ],
+  "water_edge_015": [
+    15,
+    24
+  ],
+  "water_edge_016": [
+    15,
+    25
+  ],
+  "water_edge_017": [
+    15,
+    26
+  ],
+  "water_edge_018": [
+    15,
+    27
+  ],
+  "water_edge_019": [
+    15,
+    28
+  ],
+  "water_edge_020": [
+    15,
+    29
+  ],
+  "water_edge_021": [
+    15,
+    30
+  ],
+  "water_edge_022": [
+    15,
+    31
+  ],
+  "water_edge_023": [
+    16,
+    0
+  ],
+  "water_edge_024": [
+    16,
+    1
+  ],
+  "water_edge_025": [
+    16,
+    2
+  ],
+  "water_edge_026": [
+    16,
+    3
+  ],
+  "water_edge_027": [
+    16,
+    4
+  ],
+  "waterfall_000": [
+    16,
+    5
+  ],
+  "waterfall_001": [
+    16,
+    6
+  ],
+  "waterfall_002": [
+    16,
+    7
+  ],
+  "waterfall_003": [
+    16,
+    8
+  ],
+  "waterfall_004": [
+    16,
+    9
+  ],
+  "waterfall_005": [
+    16,
+    10
+  ],
+  "waterfall_006": [
+    16,
+    11
+  ],
+  "waterfall_007": [
+    16,
+    12
+  ],
+  "waterfall_008": [
+    16,
+    13
+  ],
+  "waterfall_009": [
+    16,
+    14
+  ],
+  "waterfall_010": [
+    16,
+    15
+  ],
+  "waterfall_011": [
+    16,
+    16
+  ],
+  "waterfall_012": [
+    16,
+    17
+  ],
+  "waterfall_013": [
+    16,
+    18
+  ],
+  "waterfall_014": [
+    16,
+    19
+  ],
+  "waterfall_015": [
+    16,
+    20
+  ],
+  "vegetation_tree_000": [
+    16,
+    21
+  ],
+  "vegetation_tree_001": [
+    16,
+    22
+  ],
+  "vegetation_tree_002": [
+    16,
+    23
+  ],
+  "vegetation_tree_003": [
+    16,
+    24
+  ],
+  "vegetation_tree_004": [
+    16,
+    25
+  ],
+  "vegetation_tree_005": [
+    16,
+    26
+  ],
+  "vegetation_tree_006": [
+    16,
+    27
+  ],
+  "vegetation_tree_007": [
+    16,
+    28
+  ],
+  "vegetation_tree_008": [
+    16,
+    29
+  ],
+  "vegetation_tree_009": [
+    16,
+    30
+  ],
+  "vegetation_tree_010": [
+    16,
+    31
+  ],
+  "vegetation_tree_011": [
+    17,
+    0
+  ],
+  "vegetation_tree_012": [
+    17,
+    1
+  ],
+  "vegetation_tree_013": [
+    17,
+    2
+  ],
+  "vegetation_tree_014": [
+    17,
+    3
+  ],
+  "vegetation_tree_015": [
+    17,
+    4
+  ],
+  "vegetation_tree_016": [
+    17,
+    5
+  ],
+  "vegetation_tree_017": [
+    17,
+    6
+  ],
+  "vegetation_tree_018": [
+    17,
+    7
+  ],
+  "vegetation_tree_019": [
+    17,
+    8
+  ],
+  "vegetation_tree_020": [
+    17,
+    9
+  ],
+  "vegetation_tree_021": [
+    17,
+    10
+  ],
+  "vegetation_tree_022": [
+    17,
+    11
+  ],
+  "vegetation_tree_023": [
+    17,
+    12
+  ],
+  "vegetation_tree_024": [
+    17,
+    13
+  ],
+  "vegetation_tree_025": [
+    17,
+    14
+  ],
+  "vegetation_tree_026": [
+    17,
+    15
+  ],
+  "vegetation_tree_027": [
+    17,
+    16
+  ],
+  "vegetation_tree_028": [
+    17,
+    17
+  ],
+  "vegetation_tree_029": [
+    17,
+    18
+  ],
+  "vegetation_tree_030": [
+    17,
+    19
+  ],
+  "vegetation_tree_031": [
+    17,
+    20
+  ],
+  "vegetation_tree_032": [
+    17,
+    21
+  ],
+  "vegetation_tree_033": [
+    17,
+    22
+  ],
+  "vegetation_tree_034": [
+    17,
+    23
+  ],
+  "vegetation_tree_035": [
+    17,
+    24
+  ],
+  "vegetation_tree_036": [
+    17,
+    25
+  ],
+  "vegetation_tree_037": [
+    17,
+    26
+  ],
+  "vegetation_tree_038": [
+    17,
+    27
+  ],
+  "vegetation_tree_039": [
+    17,
+    28
+  ],
+  "vegetation_tree_040": [
+    17,
+    29
+  ],
+  "vegetation_tree_041": [
+    17,
+    30
+  ],
+  "vegetation_tree_042": [
+    17,
+    31
+  ],
+  "vegetation_tree_043": [
+    18,
+    0
+  ],
+  "vegetation_tree_044": [
+    18,
+    1
+  ],
+  "vegetation_tree_045": [
+    18,
+    2
+  ],
+  "vegetation_tree_046": [
+    18,
+    3
+  ],
+  "vegetation_tree_047": [
+    18,
+    4
+  ],
+  "vegetation_tree_048": [
+    18,
+    5
+  ],
+  "vegetation_tree_049": [
+    18,
+    6
+  ],
+  "vegetation_tree_050": [
+    18,
+    7
+  ],
+  "vegetation_tree_051": [
+    18,
+    8
+  ],
+  "vegetation_tree_052": [
+    18,
+    9
+  ],
+  "vegetation_tree_053": [
+    18,
+    10
+  ],
+  "vegetation_tree_054": [
+    18,
+    11
+  ],
+  "vegetation_tree_055": [
+    18,
+    12
+  ],
+  "vegetation_tree_056": [
+    18,
+    13
+  ],
+  "vegetation_tree_057": [
+    18,
+    14
+  ],
+  "vegetation_tree_058": [
+    18,
+    15
+  ],
+  "vegetation_tree_059": [
+    18,
+    16
+  ],
+  "vegetation_tree_060": [
+    18,
+    17
+  ],
+  "vegetation_tree_061": [
+    18,
+    18
+  ],
+  "vegetation_tree_062": [
+    18,
+    19
+  ],
+  "vegetation_tree_063": [
+    18,
+    20
+  ],
+  "vegetation_tree_064": [
+    18,
+    21
+  ],
+  "vegetation_tree_065": [
+    18,
+    22
+  ],
+  "vegetation_tree_066": [
+    18,
+    23
+  ],
+  "vegetation_tree_067": [
+    18,
+    24
+  ],
+  "vegetation_tree_068": [
+    18,
+    25
+  ],
+  "vegetation_tree_069": [
+    18,
+    26
+  ],
+  "vegetation_tree_070": [
+    18,
+    27
+  ],
+  "vegetation_tree_071": [
+    18,
+    28
+  ],
+  "vegetation_tree_072": [
+    18,
+    29
+  ],
+  "vegetation_tree_073": [
+    18,
+    30
+  ],
+  "vegetation_tree_074": [
+    18,
+    31
+  ],
+  "vegetation_tree_075": [
+    19,
+    0
+  ],
+  "vegetation_tree_076": [
+    19,
+    1
+  ],
+  "vegetation_tree_077": [
+    19,
+    2
+  ],
+  "vegetation_tree_078": [
+    19,
+    3
+  ],
+  "vegetation_tree_079": [
+    19,
+    4
+  ],
+  "vegetation_grass_000": [
+    19,
+    5
+  ],
+  "vegetation_grass_001": [
+    19,
+    6
+  ],
+  "vegetation_grass_002": [
+    19,
+    7
+  ],
+  "vegetation_grass_003": [
+    19,
+    8
+  ],
+  "vegetation_grass_004": [
+    19,
+    9
+  ],
+  "vegetation_grass_005": [
+    19,
+    10
+  ],
+  "vegetation_grass_006": [
+    19,
+    11
+  ],
+  "vegetation_grass_007": [
+    19,
+    12
+  ],
+  "vegetation_grass_008": [
+    19,
+    13
+  ],
+  "vegetation_grass_009": [
+    19,
+    14
+  ],
+  "vegetation_grass_010": [
+    19,
+    15
+  ],
+  "vegetation_grass_011": [
+    19,
+    16
+  ],
+  "vegetation_grass_012": [
+    19,
+    17
+  ],
+  "vegetation_grass_013": [
+    19,
+    18
+  ],
+  "vegetation_grass_014": [
+    19,
+    19
+  ],
+  "vegetation_grass_015": [
+    19,
+    20
+  ],
+  "vegetation_grass_016": [
+    19,
+    21
+  ],
+  "vegetation_grass_017": [
+    19,
+    22
+  ],
+  "vegetation_grass_018": [
+    19,
+    23
+  ],
+  "vegetation_grass_019": [
+    19,
+    24
+  ],
+  "vegetation_grass_020": [
+    19,
+    25
+  ],
+  "vegetation_grass_021": [
+    19,
+    26
+  ],
+  "vegetation_grass_022": [
+    19,
+    27
+  ],
+  "vegetation_grass_023": [
+    19,
+    28
+  ],
+  "vegetation_grass_024": [
+    19,
+    29
+  ],
+  "vegetation_grass_025": [
+    19,
+    30
+  ],
+  "vegetation_grass_026": [
+    19,
+    31
+  ],
+  "vegetation_grass_027": [
+    20,
+    0
+  ],
+  "vegetation_grass_028": [
+    20,
+    1
+  ],
+  "vegetation_grass_029": [
+    20,
+    2
+  ],
+  "vegetation_flower_000": [
+    20,
+    3
+  ],
+  "vegetation_flower_001": [
+    20,
+    4
+  ],
+  "vegetation_flower_002": [
+    20,
+    5
+  ],
+  "vegetation_flower_003": [
+    20,
+    6
+  ],
+  "vegetation_flower_004": [
+    20,
+    7
+  ],
+  "vegetation_flower_005": [
+    20,
+    8
+  ],
+  "vegetation_flower_006": [
+    20,
+    9
+  ],
+  "vegetation_flower_007": [
+    20,
+    10
+  ],
+  "vegetation_flower_008": [
+    20,
+    11
+  ],
+  "vegetation_flower_009": [
+    20,
+    12
+  ],
+  "vegetation_flower_010": [
+    20,
+    13
+  ],
+  "vegetation_flower_011": [
+    20,
+    14
+  ],
+  "vegetation_flower_012": [
+    20,
+    15
+  ],
+  "vegetation_flower_013": [
+    20,
+    16
+  ],
+  "vegetation_flower_014": [
+    20,
+    17
+  ],
+  "vegetation_flower_015": [
+    20,
+    18
+  ],
+  "vegetation_flower_016": [
+    20,
+    19
+  ],
+  "vegetation_flower_017": [
+    20,
+    20
+  ],
+  "vegetation_flower_018": [
+    20,
+    21
+  ],
+  "vegetation_flower_019": [
+    20,
+    22
+  ],
+  "vegetation_flower_020": [
+    20,
+    23
+  ],
+  "vegetation_flower_021": [
+    20,
+    24
+  ],
+  "vegetation_flower_022": [
+    20,
+    25
+  ],
+  "vegetation_flower_023": [
+    20,
+    26
+  ],
+  "vegetation_bush_000": [
+    20,
+    27
+  ],
+  "vegetation_bush_001": [
+    20,
+    28
+  ],
+  "vegetation_bush_002": [
+    20,
+    29
+  ],
+  "vegetation_bush_003": [
+    20,
+    30
+  ],
+  "vegetation_bush_004": [
+    20,
+    31
+  ],
+  "vegetation_bush_005": [
+    21,
+    0
+  ],
+  "vegetation_bush_006": [
+    21,
+    1
+  ],
+  "vegetation_bush_007": [
+    21,
+    2
+  ],
+  "vegetation_bush_008": [
+    21,
+    3
+  ],
+  "vegetation_bush_009": [
+    21,
+    4
+  ],
+  "vegetation_bush_010": [
+    21,
+    5
+  ],
+  "vegetation_bush_011": [
+    21,
+    6
+  ],
+  "vegetation_bush_012": [
+    21,
+    7
+  ],
+  "vegetation_bush_013": [
+    21,
+    8
+  ],
+  "vegetation_bush_014": [
+    21,
+    9
+  ],
+  "vegetation_bush_015": [
+    21,
+    10
+  ],
+  "vegetation_bush_016": [
+    21,
+    11
+  ],
+  "vegetation_bush_017": [
+    21,
+    12
+  ],
+  "vegetation_bush_018": [
+    21,
+    13
+  ],
+  "vegetation_bush_019": [
+    21,
+    14
+  ],
+  "vegetation_bush_020": [
+    21,
+    15
+  ],
+  "vegetation_bush_021": [
+    21,
+    16
+  ],
+  "vegetation_bush_022": [
+    21,
+    17
+  ],
+  "vegetation_bush_023": [
+    21,
+    18
+  ],
+  "vegetation_bush_024": [
+    21,
+    19
+  ],
+  "vegetation_bush_025": [
+    21,
+    20
+  ],
+  "vegetation_bush_026": [
+    21,
+    21
+  ],
+  "vegetation_bush_027": [
+    21,
+    22
+  ],
+  "vegetation_special_000": [
+    21,
+    23
+  ],
+  "vegetation_special_001": [
+    21,
+    24
+  ],
+  "vegetation_special_002": [
+    21,
+    25
+  ],
+  "vegetation_special_003": [
+    21,
+    26
+  ],
+  "vegetation_special_004": [
+    21,
+    27
+  ],
+  "vegetation_special_005": [
+    21,
+    28
+  ],
+  "vegetation_special_006": [
+    21,
+    29
+  ],
+  "vegetation_special_007": [
+    21,
+    30
+  ],
+  "vegetation_special_008": [
+    21,
+    31
+  ],
+  "vegetation_special_009": [
+    22,
+    0
+  ],
+  "vegetation_special_010": [
+    22,
+    1
+  ],
+  "vegetation_special_011": [
+    22,
+    2
+  ],
+  "vegetation_special_012": [
+    22,
+    3
+  ],
+  "vegetation_special_013": [
+    22,
+    4
+  ],
+  "vegetation_special_014": [
+    22,
+    5
+  ],
+  "vegetation_special_015": [
+    22,
+    6
+  ],
+  "vegetation_special_016": [
+    22,
+    7
+  ],
+  "vegetation_special_017": [
+    22,
+    8
+  ],
+  "vegetation_special_018": [
+    22,
+    9
+  ],
+  "vegetation_special_019": [
+    22,
+    10
+  ],
+  "vegetation_special_020": [
+    22,
+    11
+  ],
+  "vegetation_special_021": [
+    22,
+    12
+  ],
+  "vegetation_special_022": [
+    22,
+    13
+  ],
+  "vegetation_special_023": [
+    22,
+    14
+  ],
+  "building_wall_000": [
+    22,
+    15
+  ],
+  "building_wall_001": [
+    22,
+    16
+  ],
+  "building_wall_002": [
+    22,
+    17
+  ],
+  "building_wall_003": [
+    22,
+    18
+  ],
+  "building_wall_004": [
+    22,
+    19
+  ],
+  "building_wall_005": [
+    22,
+    20
+  ],
+  "building_wall_006": [
+    22,
+    21
+  ],
+  "building_wall_007": [
+    22,
+    22
+  ],
+  "building_wall_008": [
+    22,
+    23
+  ],
+  "building_wall_009": [
+    22,
+    24
+  ],
+  "building_wall_010": [
+    22,
+    25
+  ],
+  "building_wall_011": [
+    22,
+    26
+  ],
+  "building_wall_012": [
+    22,
+    27
+  ],
+  "building_wall_013": [
+    22,
+    28
+  ],
+  "building_wall_014": [
+    22,
+    29
+  ],
+  "building_wall_015": [
+    22,
+    30
+  ],
+  "building_wall_016": [
+    22,
+    31
+  ],
+  "building_wall_017": [
+    23,
+    0
+  ],
+  "building_wall_018": [
+    23,
+    1
+  ],
+  "building_wall_019": [
+    23,
+    2
+  ],
+  "building_wall_020": [
+    23,
+    3
+  ],
+  "building_wall_021": [
+    23,
+    4
+  ],
+  "building_wall_022": [
+    23,
+    5
+  ],
+  "building_wall_023": [
+    23,
+    6
+  ],
+  "building_wall_024": [
+    23,
+    7
+  ],
+  "building_wall_025": [
+    23,
+    8
+  ],
+  "building_wall_026": [
+    23,
+    9
+  ],
+  "building_wall_027": [
+    23,
+    10
+  ],
+  "building_wall_028": [
+    23,
+    11
+  ],
+  "building_wall_029": [
+    23,
+    12
+  ],
+  "building_wall_030": [
+    23,
+    13
+  ],
+  "building_wall_031": [
+    23,
+    14
+  ],
+  "building_wall_032": [
+    23,
+    15
+  ],
+  "building_wall_033": [
+    23,
+    16
+  ],
+  "building_wall_034": [
+    23,
+    17
+  ],
+  "building_wall_035": [
+    23,
+    18
+  ],
+  "building_wall_036": [
+    23,
+    19
+  ],
+  "building_wall_037": [
+    23,
+    20
+  ],
+  "building_wall_038": [
+    23,
+    21
+  ],
+  "building_wall_039": [
+    23,
+    22
+  ],
+  "building_wall_040": [
+    23,
+    23
+  ],
+  "building_wall_041": [
+    23,
+    24
+  ],
+  "building_wall_042": [
+    23,
+    25
+  ],
+  "building_wall_043": [
+    23,
+    26
+  ],
+  "building_wall_044": [
+    23,
+    27
+  ],
+  "building_wall_045": [
+    23,
+    28
+  ],
+  "building_wall_046": [
+    23,
+    29
+  ],
+  "building_wall_047": [
+    23,
+    30
+  ],
+  "building_wall_048": [
+    23,
+    31
+  ],
+  "building_wall_049": [
+    24,
+    0
+  ],
+  "building_wall_050": [
+    24,
+    1
+  ],
+  "building_wall_051": [
+    24,
+    2
+  ],
+  "building_wall_052": [
+    24,
+    3
+  ],
+  "building_wall_053": [
+    24,
+    4
+  ],
+  "building_wall_054": [
+    24,
+    5
+  ],
+  "building_wall_055": [
+    24,
+    6
+  ],
+  "building_wall_056": [
+    24,
+    7
+  ],
+  "building_wall_057": [
+    24,
+    8
+  ],
+  "building_wall_058": [
+    24,
+    9
+  ],
+  "building_wall_059": [
+    24,
+    10
+  ],
+  "building_wall_060": [
+    24,
+    11
+  ],
+  "building_wall_061": [
+    24,
+    12
+  ],
+  "building_wall_062": [
+    24,
+    13
+  ],
+  "building_wall_063": [
+    24,
+    14
+  ],
+  "building_wall_064": [
+    24,
+    15
+  ],
+  "building_wall_065": [
+    24,
+    16
+  ],
+  "building_wall_066": [
+    24,
+    17
+  ],
+  "building_wall_067": [
+    24,
+    18
+  ],
+  "building_wall_068": [
+    24,
+    19
+  ],
+  "building_wall_069": [
+    24,
+    20
+  ],
+  "building_roof_000": [
+    24,
+    21
+  ],
+  "building_roof_001": [
+    24,
+    22
+  ],
+  "building_roof_002": [
+    24,
+    23
+  ],
+  "building_roof_003": [
+    24,
+    24
+  ],
+  "building_roof_004": [
+    24,
+    25
+  ],
+  "building_roof_005": [
+    24,
+    26
+  ],
+  "building_roof_006": [
+    24,
+    27
+  ],
+  "building_roof_007": [
+    24,
+    28
+  ],
+  "building_roof_008": [
+    24,
+    29
+  ],
+  "building_roof_009": [
+    24,
+    30
+  ],
+  "building_roof_010": [
+    24,
+    31
+  ],
+  "building_roof_011": [
+    25,
+    0
+  ],
+  "building_roof_012": [
+    25,
+    1
+  ],
+  "building_roof_013": [
+    25,
+    2
+  ],
+  "building_roof_014": [
+    25,
+    3
+  ],
+  "building_roof_015": [
+    25,
+    4
+  ],
+  "building_roof_016": [
+    25,
+    5
+  ],
+  "building_roof_017": [
+    25,
+    6
+  ],
+  "building_roof_018": [
+    25,
+    7
+  ],
+  "building_roof_019": [
+    25,
+    8
+  ],
+  "building_roof_020": [
+    25,
+    9
+  ],
+  "building_roof_021": [
+    25,
+    10
+  ],
+  "building_roof_022": [
+    25,
+    11
+  ],
+  "building_roof_023": [
+    25,
+    12
+  ],
+  "building_roof_024": [
+    25,
+    13
+  ],
+  "building_roof_025": [
+    25,
+    14
+  ],
+  "building_roof_026": [
+    25,
+    15
+  ],
+  "building_roof_027": [
+    25,
+    16
+  ],
+  "building_roof_028": [
+    25,
+    17
+  ],
+  "building_roof_029": [
+    25,
+    18
+  ],
+  "building_roof_030": [
+    25,
+    19
+  ],
+  "building_roof_031": [
+    25,
+    20
+  ],
+  "building_roof_032": [
+    25,
+    21
+  ],
+  "building_roof_033": [
+    25,
+    22
+  ],
+  "building_roof_034": [
+    25,
+    23
+  ],
+  "building_roof_035": [
+    25,
+    24
+  ],
+  "building_roof_036": [
+    25,
+    25
+  ],
+  "building_roof_037": [
+    25,
+    26
+  ],
+  "building_roof_038": [
+    25,
+    27
+  ],
+  "building_roof_039": [
+    25,
+    28
+  ],
+  "building_roof_040": [
+    25,
+    29
+  ],
+  "building_roof_041": [
+    25,
+    30
+  ],
+  "building_roof_042": [
+    25,
+    31
+  ],
+  "building_roof_043": [
+    26,
+    0
+  ],
+  "building_roof_044": [
+    26,
+    1
+  ],
+  "building_roof_045": [
+    26,
+    2
+  ],
+  "building_roof_046": [
+    26,
+    3
+  ],
+  "building_roof_047": [
+    26,
+    4
+  ],
+  "building_roof_048": [
+    26,
+    5
+  ],
+  "building_roof_049": [
+    26,
+    6
+  ],
+  "building_roof_050": [
+    26,
+    7
+  ],
+  "building_roof_051": [
+    26,
+    8
+  ],
+  "building_roof_052": [
+    26,
+    9
+  ],
+  "building_roof_053": [
+    26,
+    10
+  ],
+  "building_roof_054": [
+    26,
+    11
+  ],
+  "building_roof_055": [
+    26,
+    12
+  ],
+  "building_roof_056": [
+    26,
+    13
+  ],
+  "building_roof_057": [
+    26,
+    14
+  ],
+  "building_door_000": [
+    26,
+    15
+  ],
+  "building_door_001": [
+    26,
+    16
+  ],
+  "building_door_002": [
+    26,
+    17
+  ],
+  "building_door_003": [
+    26,
+    18
+  ],
+  "building_door_004": [
+    26,
+    19
+  ],
+  "building_door_005": [
+    26,
+    20
+  ],
+  "building_door_006": [
+    26,
+    21
+  ],
+  "building_door_007": [
+    26,
+    22
+  ],
+  "building_door_008": [
+    26,
+    23
+  ],
+  "building_door_009": [
+    26,
+    24
+  ],
+  "building_door_010": [
+    26,
+    25
+  ],
+  "building_door_011": [
+    26,
+    26
+  ],
+  "building_door_012": [
+    26,
+    27
+  ],
+  "building_door_013": [
+    26,
+    28
+  ],
+  "building_door_014": [
+    26,
+    29
+  ],
+  "building_door_015": [
+    26,
+    30
+  ],
+  "building_door_016": [
+    26,
+    31
+  ],
+  "building_door_017": [
+    27,
+    0
+  ],
+  "building_door_018": [
+    27,
+    1
+  ],
+  "building_door_019": [
+    27,
+    2
+  ],
+  "building_door_020": [
+    27,
+    3
+  ],
+  "building_door_021": [
+    27,
+    4
+  ],
+  "building_door_022": [
+    27,
+    5
+  ],
+  "building_door_023": [
+    27,
+    6
+  ],
+  "building_window_000": [
+    27,
+    7
+  ],
+  "building_window_001": [
+    27,
+    8
+  ],
+  "building_window_002": [
+    27,
+    9
+  ],
+  "building_window_003": [
+    27,
+    10
+  ],
+  "building_window_004": [
+    27,
+    11
+  ],
+  "building_window_005": [
+    27,
+    12
+  ],
+  "building_window_006": [
+    27,
+    13
+  ],
+  "building_window_007": [
+    27,
+    14
+  ],
+  "building_window_008": [
+    27,
+    15
+  ],
+  "building_window_009": [
+    27,
+    16
+  ],
+  "building_window_010": [
+    27,
+    17
+  ],
+  "building_window_011": [
+    27,
+    18
+  ],
+  "building_window_012": [
+    27,
+    19
+  ],
+  "building_window_013": [
+    27,
+    20
+  ],
+  "building_window_014": [
+    27,
+    21
+  ],
+  "building_window_015": [
+    27,
+    22
+  ],
+  "building_window_016": [
+    27,
+    23
+  ],
+  "building_window_017": [
+    27,
+    24
+  ],
+  "building_window_018": [
+    27,
+    25
+  ],
+  "building_window_019": [
+    27,
+    26
+  ],
+  "building_window_020": [
+    27,
+    27
+  ],
+  "building_window_021": [
+    27,
+    28
+  ],
+  "building_window_022": [
+    27,
+    29
+  ],
+  "building_window_023": [
+    27,
+    30
+  ],
+  "building_fence_000": [
+    27,
+    31
+  ],
+  "building_fence_001": [
+    28,
+    0
+  ],
+  "building_fence_002": [
+    28,
+    1
+  ],
+  "building_fence_003": [
+    28,
+    2
+  ],
+  "building_fence_004": [
+    28,
+    3
+  ],
+  "building_fence_005": [
+    28,
+    4
+  ],
+  "building_fence_006": [
+    28,
+    5
+  ],
+  "building_fence_007": [
+    28,
+    6
+  ],
+  "building_fence_008": [
+    28,
+    7
+  ],
+  "building_fence_009": [
+    28,
+    8
+  ],
+  "building_fence_010": [
+    28,
+    9
+  ],
+  "building_fence_011": [
+    28,
+    10
+  ],
+  "building_fence_012": [
+    28,
+    11
+  ],
+  "building_fence_013": [
+    28,
+    12
+  ],
+  "building_fence_014": [
+    28,
+    13
+  ],
+  "building_fence_015": [
+    28,
+    14
+  ],
+  "building_fence_016": [
+    28,
+    15
+  ],
+  "building_fence_017": [
+    28,
+    16
+  ],
+  "building_fence_018": [
+    28,
+    17
+  ],
+  "building_fence_019": [
+    28,
+    18
+  ],
+  "building_fence_020": [
+    28,
+    19
+  ],
+  "building_fence_021": [
+    28,
+    20
+  ],
+  "building_fence_022": [
+    28,
+    21
+  ],
+  "building_fence_023": [
+    28,
+    22
+  ],
+  "building_rotria_000": [
+    28,
+    23
+  ],
+  "building_rotria_001": [
+    28,
+    24
+  ],
+  "building_rotria_002": [
+    28,
+    25
+  ],
+  "building_rotria_003": [
+    28,
+    26
+  ],
+  "building_rotria_004": [
+    28,
+    27
+  ],
+  "building_rotria_005": [
+    28,
+    28
+  ],
+  "building_rotria_006": [
+    28,
+    29
+  ],
+  "building_rotria_007": [
+    28,
+    30
+  ],
+  "building_rotria_008": [
+    28,
+    31
+  ],
+  "building_rotria_009": [
+    29,
+    0
+  ],
+  "building_rotria_010": [
+    29,
+    1
+  ],
+  "building_rotria_011": [
+    29,
+    2
+  ],
+  "building_rotria_012": [
+    29,
+    3
+  ],
+  "building_rotria_013": [
+    29,
+    4
+  ],
+  "building_rotria_014": [
+    29,
+    5
+  ],
+  "building_rotria_015": [
+    29,
+    6
+  ],
+  "building_rotria_016": [
+    29,
+    7
+  ],
+  "building_rotria_017": [
+    29,
+    8
+  ],
+  "building_rotria_018": [
+    29,
+    9
+  ],
+  "building_rotria_019": [
+    29,
+    10
+  ],
+  "building_rotria_020": [
+    29,
+    11
+  ],
+  "building_rotria_021": [
+    29,
+    12
+  ],
+  "building_rotria_022": [
+    29,
+    13
+  ],
+  "building_rotria_023": [
+    29,
+    14
+  ],
+  "building_rotria_024": [
+    29,
+    15
+  ],
+  "building_rotria_025": [
+    29,
+    16
+  ],
+  "building_rotria_026": [
+    29,
+    17
+  ],
+  "building_rotria_027": [
+    29,
+    18
+  ],
+  "building_rotria_028": [
+    29,
+    19
+  ],
+  "building_rotria_029": [
+    29,
+    20
+  ],
+  "building_rotria_030": [
+    29,
+    21
+  ],
+  "building_rotria_031": [
+    29,
+    22
+  ],
+  "object_rock_000": [
+    29,
+    23
+  ],
+  "object_rock_001": [
+    29,
+    24
+  ],
+  "object_rock_002": [
+    29,
+    25
+  ],
+  "object_rock_003": [
+    29,
+    26
+  ],
+  "object_rock_004": [
+    29,
+    27
+  ],
+  "object_rock_005": [
+    29,
+    28
+  ],
+  "object_rock_006": [
+    29,
+    29
+  ],
+  "object_rock_007": [
+    29,
+    30
+  ],
+  "object_rock_008": [
+    29,
+    31
+  ],
+  "object_rock_009": [
+    30,
+    0
+  ],
+  "object_rock_010": [
+    30,
+    1
+  ],
+  "object_rock_011": [
+    30,
+    2
+  ],
+  "object_rock_012": [
+    30,
+    3
+  ],
+  "object_rock_013": [
+    30,
+    4
+  ],
+  "object_rock_014": [
+    30,
+    5
+  ],
+  "object_rock_015": [
+    30,
+    6
+  ],
+  "object_rock_016": [
+    30,
+    7
+  ],
+  "object_rock_017": [
+    30,
+    8
+  ],
+  "object_rock_018": [
+    30,
+    9
+  ],
+  "object_rock_019": [
+    30,
+    10
+  ],
+  "object_rock_020": [
+    30,
+    11
+  ],
+  "object_rock_021": [
+    30,
+    12
+  ],
+  "object_rock_022": [
+    30,
+    13
+  ],
+  "object_rock_023": [
+    30,
+    14
+  ],
+  "object_rock_024": [
+    30,
+    15
+  ],
+  "object_rock_025": [
+    30,
+    16
+  ],
+  "object_rock_026": [
+    30,
+    17
+  ],
+  "object_rock_027": [
+    30,
+    18
+  ],
+  "object_rock_028": [
+    30,
+    19
+  ],
+  "object_rock_029": [
+    30,
+    20
+  ],
+  "object_cliff_000": [
+    30,
+    21
+  ],
+  "object_cliff_001": [
+    30,
+    22
+  ],
+  "object_cliff_002": [
+    30,
+    23
+  ],
+  "object_cliff_003": [
+    30,
+    24
+  ],
+  "object_cliff_004": [
+    30,
+    25
+  ],
+  "object_cliff_005": [
+    30,
+    26
+  ],
+  "object_cliff_006": [
+    30,
+    27
+  ],
+  "object_cliff_007": [
+    30,
+    28
+  ],
+  "object_cliff_008": [
+    30,
+    29
+  ],
+  "object_cliff_009": [
+    30,
+    30
+  ],
+  "object_cliff_010": [
+    30,
+    31
+  ],
+  "object_cliff_011": [
+    31,
+    0
+  ],
+  "object_cliff_012": [
+    31,
+    1
+  ],
+  "object_cliff_013": [
+    31,
+    2
+  ],
+  "object_cliff_014": [
+    31,
+    3
+  ],
+  "object_cliff_015": [
+    31,
+    4
+  ],
+  "object_cliff_016": [
+    31,
+    5
+  ],
+  "object_cliff_017": [
+    31,
+    6
+  ],
+  "object_cliff_018": [
+    31,
+    7
+  ],
+  "object_cliff_019": [
+    31,
+    8
+  ],
+  "object_cliff_020": [
+    31,
+    9
+  ],
+  "object_cliff_021": [
+    31,
+    10
+  ],
+  "object_cliff_022": [
+    31,
+    11
+  ],
+  "object_cliff_023": [
+    31,
+    12
+  ],
+  "object_cliff_024": [
+    31,
+    13
+  ],
+  "object_cliff_025": [
+    31,
+    14
+  ],
+  "object_cliff_026": [
+    31,
+    15
+  ],
+  "object_cliff_027": [
+    31,
+    16
+  ],
+  "object_cliff_028": [
+    31,
+    17
+  ],
+  "object_cliff_029": [
+    31,
+    18
+  ],
+  "object_cliff_030": [
+    31,
+    19
+  ],
+  "object_cliff_031": [
+    31,
+    20
+  ],
+  "object_cliff_032": [
+    31,
+    21
+  ],
+  "object_cliff_033": [
+    31,
+    22
+  ],
+  "object_cliff_034": [
+    31,
+    23
+  ],
+  "object_cliff_035": [
+    31,
+    24
+  ],
+  "object_bridge_000": [
+    31,
+    25
+  ],
+  "object_bridge_001": [
+    31,
+    26
+  ],
+  "object_bridge_002": [
+    31,
+    27
+  ],
+  "object_bridge_003": [
+    31,
+    28
+  ],
+  "object_bridge_004": [
+    31,
+    29
+  ],
+  "object_bridge_005": [
+    31,
+    30
+  ],
+  "object_bridge_006": [
+    31,
+    31
+  ]
+}

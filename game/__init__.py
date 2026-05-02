@@ -1,0 +1,1 @@
+"""Brainrotmon game package."""
