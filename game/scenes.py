@@ -63,7 +63,7 @@ _missing_tile_log: set = set()
 
 def _load_tileset() -> pygame.Surface:
     tileset_path = Path(__file__).parent.parent / "assets" / "sprites" / "overworld" / "tileset.png"
-    return pygame.image.load(str(tileset_path)).convert()
+    return pygame.image.load(str(tileset_path)).convert_alpha()
 
 
 def _load_tile_index() -> Dict[str, Tuple[int, int]]:
@@ -77,18 +77,18 @@ def _load_tile_index() -> Dict[str, Tuple[int, int]]:
     index["stone_cobble"] = index.get("batch1_tile_2_0", (2, 0))
     index["sand_dry"] = index.get("batch1_tile_3_0", (3, 0))
     index["water_ocean"] = index.get("batch1_tile_8_0", (8, 0))
-    index["wall_stone"] = index.get("batch3_tile_1_0", (11, 0))
-    index["wall_dark"] = index.get("batch3_tile_1_7", (12, 7))
-    index["door_wood"] = index.get("batch3_tile_3_1", (14, 1))
+    index["wall_stone"] = index.get("batch3_tile_1_0", (11, 16))
+    index["wall_dark"] = index.get("batch3_tile_1_7", (12, 23))
+    index["door_wood"] = index.get("batch3_tile_3_1", (12, 17))
     index["wall_wood"] = index.get("batch3_tile_0_0", (11, 0))
     index["sign_wood"] = index.get("batch4_tile_6_0", (24, 0))
     index["tree_oak_TL"] = index.get("batch2_tile_0_0", (6, 0))
     index["ice_smooth"] = index.get("batch1_tile_4_7", (4, 7))
-    index["cave_floor"] = index.get("batch1_tile_6_1", (6, 1))
-    index["jungle_floor"] = index.get("batch1_tile_5_0", (5, 0))
-    index["ruin_floor"] = index.get("batch1_tile_7_0", (7, 0))
-    index["cave_wall"] = index.get("batch1_tile_6_8", (6, 8))
-    index["warp_tile"] = index.get("batch1_tile_11_5", (11, 5))
+    index["cave_floor"] = index.get("batch1_tile_6_1", (3, 1))
+    index["jungle_floor"] = index.get("batch1_tile_5_0", (2, 16))
+    index["ruin_floor"] = index.get("batch1_tile_7_0", (3, 16))
+    index["cave_wall"] = index.get("batch1_tile_6_8", (3, 8))
+    index["warp_tile"] = index.get("batch1_tile_11_5", (5, 21))
     return index
 
 
@@ -105,33 +105,28 @@ def draw_tile(surface: pygame.Surface, rect: pygame.Rect, char: str, x: int, y: 
         _tile_index_cache = _load_tile_index()
 
     tile_name = TILE_CHAR_TO_NAME.get(char, "grass_light")
-    if char == "~":
-        tile_name = f"water_ocean"
 
     tile_pos = _tile_index_cache.get(tile_name)
     if tile_pos is None:
         if tile_name not in _missing_tile_log:
             _missing_tile_log.add(tile_name)
             print(f"[draw_tile] Missing tile: {tile_name!r}")
-        pygame.draw.rect(surface, (255, 0, 255), rect)
-        return
+        tile_name = "grass_light"
+        tile_pos = _tile_index_cache.get(tile_name, (0, 0))
 
     row, col = tile_pos
     src_x = col * TILE_IN_SHEET
     src_y = row * TILE_IN_SHEET
-    source_rect = pygame.Rect(src_x, src_y, TILE_IN_SHEET, TILE_IN_SHEET)
 
-    tile_crop = _tileset_cache.subsurface(source_rect)
-    if rect.width != TILE_IN_SHEET or rect.height != TILE_IN_SHEET:
-        tile_crop = pygame.transform.scale(tile_crop, (rect.width, rect.height))
-
-    surface.blit(tile_crop, rect.topleft)
+    tile_crop = _tileset_cache.subsurface(pygame.Rect(src_x, src_y, TILE_IN_SHEET, TILE_IN_SHEET)).copy()
+    scaled = pygame.transform.scale(tile_crop, (TILE_SIZE, TILE_SIZE))
+    surface.blit(scaled, rect.topleft)
 
     if char == "x":
         pygame.draw.polygon(surface, COLORS["select"], ((rect.centerx, rect.y + 4), (rect.x + 5, rect.y + 10), (rect.right - 5, rect.y + 10)))
         pygame.draw.line(surface, COLORS["stroke"], (rect.centerx, rect.y + 4), (rect.centerx, rect.bottom - 4), 1)
     if night:
-        tint = pygame.Surface(rect.size, pygame.SRCALPHA)
+        tint = pygame.Surface((TILE_SIZE, TILE_SIZE), pygame.SRCALPHA)
         tint.fill((18, 38, 82, 82))
         surface.blit(tint, rect.topleft)
 
@@ -2486,10 +2481,10 @@ class AdventureScene(Scene):
 
 
 def draw_adventure_map(surface: pygame.Surface, map_def, adv: AdventureState, t: float, assets: AssetStore) -> None:
-    tile = 16
+    tile = TILE_SIZE
     cam_x = max(0, min(map_def.width * tile - VIRTUAL_WIDTH, adv.x * tile - VIRTUAL_WIDTH // 2))
     cam_y = max(0, min(map_def.height * tile - VIRTUAL_HEIGHT, adv.y * tile - VIRTUAL_HEIGHT // 2))
-    surface.fill((11, 15, 20))
+    surface.fill((0, 6, 0))
     start_x = cam_x // tile
     start_y = cam_y // tile
     end_x = min(map_def.width, start_x + VIRTUAL_WIDTH // tile + 2)
