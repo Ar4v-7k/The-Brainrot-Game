@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import json
 from dataclasses import dataclass
 import math
+from pathlib import Path
 import random
 from typing import Callable, Dict, List, Optional, Tuple
 
@@ -32,28 +34,106 @@ from .ui import draw_backdrop, draw_choice_box, draw_meter, draw_text, draw_wind
 
 
 TILE_CHAR_TO_NAME = {
-    ".": "batch1_tile_0_0",
-    "g": "batch1_tile_0_7",
-    "f": "batch1_tile_0_8",
-    "r": "batch1_tile_1_0",
-    "s": "batch1_tile_3_0",
-    "i": "batch1_tile_4_7",
-    "d": "batch1_tile_6_0",
-    "R": "batch1_tile_7_0",
-    "m": "batch1_tile_6_8",
-    "c": "batch1_tile_6_1",
-    "j": "batch1_tile_5_0",
-    "o": "batch1_tile_3_10",
-    "~": "batch1_tile_8_0",
-    "=": "batch1_tile_2_0",
-    "#": "batch1_tile_2_0",
-    "B": "batch3_tile_1_0",
-    "D": "batch3_tile_3_1",
-    "H": "batch3_tile_0_0",
-    "S": "batch4_tile_6_0",
-    "T": "batch2_tile_0_0",
-    "x": "batch1_tile_2_0",
+    ".": "grass_light",
+    "g": "grass_tall",
+    "f": "flower_red",
+    "r": "dirt_path",
+    "=": "stone_cobble",
+    "s": "sand_dry",
+    "~": "water_ocean",
+    "#": "wall_stone",
+    "B": "wall_dark",
+    "D": "door_wood",
+    "H": "wall_wood",
+    "S": "sign_wood",
+    "T": "tree_oak_TL",
+    "i": "ice_smooth",
+    "d": "cave_floor",
+    "j": "jungle_floor",
+    "R": "ruin_floor",
+    "m": "cave_wall",
+    "x": "warp_tile",
 }
+
+TILE_SIZE = 16
+TILE_IN_SHEET = 32
+
+_missing_tile_log: set = set()
+
+
+def _load_tileset() -> pygame.Surface:
+    tileset_path = Path(__file__).parent.parent / "assets" / "sprites" / "overworld" / "tileset.png"
+    return pygame.image.load(str(tileset_path)).convert()
+
+
+def _load_tile_index() -> Dict[str, Tuple[int, int]]:
+    index_path = Path(__file__).parent.parent / "assets" / "sprites" / "overworld" / "tileset_index.json"
+    raw = json.loads(index_path.read_text())
+    index = {key: (int(val[0]), int(val[1])) for key, val in raw.items()}
+    index["grass_light"] = index.get("batch1_tile_0_0", (0, 0))
+    index["grass_tall"] = index.get("batch1_tile_0_7", (0, 7))
+    index["flower_red"] = index.get("batch1_tile_0_8", (0, 8))
+    index["dirt_path"] = index.get("batch1_tile_1_0", (1, 0))
+    index["stone_cobble"] = index.get("batch1_tile_2_0", (2, 0))
+    index["sand_dry"] = index.get("batch1_tile_3_0", (3, 0))
+    index["water_ocean"] = index.get("batch1_tile_8_0", (8, 0))
+    index["wall_stone"] = index.get("batch3_tile_1_0", (11, 0))
+    index["wall_dark"] = index.get("batch3_tile_1_7", (12, 7))
+    index["door_wood"] = index.get("batch3_tile_3_1", (14, 1))
+    index["wall_wood"] = index.get("batch3_tile_0_0", (11, 0))
+    index["sign_wood"] = index.get("batch4_tile_6_0", (24, 0))
+    index["tree_oak_TL"] = index.get("batch2_tile_0_0", (6, 0))
+    index["ice_smooth"] = index.get("batch1_tile_4_7", (4, 7))
+    index["cave_floor"] = index.get("batch1_tile_6_1", (6, 1))
+    index["jungle_floor"] = index.get("batch1_tile_5_0", (5, 0))
+    index["ruin_floor"] = index.get("batch1_tile_7_0", (7, 0))
+    index["cave_wall"] = index.get("batch1_tile_6_8", (6, 8))
+    index["warp_tile"] = index.get("batch1_tile_11_5", (11, 5))
+    return index
+
+
+_tileset_cache: pygame.Surface | None = None
+_tile_index_cache: Dict[str, Tuple[int, int]] = {}
+
+
+def draw_tile(surface: pygame.Surface, rect: pygame.Rect, char: str, x: int, y: int, night: bool, t: float, assets: AssetStore) -> None:
+    global _tileset_cache, _tile_index_cache
+
+    if _tileset_cache is None:
+        _tileset_cache = _load_tileset()
+    if not _tile_index_cache:
+        _tile_index_cache = _load_tile_index()
+
+    tile_name = TILE_CHAR_TO_NAME.get(char, "grass_light")
+    if char == "~":
+        tile_name = f"water_ocean"
+
+    tile_pos = _tile_index_cache.get(tile_name)
+    if tile_pos is None:
+        if tile_name not in _missing_tile_log:
+            _missing_tile_log.add(tile_name)
+            print(f"[draw_tile] Missing tile: {tile_name!r}")
+        pygame.draw.rect(surface, (255, 0, 255), rect)
+        return
+
+    row, col = tile_pos
+    src_x = col * TILE_IN_SHEET
+    src_y = row * TILE_IN_SHEET
+    source_rect = pygame.Rect(src_x, src_y, TILE_IN_SHEET, TILE_IN_SHEET)
+
+    tile_crop = _tileset_cache.subsurface(source_rect)
+    if rect.width != TILE_IN_SHEET or rect.height != TILE_IN_SHEET:
+        tile_crop = pygame.transform.scale(tile_crop, (rect.width, rect.height))
+
+    surface.blit(tile_crop, rect.topleft)
+
+    if char == "x":
+        pygame.draw.polygon(surface, COLORS["select"], ((rect.centerx, rect.y + 4), (rect.x + 5, rect.y + 10), (rect.right - 5, rect.y + 10)))
+        pygame.draw.line(surface, COLORS["stroke"], (rect.centerx, rect.y + 4), (rect.centerx, rect.bottom - 4), 1)
+    if night:
+        tint = pygame.Surface(rect.size, pygame.SRCALPHA)
+        tint.fill((18, 38, 82, 82))
+        surface.blit(tint, rect.topleft)
 
 
 @dataclass(frozen=True)
@@ -2435,40 +2515,6 @@ def draw_adventure_map(surface: pygame.Surface, map_def, adv: AdventureState, t:
     draw_trainer_sprite(surface, assets, adv.appearance, (adv.x * tile - cam_x + 8, adv.y * tile - cam_y + 12), scale=1, facing=adv.facing, step=adv.steps)
 
 
-def draw_tile(surface: pygame.Surface, rect: pygame.Rect, char: str, x: int, y: int, night: bool, t: float, assets: AssetStore) -> None:
-    tile_name = TILE_CHAR_TO_NAME.get(char, "batch1_tile_0_0")
-    if char == "~":
-        wave_col = int(t * 2) % 4
-        tile_name = f"batch1_tile_8_{wave_col}"
-
-    tileset = assets.get_overworld("tileset_master")
-    tile_pos = assets.tile_index.get(tile_name)
-    if tileset.get_width() <= 1 or tile_pos is None:
-        pygame.draw.rect(surface, (255, 0, 255), rect)
-        return
-
-    row, col = tile_pos
-    TILE_IN_SHEET = 32
-    COLS_WIDE = 32
-    BORDER = 1
-
-    src_x = col * (TILE_IN_SHEET + BORDER) + BORDER
-    src_y = row * (TILE_IN_SHEET + BORDER) + BORDER
-    source = pygame.Rect(src_x, src_y, TILE_IN_SHEET, TILE_IN_SHEET)
-
-    crop = tileset.subsurface(source).copy()
-    if rect.width != TILE_IN_SHEET or rect.height != TILE_IN_SHEET:
-        crop = pygame.transform.scale(crop, (rect.width, rect.height))
-
-    surface.blit(crop, rect.topleft)
-
-    if char == "x":
-        pygame.draw.polygon(surface, COLORS["select"], ((rect.centerx, rect.y + 4), (rect.x + 5, rect.y + 10), (rect.right - 5, rect.y + 10)))
-        pygame.draw.line(surface, COLORS["stroke"], (rect.centerx, rect.y + 4), (rect.centerx, rect.bottom - 4), 1)
-    if night:
-        tint = pygame.Surface(rect.size, pygame.SRCALPHA)
-        tint.fill((18, 38, 82, 82))
-        surface.blit(tint, rect.topleft)
 
 
 def draw_world_icon(surface: pygame.Surface, center: Tuple[int, int], color, kind: str) -> None:
