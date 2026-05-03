@@ -32,27 +32,27 @@ from .ui import draw_backdrop, draw_choice_box, draw_meter, draw_text, draw_wind
 
 
 TILE_CHAR_TO_NAME = {
-    ".": "grass_light",
-    "g": "tall_grass",
-    "f": "flower_patch",
-    "r": "path_dirt",
-    "s": "sand",
-    "i": "ice_floor",
-    "d": "cave_floor",
-    "R": "ruin_floor",
-    "m": "cave_wall",
-    "c": "cave_floor",
-    "j": "jungle_floor",
-    "o": "desert_floor",
-    "~": "water_wave",
-    "=": "path_stone",
-    "#": "wall_stone",
-    "B": "wall_dark",
-    "D": "door_closed",
-    "H": "house_wall",
-    "S": "sign_post",
-    "T": "tree_bot_left",
-    "x": "path_stone",
+    ".": "batch1_tile_0_0",
+    "g": "batch1_tile_0_7",
+    "f": "batch1_tile_0_8",
+    "r": "batch1_tile_1_0",
+    "s": "batch1_tile_3_0",
+    "i": "batch1_tile_4_7",
+    "d": "batch1_tile_6_0",
+    "R": "batch1_tile_7_0",
+    "m": "batch1_tile_6_8",
+    "c": "batch1_tile_6_1",
+    "j": "batch1_tile_5_0",
+    "o": "batch1_tile_3_10",
+    "~": "batch1_tile_8_0",
+    "=": "batch1_tile_2_0",
+    "#": "batch1_tile_2_0",
+    "B": "batch3_tile_1_0",
+    "D": "batch3_tile_3_1",
+    "H": "batch3_tile_0_0",
+    "S": "batch4_tile_6_0",
+    "T": "batch2_tile_0_0",
+    "x": "batch1_tile_2_0",
 }
 
 
@@ -2436,17 +2436,32 @@ def draw_adventure_map(surface: pygame.Surface, map_def, adv: AdventureState, t:
 
 
 def draw_tile(surface: pygame.Surface, rect: pygame.Rect, char: str, x: int, y: int, night: bool, t: float, assets: AssetStore) -> None:
-    tile_name = TILE_CHAR_TO_NAME.get(char, "grass_light")
+    tile_name = TILE_CHAR_TO_NAME.get(char, "batch1_tile_0_0")
     if char == "~":
-        tile_name = "water_wave" if int(t * 2) % 2 else "water_still"
-    tileset = assets.get_overworld("tileset")
+        wave_col = int(t * 2) % 4
+        tile_name = f"batch1_tile_8_{wave_col}"
+
+    tileset = assets.get_overworld("tileset_master")
     tile_pos = assets.tile_index.get(tile_name)
     if tileset.get_width() <= 1 or tile_pos is None:
         pygame.draw.rect(surface, (255, 0, 255), rect)
         return
+
     row, col = tile_pos
-    source = pygame.Rect(col * 16, row * 16, 16, 16)
-    surface.blit(tileset, rect.topleft, source)
+    TILE_IN_SHEET = 32
+    COLS_WIDE = 32
+    BORDER = 1
+
+    src_x = col * (TILE_IN_SHEET + BORDER) + BORDER
+    src_y = row * (TILE_IN_SHEET + BORDER) + BORDER
+    source = pygame.Rect(src_x, src_y, TILE_IN_SHEET, TILE_IN_SHEET)
+
+    crop = tileset.subsurface(source).copy()
+    if rect.width != TILE_IN_SHEET or rect.height != TILE_IN_SHEET:
+        crop = pygame.transform.scale(crop, (rect.width, rect.height))
+
+    surface.blit(crop, rect.topleft)
+
     if char == "x":
         pygame.draw.polygon(surface, COLORS["select"], ((rect.centerx, rect.y + 4), (rect.x + 5, rect.y + 10), (rect.right - 5, rect.y + 10)))
         pygame.draw.line(surface, COLORS["stroke"], (rect.centerx, rect.y + 4), (rect.centerx, rect.bottom - 4), 1)

@@ -25,8 +25,8 @@ REQUIRED_FILES = [
     SPRITES_DIR / "runtime_ui" / "menu_button.png",
     SPRITES_DIR / "runtime_ui" / "title_bg.png",
     SPRITES_DIR / "runtime_ui" / "battle_bg.png",
-    SPRITES_DIR / "overworld" / "tileset.png",
-    SPRITES_DIR / "overworld" / "tileset_index.json",
+    SPRITES_DIR / "overworld" / "tileset_master.png",
+    SPRITES_DIR / "overworld" / "tileset_master_index.json",
     SPRITES_DIR / "overworld" / "player_walk.png",
     SPRITES_DIR / "overworld" / "npc_base.png",
     SPRITES_DIR / "overworld" / "trainer_sprite.png",
@@ -154,10 +154,15 @@ class AssetStore:
 
     def iter_load(self):
         tasks: List[Tuple[str, str, Path]] = []
-        tile_index_path = SPRITES_DIR / "overworld" / "tileset_index.json"
+        tile_index_path = SPRITES_DIR / "overworld" / "tileset_master_index.json"
         if tile_index_path.exists():
             raw_index = json.loads(tile_index_path.read_text())
-            self.tile_index = {key: (int(value[0]), int(value[1])) for key, value in raw_index.items()}
+            COLS_WIDE = 32
+            self.tile_index = {}
+            for idx, (key, value) in enumerate(raw_index.items()):
+                row = idx // COLS_WIDE
+                col = idx % COLS_WIDE
+                self.tile_index[key] = (row, col)
         for key in CREATURES:
             tasks.append((f"creature.{key}", "creatures", SPRITES_DIR / "creatures" / f"{key}.png"))
             for phase in ("idle", "attack"):
