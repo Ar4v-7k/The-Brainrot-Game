@@ -58,7 +58,7 @@ TILE_CHAR_TO_NAME = {
 }
 
 TILE_SIZE = 16
-TILE_IN_SHEET = 32
+TILE_IN_SHEET = 16
 
 _missing_tile_log: set = set()
 
@@ -72,25 +72,25 @@ def _load_tile_index() -> Dict[str, Tuple[int, int]]:
     index_path = Path(__file__).parent.parent / "assets" / "sprites" / "overworld" / "tileset_index.json"
     raw = json.loads(index_path.read_text())
     index = {key: (int(val[0]), int(val[1])) for key, val in raw.items()}
-    index["grass_light"] = index.get("batch1_tile_0_0", (0, 0))
-    index["grass_tall"] = index.get("batch1_tile_0_7", (0, 7))
-    index["flower_red"] = index.get("batch1_tile_0_8", (0, 8))
-    index["dirt_path"] = index.get("batch1_tile_1_0", (1, 0))
-    index["stone_cobble"] = index.get("batch1_tile_2_0", (2, 0))
-    index["sand_dry"] = index.get("batch1_tile_3_0", (3, 0))
-    index["water_ocean"] = index.get("batch1_tile_8_0", (8, 0))
-    index["wall_stone"] = index.get("batch3_tile_1_0", (11, 16))
-    index["wall_dark"] = index.get("batch3_tile_1_7", (12, 23))
-    index["door_wood"] = index.get("batch3_tile_3_1", (12, 17))
-    index["wall_wood"] = index.get("batch3_tile_0_0", (11, 0))
-    index["sign_wood"] = index.get("batch4_tile_6_0", (24, 0))
-    index["tree_oak_TL"] = index.get("batch2_tile_0_0", (6, 0))
-    index["ice_smooth"] = index.get("batch1_tile_4_7", (4, 7))
-    index["cave_floor"] = index.get("batch1_tile_6_1", (3, 1))
-    index["jungle_floor"] = index.get("batch1_tile_5_0", (2, 16))
-    index["ruin_floor"] = index.get("batch1_tile_7_0", (3, 16))
-    index["cave_wall"] = index.get("batch1_tile_6_8", (3, 8))
-    index["warp_tile"] = index.get("batch1_tile_11_5", (5, 21))
+    index["grass_light"] = index.get("grass_light", index.get("batch1_tile_0_0", (0, 0)))
+    index["grass_tall"] = index.get("grass_tall", index.get("batch1_tile_0_7", (0, 7)))
+    index["flower_red"] = index.get("flower_red", index.get("batch1_tile_0_8", (0, 8)))
+    index["dirt_path"] = index.get("dirt_path", index.get("batch1_tile_1_0", (1, 0)))
+    index["stone_cobble"] = index.get("stone_cobble", index.get("batch1_tile_2_0", (2, 0)))
+    index["sand_dry"] = index.get("sand_dry", index.get("batch1_tile_3_0", (3, 0)))
+    index["water_ocean"] = index.get("water_ocean", index.get("batch1_tile_8_0", (8, 0)))
+    index["wall_stone"] = index.get("wall_stone", index.get("batch3_tile_1_0", (11, 16)))
+    index["wall_dark"] = index.get("wall_dark", index.get("batch3_tile_1_7", (12, 23)))
+    index["door_wood"] = index.get("door_wood", index.get("batch3_tile_3_1", (12, 17)))
+    index["wall_wood"] = index.get("wall_wood", index.get("batch3_tile_0_0", (11, 0)))
+    index["sign_wood"] = index.get("sign_wood", index.get("batch4_tile_6_0", (24, 0)))
+    index["tree_oak_TL"] = index.get("tree_oak_TL", index.get("batch2_tile_0_0", (6, 0)))
+    index["ice_smooth"] = index.get("ice_smooth", index.get("batch1_tile_4_7", (4, 7)))
+    index["cave_floor"] = index.get("cave_floor", index.get("batch1_tile_6_1", (3, 1)))
+    index["jungle_floor"] = index.get("jungle_floor", index.get("batch1_tile_5_0", (2, 16)))
+    index["ruin_floor"] = index.get("ruin_floor", index.get("batch1_tile_7_0", (3, 16)))
+    index["cave_wall"] = index.get("cave_wall", index.get("batch1_tile_6_8", (3, 8)))
+    index["warp_tile"] = index.get("warp_tile", index.get("batch1_tile_11_5", (5, 21)))
     return index
 
 
@@ -120,9 +120,8 @@ def draw_tile(surface: pygame.Surface, rect: pygame.Rect, char: str, x: int, y: 
     src_x = col * TILE_IN_SHEET
     src_y = row * TILE_IN_SHEET
 
-    tile_crop = _tileset_cache.subsurface(pygame.Rect(src_x, src_y, TILE_IN_SHEET, TILE_IN_SHEET)).copy()
-    scaled = pygame.transform.scale(tile_crop, (TILE_SIZE, TILE_SIZE))
-    surface.blit(scaled, rect.topleft)
+    tile_crop = _tileset_cache.subsurface(pygame.Rect(src_x, src_y, TILE_IN_SHEET, TILE_IN_SHEET))
+    surface.blit(tile_crop, rect.topleft)
 
     if char == "x":
         pygame.draw.polygon(surface, COLORS["select"], ((rect.centerx, rect.y + 4), (rect.x + 5, rect.y + 10), (rect.right - 5, rect.y + 10)))
