@@ -53,6 +53,8 @@ TILE_CHAR_TO_NAME = {
     "R": "ruin_floor",
     "m": "cave_wall",
     "x": "warp_tile",
+    "c": "cave_floor",
+    "o": "sand_dry",
 }
 
 TILE_SIZE = 16
