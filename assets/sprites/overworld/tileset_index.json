@@ -1,4098 +1,4738 @@
 {
-  "grass_light": [
+  "batch1_tile_0_0": [
     0,
     0
   ],
-  "grass_dark": [
+  "batch1_tile_0_1": [
     0,
     1
   ],
-  "path_dirt": [
+  "batch1_tile_0_2": [
     0,
     2
   ],
-  "path_stone": [
+  "batch1_tile_0_3": [
     0,
     3
   ],
-  "water_still": [
+  "batch1_tile_0_4": [
     0,
     4
   ],
-  "water_wave": [
+  "batch1_tile_0_5": [
     0,
     5
   ],
-  "sand": [
+  "batch1_tile_0_6": [
     0,
     6
   ],
-  "snow": [
+  "batch1_tile_0_7": [
     0,
     7
   ],
-  "ground_grass_000": [
+  "batch1_tile_0_8": [
     0,
     8
   ],
-  "ground_grass_001": [
+  "batch1_tile_0_9": [
     0,
     9
   ],
-  "ground_grass_002": [
+  "batch1_tile_0_10": [
     0,
     10
   ],
-  "ground_grass_003": [
+  "batch1_tile_0_11": [
     0,
     11
   ],
-  "ground_grass_004": [
+  "batch1_tile_0_12": [
     0,
     12
   ],
-  "ground_grass_005": [
+  "batch1_tile_0_13": [
     0,
     13
   ],
-  "ground_grass_006": [
+  "batch1_tile_0_14": [
     0,
     14
   ],
-  "ground_grass_007": [
+  "batch1_tile_0_15": [
     0,
     15
   ],
-  "ground_grass_008": [
+  "batch1_tile_1_0": [
     0,
     16
   ],
-  "ground_grass_009": [
+  "batch1_tile_1_1": [
     0,
     17
   ],
-  "ground_grass_010": [
+  "batch1_tile_1_2": [
     0,
     18
   ],
-  "ground_grass_011": [
+  "batch1_tile_1_3": [
     0,
     19
   ],
-  "ground_grass_012": [
+  "batch1_tile_1_4": [
     0,
     20
   ],
-  "ground_grass_013": [
+  "batch1_tile_1_5": [
     0,
     21
   ],
-  "ground_grass_014": [
+  "batch1_tile_1_6": [
     0,
     22
   ],
-  "ground_grass_015": [
+  "batch1_tile_1_7": [
     0,
     23
   ],
-  "ground_grass_016": [
+  "batch1_tile_1_8": [
     0,
     24
   ],
-  "ground_grass_017": [
+  "batch1_tile_1_9": [
     0,
     25
   ],
-  "ground_grass_018": [
+  "batch1_tile_1_10": [
     0,
     26
   ],
-  "ground_grass_019": [
+  "batch1_tile_1_11": [
     0,
     27
   ],
-  "ground_grass_020": [
+  "batch1_tile_1_12": [
     0,
     28
   ],
-  "ground_grass_021": [
+  "batch1_tile_1_13": [
     0,
     29
   ],
-  "ground_grass_022": [
+  "batch1_tile_1_14": [
     0,
     30
   ],
-  "ground_grass_023": [
+  "batch1_tile_1_15": [
     0,
     31
   ],
-  "tree_top_left": [
+  "batch1_tile_2_0": [
     1,
     0
   ],
-  "tree_top_right": [
+  "batch1_tile_2_1": [
     1,
     1
   ],
-  "tree_bot_left": [
+  "batch1_tile_2_2": [
     1,
     2
   ],
-  "tree_bot_right": [
+  "batch1_tile_2_3": [
     1,
     3
   ],
-  "wall_stone": [
+  "batch1_tile_2_4": [
     1,
     4
   ],
-  "wall_dark": [
+  "batch1_tile_2_5": [
     1,
     5
   ],
-  "door_closed": [
+  "batch1_tile_2_6": [
     1,
     6
   ],
-  "door_open": [
+  "batch1_tile_2_7": [
     1,
     7
   ],
-  "ground_grass_024": [
+  "batch1_tile_2_8": [
     1,
     8
   ],
-  "ground_grass_025": [
+  "batch1_tile_2_9": [
     1,
     9
   ],
-  "ground_grass_026": [
+  "batch1_tile_2_10": [
     1,
     10
   ],
-  "ground_grass_027": [
+  "batch1_tile_2_11": [
     1,
     11
   ],
-  "ground_grass_028": [
+  "batch1_tile_2_12": [
     1,
     12
   ],
-  "ground_grass_029": [
+  "batch1_tile_2_13": [
     1,
     13
   ],
-  "ground_grass_030": [
+  "batch1_tile_2_14": [
     1,
     14
   ],
-  "ground_grass_031": [
+  "batch1_tile_2_15": [
     1,
     15
   ],
-  "ground_grass_032": [
+  "batch1_tile_3_0": [
     1,
     16
   ],
-  "ground_grass_033": [
+  "batch1_tile_3_1": [
     1,
     17
   ],
-  "ground_grass_034": [
+  "batch1_tile_3_2": [
     1,
     18
   ],
-  "ground_grass_035": [
+  "batch1_tile_3_3": [
     1,
     19
   ],
-  "ground_grass_036": [
+  "batch1_tile_3_4": [
     1,
     20
   ],
-  "ground_grass_037": [
+  "batch1_tile_3_5": [
     1,
     21
   ],
-  "ground_grass_038": [
+  "batch1_tile_3_6": [
     1,
     22
   ],
-  "ground_grass_039": [
+  "batch1_tile_3_7": [
     1,
     23
   ],
-  "ground_grass_040": [
+  "batch1_tile_3_8": [
     1,
     24
   ],
-  "ground_grass_041": [
+  "batch1_tile_3_9": [
     1,
     25
   ],
-  "ground_grass_042": [
+  "batch1_tile_3_10": [
     1,
     26
   ],
-  "ground_grass_043": [
+  "batch1_tile_3_11": [
     1,
     27
   ],
-  "ground_grass_044": [
+  "batch1_tile_3_12": [
     1,
     28
   ],
-  "ground_grass_045": [
+  "batch1_tile_3_13": [
     1,
     29
   ],
-  "ground_grass_046": [
+  "batch1_tile_3_14": [
     1,
     30
   ],
-  "ground_grass_047": [
+  "batch1_tile_3_15": [
     1,
     31
   ],
-  "flower_patch": [
+  "batch1_tile_4_0": [
     2,
     0
   ],
-  "tall_grass": [
+  "batch1_tile_4_1": [
     2,
     1
   ],
-  "cave_floor": [
+  "batch1_tile_4_2": [
     2,
     2
   ],
-  "cave_wall": [
+  "batch1_tile_4_3": [
     2,
     3
   ],
-  "ice_floor": [
+  "batch1_tile_4_4": [
     2,
     4
   ],
-  "jungle_floor": [
+  "batch1_tile_4_5": [
     2,
     5
   ],
-  "desert_floor": [
+  "batch1_tile_4_6": [
     2,
     6
   ],
-  "ruin_floor": [
+  "batch1_tile_4_7": [
     2,
     7
   ],
-  "ground_grass_048": [
+  "batch1_tile_4_8": [
     2,
     8
   ],
-  "ground_grass_049": [
+  "batch1_tile_4_9": [
     2,
     9
   ],
-  "ground_grass_050": [
+  "batch1_tile_4_10": [
     2,
     10
   ],
-  "ground_grass_051": [
+  "batch1_tile_4_11": [
     2,
     11
   ],
-  "ground_grass_052": [
+  "batch1_tile_4_12": [
     2,
     12
   ],
-  "ground_grass_053": [
+  "batch1_tile_4_13": [
     2,
     13
   ],
-  "ground_grass_054": [
+  "batch1_tile_4_14": [
     2,
     14
   ],
-  "ground_grass_055": [
+  "batch1_tile_4_15": [
     2,
     15
   ],
-  "ground_grass_056": [
+  "batch1_tile_5_0": [
     2,
     16
   ],
-  "ground_grass_057": [
+  "batch1_tile_5_1": [
     2,
     17
   ],
-  "ground_grass_058": [
+  "batch1_tile_5_2": [
     2,
     18
   ],
-  "ground_grass_059": [
+  "batch1_tile_5_3": [
     2,
     19
   ],
-  "ground_grass_060": [
+  "batch1_tile_5_4": [
     2,
     20
   ],
-  "ground_grass_061": [
+  "batch1_tile_5_5": [
     2,
     21
   ],
-  "ground_grass_062": [
+  "batch1_tile_5_6": [
     2,
     22
   ],
-  "ground_grass_063": [
+  "batch1_tile_5_7": [
     2,
     23
   ],
-  "ground_grass_064": [
+  "batch1_tile_5_8": [
     2,
     24
   ],
-  "ground_grass_065": [
+  "batch1_tile_5_9": [
     2,
     25
   ],
-  "ground_grass_066": [
+  "batch1_tile_5_10": [
     2,
     26
   ],
-  "ground_grass_067": [
+  "batch1_tile_5_11": [
     2,
     27
   ],
-  "ground_grass_068": [
+  "batch1_tile_5_12": [
     2,
     28
   ],
-  "ground_grass_069": [
+  "batch1_tile_5_13": [
     2,
     29
   ],
-  "ground_grass_070": [
+  "batch1_tile_5_14": [
     2,
     30
   ],
-  "ground_grass_071": [
+  "batch1_tile_5_15": [
     2,
     31
   ],
-  "house_roof": [
+  "batch1_tile_6_0": [
     3,
     0
   ],
-  "house_wall": [
+  "batch1_tile_6_1": [
     3,
     1
   ],
-  "fence_h": [
+  "batch1_tile_6_2": [
     3,
     2
   ],
-  "fence_v": [
+  "batch1_tile_6_3": [
     3,
     3
   ],
-  "sign_post": [
+  "batch1_tile_6_4": [
     3,
     4
   ],
-  "counter_shop": [
+  "batch1_tile_6_5": [
     3,
     5
   ],
-  "bed": [
+  "batch1_tile_6_6": [
     3,
     6
   ],
-  "chest": [
+  "batch1_tile_6_7": [
     3,
     7
   ],
-  "ground_grass_072": [
+  "batch1_tile_6_8": [
     3,
     8
   ],
-  "ground_grass_073": [
+  "batch1_tile_6_9": [
     3,
     9
   ],
-  "ground_grass_074": [
+  "batch1_tile_6_10": [
     3,
     10
   ],
-  "ground_grass_075": [
+  "batch1_tile_6_11": [
     3,
     11
   ],
-  "ground_grass_076": [
+  "batch1_tile_6_12": [
     3,
     12
   ],
-  "ground_grass_077": [
+  "batch1_tile_6_13": [
     3,
     13
   ],
-  "ground_grass_078": [
+  "batch1_tile_6_14": [
     3,
     14
   ],
-  "ground_grass_079": [
+  "batch1_tile_6_15": [
     3,
     15
   ],
-  "ground_path_dirt_000": [
+  "batch1_tile_7_0": [
     3,
     16
   ],
-  "ground_path_dirt_001": [
+  "batch1_tile_7_1": [
     3,
     17
   ],
-  "ground_path_dirt_002": [
+  "batch1_tile_7_2": [
     3,
     18
   ],
-  "ground_path_dirt_003": [
+  "batch1_tile_7_3": [
     3,
     19
   ],
-  "ground_path_dirt_004": [
+  "batch1_tile_7_4": [
     3,
     20
   ],
-  "ground_path_dirt_005": [
+  "batch1_tile_7_5": [
     3,
     21
   ],
-  "ground_path_dirt_006": [
+  "batch1_tile_7_6": [
     3,
     22
   ],
-  "ground_path_dirt_007": [
+  "batch1_tile_7_7": [
     3,
     23
   ],
-  "ground_path_dirt_008": [
+  "batch1_tile_7_8": [
     3,
     24
   ],
-  "ground_path_dirt_009": [
+  "batch1_tile_7_9": [
     3,
     25
   ],
-  "ground_path_dirt_010": [
+  "batch1_tile_7_10": [
     3,
     26
   ],
-  "ground_path_dirt_011": [
+  "batch1_tile_7_11": [
     3,
     27
   ],
-  "ground_path_dirt_012": [
+  "batch1_tile_7_12": [
     3,
     28
   ],
-  "ground_path_dirt_013": [
+  "batch1_tile_7_13": [
     3,
     29
   ],
-  "ground_path_dirt_014": [
+  "batch1_tile_7_14": [
     3,
     30
   ],
-  "ground_path_dirt_015": [
+  "batch1_tile_7_15": [
     3,
     31
   ],
-  "ground_path_dirt_016": [
+  "batch1_tile_8_0": [
     4,
     0
   ],
-  "ground_path_dirt_017": [
+  "batch1_tile_8_1": [
     4,
     1
   ],
-  "ground_path_dirt_018": [
+  "batch1_tile_8_2": [
     4,
     2
   ],
-  "ground_path_dirt_019": [
+  "batch1_tile_8_3": [
     4,
     3
   ],
-  "ground_path_dirt_020": [
+  "batch1_tile_8_4": [
     4,
     4
   ],
-  "ground_path_dirt_021": [
+  "batch1_tile_8_5": [
     4,
     5
   ],
-  "ground_path_dirt_022": [
+  "batch1_tile_8_6": [
     4,
     6
   ],
-  "ground_path_dirt_023": [
+  "batch1_tile_8_7": [
     4,
     7
   ],
-  "ground_path_dirt_024": [
+  "batch1_tile_8_8": [
     4,
     8
   ],
-  "ground_path_dirt_025": [
+  "batch1_tile_8_9": [
     4,
     9
   ],
-  "ground_path_dirt_026": [
+  "batch1_tile_8_10": [
     4,
     10
   ],
-  "ground_path_dirt_027": [
+  "batch1_tile_8_11": [
     4,
     11
   ],
-  "ground_path_dirt_028": [
+  "batch1_tile_8_12": [
     4,
     12
   ],
-  "ground_path_dirt_029": [
+  "batch1_tile_8_13": [
     4,
     13
   ],
-  "ground_path_dirt_030": [
+  "batch1_tile_8_14": [
     4,
     14
   ],
-  "ground_path_dirt_031": [
+  "batch1_tile_8_15": [
     4,
     15
   ],
-  "ground_path_dirt_032": [
+  "batch1_tile_9_0": [
     4,
     16
   ],
-  "ground_path_dirt_033": [
+  "batch1_tile_9_1": [
     4,
     17
   ],
-  "ground_path_dirt_034": [
+  "batch1_tile_9_2": [
     4,
     18
   ],
-  "ground_path_dirt_035": [
+  "batch1_tile_9_3": [
     4,
     19
   ],
-  "ground_path_dirt_036": [
+  "batch1_tile_9_4": [
     4,
     20
   ],
-  "ground_path_dirt_037": [
+  "batch1_tile_9_5": [
     4,
     21
   ],
-  "ground_path_dirt_038": [
+  "batch1_tile_9_6": [
     4,
     22
   ],
-  "ground_path_dirt_039": [
+  "batch1_tile_9_7": [
     4,
     23
   ],
-  "ground_path_dirt_040": [
+  "batch1_tile_9_8": [
     4,
     24
   ],
-  "ground_path_dirt_041": [
+  "batch1_tile_9_9": [
     4,
     25
   ],
-  "ground_path_dirt_042": [
+  "batch1_tile_9_10": [
     4,
     26
   ],
-  "ground_path_dirt_043": [
+  "batch1_tile_9_11": [
     4,
     27
   ],
-  "ground_path_dirt_044": [
+  "batch1_tile_9_12": [
     4,
     28
   ],
-  "ground_path_dirt_045": [
+  "batch1_tile_9_13": [
     4,
     29
   ],
-  "ground_path_dirt_046": [
+  "batch1_tile_9_14": [
     4,
     30
   ],
-  "ground_path_dirt_047": [
+  "batch1_tile_9_15": [
     4,
     31
   ],
-  "ground_path_dirt_048": [
+  "batch1_tile_10_0": [
     5,
     0
   ],
-  "ground_path_dirt_049": [
+  "batch1_tile_10_1": [
     5,
     1
   ],
-  "ground_path_dirt_050": [
+  "batch1_tile_10_2": [
     5,
     2
   ],
-  "ground_path_dirt_051": [
+  "batch1_tile_10_3": [
     5,
     3
   ],
-  "ground_path_dirt_052": [
+  "batch1_tile_10_4": [
     5,
     4
   ],
-  "ground_path_dirt_053": [
+  "batch1_tile_10_5": [
     5,
     5
   ],
-  "ground_path_dirt_054": [
+  "batch1_tile_10_6": [
     5,
     6
   ],
-  "ground_path_dirt_055": [
+  "batch1_tile_10_7": [
     5,
     7
   ],
-  "ground_path_dirt_056": [
+  "batch1_tile_10_8": [
     5,
     8
   ],
-  "ground_path_dirt_057": [
+  "batch1_tile_10_9": [
     5,
     9
   ],
-  "ground_path_dirt_058": [
+  "batch1_tile_10_10": [
     5,
     10
   ],
-  "ground_path_dirt_059": [
+  "batch1_tile_10_11": [
     5,
     11
   ],
-  "ground_path_stone_000": [
+  "batch1_tile_10_12": [
     5,
     12
   ],
-  "ground_path_stone_001": [
+  "batch1_tile_10_13": [
     5,
     13
   ],
-  "ground_path_stone_002": [
+  "batch1_tile_10_14": [
     5,
     14
   ],
-  "ground_path_stone_003": [
+  "batch1_tile_10_15": [
     5,
     15
   ],
-  "ground_path_stone_004": [
+  "batch1_tile_11_0": [
     5,
     16
   ],
-  "ground_path_stone_005": [
+  "batch1_tile_11_1": [
     5,
     17
   ],
-  "ground_path_stone_006": [
+  "batch1_tile_11_2": [
     5,
     18
   ],
-  "ground_path_stone_007": [
+  "batch1_tile_11_3": [
     5,
     19
   ],
-  "ground_path_stone_008": [
+  "batch1_tile_11_4": [
     5,
     20
   ],
-  "ground_path_stone_009": [
+  "batch1_tile_11_5": [
     5,
     21
   ],
-  "ground_path_stone_010": [
+  "batch1_tile_11_6": [
     5,
     22
   ],
-  "ground_path_stone_011": [
+  "batch1_tile_11_7": [
     5,
     23
   ],
-  "ground_path_stone_012": [
+  "batch1_tile_11_8": [
     5,
     24
   ],
-  "ground_path_stone_013": [
+  "batch1_tile_11_9": [
     5,
     25
   ],
-  "ground_path_stone_014": [
+  "batch1_tile_11_10": [
     5,
     26
   ],
-  "ground_path_stone_015": [
+  "batch1_tile_11_11": [
     5,
     27
   ],
-  "ground_path_stone_016": [
+  "batch1_tile_11_12": [
     5,
     28
   ],
-  "ground_path_stone_017": [
+  "batch1_tile_11_13": [
     5,
     29
   ],
-  "ground_path_stone_018": [
+  "batch1_tile_11_14": [
     5,
     30
   ],
-  "ground_path_stone_019": [
+  "batch1_tile_11_15": [
     5,
     31
   ],
-  "ground_path_stone_020": [
+  "batch2_tile_0_0": [
     6,
     0
   ],
-  "ground_path_stone_021": [
+  "batch2_tile_0_1": [
     6,
     1
   ],
-  "ground_path_stone_022": [
+  "batch2_tile_0_2": [
     6,
     2
   ],
-  "ground_path_stone_023": [
+  "batch2_tile_0_3": [
     6,
     3
   ],
-  "ground_path_stone_024": [
+  "batch2_tile_0_4": [
     6,
     4
   ],
-  "ground_path_stone_025": [
+  "batch2_tile_0_5": [
     6,
     5
   ],
-  "ground_path_stone_026": [
+  "batch2_tile_0_6": [
     6,
     6
   ],
-  "ground_path_stone_027": [
+  "batch2_tile_0_7": [
     6,
     7
   ],
-  "ground_path_stone_028": [
+  "batch2_tile_0_8": [
     6,
     8
   ],
-  "ground_path_stone_029": [
+  "batch2_tile_0_9": [
     6,
     9
   ],
-  "ground_path_stone_030": [
+  "batch2_tile_0_10": [
     6,
     10
   ],
-  "ground_path_stone_031": [
+  "batch2_tile_0_11": [
     6,
     11
   ],
-  "ground_path_stone_032": [
+  "batch2_tile_0_12": [
     6,
     12
   ],
-  "ground_path_stone_033": [
+  "batch2_tile_0_13": [
     6,
     13
   ],
-  "ground_path_stone_034": [
+  "batch2_tile_0_14": [
     6,
     14
   ],
-  "ground_path_stone_035": [
+  "batch2_tile_0_15": [
     6,
     15
   ],
-  "ground_path_stone_036": [
+  "batch2_tile_1_0": [
     6,
     16
   ],
-  "ground_path_stone_037": [
+  "batch2_tile_1_1": [
     6,
     17
   ],
-  "ground_path_stone_038": [
+  "batch2_tile_1_2": [
     6,
     18
   ],
-  "ground_path_stone_039": [
+  "batch2_tile_1_3": [
     6,
     19
   ],
-  "ground_path_stone_040": [
+  "batch2_tile_1_4": [
     6,
     20
   ],
-  "ground_path_stone_041": [
+  "batch2_tile_1_5": [
     6,
     21
   ],
-  "ground_path_stone_042": [
+  "batch2_tile_1_6": [
     6,
     22
   ],
-  "ground_path_stone_043": [
+  "batch2_tile_1_7": [
     6,
     23
   ],
-  "ground_path_stone_044": [
+  "batch2_tile_1_8": [
     6,
     24
   ],
-  "ground_sand_000": [
+  "batch2_tile_1_9": [
     6,
     25
   ],
-  "ground_sand_001": [
+  "batch2_tile_1_10": [
     6,
     26
   ],
-  "ground_sand_002": [
+  "batch2_tile_1_11": [
     6,
     27
   ],
-  "ground_sand_003": [
+  "batch2_tile_1_12": [
     6,
     28
   ],
-  "ground_sand_004": [
+  "batch2_tile_1_13": [
     6,
     29
   ],
-  "ground_sand_005": [
+  "batch2_tile_1_14": [
     6,
     30
   ],
-  "ground_sand_006": [
+  "batch2_tile_1_15": [
     6,
     31
   ],
-  "ground_sand_007": [
+  "batch2_tile_2_0": [
     7,
     0
   ],
-  "ground_sand_008": [
+  "batch2_tile_2_1": [
     7,
     1
   ],
-  "ground_sand_009": [
+  "batch2_tile_2_2": [
     7,
     2
   ],
-  "ground_sand_010": [
+  "batch2_tile_2_3": [
     7,
     3
   ],
-  "ground_sand_011": [
+  "batch2_tile_2_4": [
     7,
     4
   ],
-  "ground_sand_012": [
+  "batch2_tile_2_5": [
     7,
     5
   ],
-  "ground_sand_013": [
+  "batch2_tile_2_6": [
     7,
     6
   ],
-  "ground_sand_014": [
+  "batch2_tile_2_7": [
     7,
     7
   ],
-  "ground_sand_015": [
+  "batch2_tile_2_8": [
     7,
     8
   ],
-  "ground_sand_016": [
+  "batch2_tile_2_9": [
     7,
     9
   ],
-  "ground_sand_017": [
+  "batch2_tile_2_10": [
     7,
     10
   ],
-  "ground_sand_018": [
+  "batch2_tile_2_11": [
     7,
     11
   ],
-  "ground_sand_019": [
+  "batch2_tile_2_12": [
     7,
     12
   ],
-  "ground_sand_020": [
+  "batch2_tile_2_13": [
     7,
     13
   ],
-  "ground_sand_021": [
+  "batch2_tile_2_14": [
     7,
     14
   ],
-  "ground_sand_022": [
+  "batch2_tile_2_15": [
     7,
     15
   ],
-  "ground_sand_023": [
+  "batch2_tile_3_0": [
     7,
     16
   ],
-  "ground_sand_024": [
+  "batch2_tile_3_1": [
     7,
     17
   ],
-  "ground_sand_025": [
+  "batch2_tile_3_2": [
     7,
     18
   ],
-  "ground_sand_026": [
+  "batch2_tile_3_3": [
     7,
     19
   ],
-  "ground_sand_027": [
+  "batch2_tile_3_4": [
     7,
     20
   ],
-  "ground_sand_028": [
+  "batch2_tile_3_5": [
     7,
     21
   ],
-  "ground_sand_029": [
+  "batch2_tile_3_6": [
     7,
     22
   ],
-  "ground_snow_000": [
+  "batch2_tile_3_7": [
     7,
     23
   ],
-  "ground_snow_001": [
+  "batch2_tile_3_8": [
     7,
     24
   ],
-  "ground_snow_002": [
+  "batch2_tile_3_9": [
     7,
     25
   ],
-  "ground_snow_003": [
+  "batch2_tile_3_10": [
     7,
     26
   ],
-  "ground_snow_004": [
+  "batch2_tile_3_11": [
     7,
     27
   ],
-  "ground_snow_005": [
+  "batch2_tile_3_12": [
     7,
     28
   ],
-  "ground_snow_006": [
+  "batch2_tile_3_13": [
     7,
     29
   ],
-  "ground_snow_007": [
+  "batch2_tile_3_14": [
     7,
     30
   ],
-  "ground_snow_008": [
+  "batch2_tile_3_15": [
     7,
     31
   ],
-  "ground_snow_009": [
+  "batch2_tile_4_0": [
     8,
     0
   ],
-  "ground_snow_010": [
+  "batch2_tile_4_1": [
     8,
     1
   ],
-  "ground_snow_011": [
+  "batch2_tile_4_2": [
     8,
     2
   ],
-  "ground_snow_012": [
+  "batch2_tile_4_3": [
     8,
     3
   ],
-  "ground_snow_013": [
+  "batch2_tile_4_4": [
     8,
     4
   ],
-  "ground_snow_014": [
+  "batch2_tile_4_5": [
     8,
     5
   ],
-  "ground_snow_015": [
+  "batch2_tile_4_6": [
     8,
     6
   ],
-  "ground_snow_016": [
+  "batch2_tile_4_7": [
     8,
     7
   ],
-  "ground_snow_017": [
+  "batch2_tile_4_8": [
     8,
     8
   ],
-  "ground_snow_018": [
+  "batch2_tile_4_9": [
     8,
     9
   ],
-  "ground_snow_019": [
+  "batch2_tile_4_10": [
     8,
     10
   ],
-  "ground_snow_020": [
+  "batch2_tile_4_11": [
     8,
     11
   ],
-  "ground_snow_021": [
+  "batch2_tile_4_12": [
     8,
     12
   ],
-  "ground_snow_022": [
+  "batch2_tile_4_13": [
     8,
     13
   ],
-  "ground_snow_023": [
+  "batch2_tile_4_14": [
     8,
     14
   ],
-  "ground_snow_024": [
+  "batch2_tile_4_15": [
     8,
     15
   ],
-  "ground_snow_025": [
+  "batch2_tile_5_0": [
     8,
     16
   ],
-  "ground_snow_026": [
+  "batch2_tile_5_1": [
     8,
     17
   ],
-  "ground_snow_027": [
+  "batch2_tile_5_2": [
     8,
     18
   ],
-  "ground_snow_028": [
+  "batch2_tile_5_3": [
     8,
     19
   ],
-  "ground_snow_029": [
+  "batch2_tile_5_4": [
     8,
     20
   ],
-  "ground_ice_000": [
+  "batch2_tile_5_5": [
     8,
     21
   ],
-  "ground_ice_001": [
+  "batch2_tile_5_6": [
     8,
     22
   ],
-  "ground_ice_002": [
+  "batch2_tile_5_7": [
     8,
     23
   ],
-  "ground_ice_003": [
+  "batch2_tile_5_8": [
     8,
     24
   ],
-  "ground_ice_004": [
+  "batch2_tile_5_9": [
     8,
     25
   ],
-  "ground_ice_005": [
+  "batch2_tile_5_10": [
     8,
     26
   ],
-  "ground_ice_006": [
+  "batch2_tile_5_11": [
     8,
     27
   ],
-  "ground_ice_007": [
+  "batch2_tile_5_12": [
     8,
     28
   ],
-  "ground_ice_008": [
+  "batch2_tile_5_13": [
     8,
     29
   ],
-  "ground_ice_009": [
+  "batch2_tile_5_14": [
     8,
     30
   ],
-  "ground_ice_010": [
+  "batch2_tile_5_15": [
     8,
     31
   ],
-  "ground_ice_011": [
+  "batch2_tile_6_0": [
     9,
     0
   ],
-  "ground_ice_012": [
+  "batch2_tile_6_1": [
     9,
     1
   ],
-  "ground_ice_013": [
+  "batch2_tile_6_2": [
     9,
     2
   ],
-  "ground_ice_014": [
+  "batch2_tile_6_3": [
     9,
     3
   ],
-  "ground_ice_015": [
+  "batch2_tile_6_4": [
     9,
     4
   ],
-  "ground_ice_016": [
+  "batch2_tile_6_5": [
     9,
     5
   ],
-  "ground_ice_017": [
+  "batch2_tile_6_6": [
     9,
     6
   ],
-  "ground_ice_018": [
+  "batch2_tile_6_7": [
     9,
     7
   ],
-  "ground_ice_019": [
+  "batch2_tile_6_8": [
     9,
     8
   ],
-  "ground_ice_020": [
+  "batch2_tile_6_9": [
     9,
     9
   ],
-  "ground_ice_021": [
+  "batch2_tile_6_10": [
     9,
     10
   ],
-  "ground_ice_022": [
+  "batch2_tile_6_11": [
     9,
     11
   ],
-  "ground_ice_023": [
+  "batch2_tile_6_12": [
     9,
     12
   ],
-  "ground_ice_024": [
+  "batch2_tile_6_13": [
     9,
     13
   ],
-  "ground_cave_000": [
+  "batch2_tile_6_14": [
     9,
     14
   ],
-  "ground_cave_001": [
+  "batch2_tile_6_15": [
     9,
     15
   ],
-  "ground_cave_002": [
+  "batch2_tile_7_0": [
     9,
     16
   ],
-  "ground_cave_003": [
+  "batch2_tile_7_1": [
     9,
     17
   ],
-  "ground_cave_004": [
+  "batch2_tile_7_2": [
     9,
     18
   ],
-  "ground_cave_005": [
+  "batch2_tile_7_3": [
     9,
     19
   ],
-  "ground_cave_006": [
+  "batch2_tile_7_4": [
     9,
     20
   ],
-  "ground_cave_007": [
+  "batch2_tile_7_5": [
     9,
     21
   ],
-  "ground_cave_008": [
+  "batch2_tile_7_6": [
     9,
     22
   ],
-  "ground_cave_009": [
+  "batch2_tile_7_7": [
     9,
     23
   ],
-  "ground_cave_010": [
+  "batch2_tile_7_8": [
     9,
     24
   ],
-  "ground_cave_011": [
+  "batch2_tile_7_9": [
     9,
     25
   ],
-  "ground_cave_012": [
+  "batch2_tile_7_10": [
     9,
     26
   ],
-  "ground_cave_013": [
+  "batch2_tile_7_11": [
     9,
     27
   ],
-  "ground_cave_014": [
+  "batch2_tile_7_12": [
     9,
     28
   ],
-  "ground_cave_015": [
+  "batch2_tile_7_13": [
     9,
     29
   ],
-  "ground_cave_016": [
+  "batch2_tile_7_14": [
     9,
     30
   ],
-  "ground_cave_017": [
+  "batch2_tile_7_15": [
     9,
     31
   ],
-  "ground_cave_018": [
+  "batch2_tile_8_0": [
     10,
     0
   ],
-  "ground_cave_019": [
+  "batch2_tile_8_1": [
     10,
     1
   ],
-  "ground_cave_020": [
+  "batch2_tile_8_2": [
     10,
     2
   ],
-  "ground_cave_021": [
+  "batch2_tile_8_3": [
     10,
     3
   ],
-  "ground_cave_022": [
+  "batch2_tile_8_4": [
     10,
     4
   ],
-  "ground_cave_023": [
+  "batch2_tile_8_5": [
     10,
     5
   ],
-  "ground_cave_024": [
+  "batch2_tile_8_6": [
     10,
     6
   ],
-  "ground_cave_025": [
+  "batch2_tile_8_7": [
     10,
     7
   ],
-  "ground_cave_026": [
+  "batch2_tile_8_8": [
     10,
     8
   ],
-  "ground_cave_027": [
+  "batch2_tile_8_9": [
     10,
     9
   ],
-  "ground_cave_028": [
+  "batch2_tile_8_10": [
     10,
     10
   ],
-  "ground_cave_029": [
+  "batch2_tile_8_11": [
     10,
     11
   ],
-  "ground_cave_030": [
+  "batch2_tile_8_12": [
     10,
     12
   ],
-  "ground_cave_031": [
+  "batch2_tile_8_13": [
     10,
     13
   ],
-  "ground_cave_032": [
+  "batch2_tile_8_14": [
     10,
     14
   ],
-  "ground_cave_033": [
+  "batch2_tile_8_15": [
     10,
     15
   ],
-  "ground_cave_034": [
+  "batch2_tile_9_0": [
     10,
     16
   ],
-  "ground_cave_035": [
+  "batch2_tile_9_1": [
     10,
     17
   ],
-  "ground_cave_036": [
+  "batch2_tile_9_2": [
     10,
     18
   ],
-  "ground_cave_037": [
+  "batch2_tile_9_3": [
     10,
     19
   ],
-  "ground_cave_038": [
+  "batch2_tile_9_4": [
     10,
     20
   ],
-  "ground_cave_039": [
+  "batch2_tile_9_5": [
     10,
     21
   ],
-  "ground_ruin_000": [
+  "batch2_tile_9_6": [
     10,
     22
   ],
-  "ground_ruin_001": [
+  "batch2_tile_9_7": [
     10,
     23
   ],
-  "ground_ruin_002": [
+  "batch2_tile_9_8": [
     10,
     24
   ],
-  "ground_ruin_003": [
+  "batch2_tile_9_9": [
     10,
     25
   ],
-  "ground_ruin_004": [
+  "batch2_tile_9_10": [
     10,
     26
   ],
-  "ground_ruin_005": [
+  "batch2_tile_9_11": [
     10,
     27
   ],
-  "ground_ruin_006": [
+  "batch2_tile_9_12": [
     10,
     28
   ],
-  "ground_ruin_007": [
+  "batch2_tile_9_13": [
     10,
     29
   ],
-  "ground_ruin_008": [
+  "batch2_tile_9_14": [
     10,
     30
   ],
-  "ground_ruin_009": [
+  "batch2_tile_9_15": [
     10,
     31
   ],
-  "ground_ruin_010": [
+  "batch3_tile_0_0": [
     11,
     0
   ],
-  "ground_ruin_011": [
+  "batch3_tile_0_1": [
     11,
     1
   ],
-  "ground_ruin_012": [
+  "batch3_tile_0_2": [
     11,
     2
   ],
-  "ground_ruin_013": [
+  "batch3_tile_0_3": [
     11,
     3
   ],
-  "ground_ruin_014": [
+  "batch3_tile_0_4": [
     11,
     4
   ],
-  "ground_ruin_015": [
+  "batch3_tile_0_5": [
     11,
     5
   ],
-  "ground_ruin_016": [
+  "batch3_tile_0_6": [
     11,
     6
   ],
-  "ground_ruin_017": [
+  "batch3_tile_0_7": [
     11,
     7
   ],
-  "ground_ruin_018": [
+  "batch3_tile_0_8": [
     11,
     8
   ],
-  "ground_ruin_019": [
+  "batch3_tile_0_9": [
     11,
     9
   ],
-  "ground_ruin_020": [
+  "batch3_tile_0_10": [
     11,
     10
   ],
-  "ground_ruin_021": [
+  "batch3_tile_0_11": [
     11,
     11
   ],
-  "ground_ruin_022": [
+  "batch3_tile_0_12": [
     11,
     12
   ],
-  "ground_ruin_023": [
+  "batch3_tile_0_13": [
     11,
     13
   ],
-  "ground_ruin_024": [
+  "batch3_tile_0_14": [
     11,
     14
   ],
-  "ground_ruin_025": [
+  "batch3_tile_0_15": [
     11,
     15
   ],
-  "ground_ruin_026": [
+  "batch3_tile_1_0": [
     11,
     16
   ],
-  "ground_ruin_027": [
+  "batch3_tile_1_1": [
     11,
     17
   ],
-  "ground_ruin_028": [
+  "batch3_tile_1_2": [
     11,
     18
   ],
-  "ground_ruin_029": [
+  "batch3_tile_1_3": [
     11,
     19
   ],
-  "ground_ruin_030": [
+  "batch3_tile_1_4": [
     11,
     20
   ],
-  "ground_ruin_031": [
+  "batch3_tile_1_5": [
     11,
     21
   ],
-  "ground_ruin_032": [
+  "batch3_tile_1_6": [
     11,
     22
   ],
-  "ground_ruin_033": [
+  "batch3_tile_1_7": [
     11,
     23
   ],
-  "ground_ruin_034": [
+  "batch3_tile_1_8": [
     11,
     24
   ],
-  "ground_jungle_000": [
+  "batch3_tile_1_9": [
     11,
     25
   ],
-  "ground_jungle_001": [
+  "batch3_tile_1_10": [
     11,
     26
   ],
-  "ground_jungle_002": [
+  "batch3_tile_1_11": [
     11,
     27
   ],
-  "ground_jungle_003": [
+  "batch3_tile_1_12": [
     11,
     28
   ],
-  "ground_jungle_004": [
+  "batch3_tile_1_13": [
     11,
     29
   ],
-  "ground_jungle_005": [
+  "batch3_tile_1_14": [
     11,
     30
   ],
-  "ground_jungle_006": [
+  "batch3_tile_1_15": [
     11,
     31
   ],
-  "ground_jungle_007": [
+  "batch3_tile_2_0": [
     12,
     0
   ],
-  "ground_jungle_008": [
+  "batch3_tile_2_1": [
     12,
     1
   ],
-  "ground_jungle_009": [
+  "batch3_tile_2_2": [
     12,
     2
   ],
-  "ground_jungle_010": [
+  "batch3_tile_2_3": [
     12,
     3
   ],
-  "ground_jungle_011": [
+  "batch3_tile_2_4": [
     12,
     4
   ],
-  "ground_jungle_012": [
+  "batch3_tile_2_5": [
     12,
     5
   ],
-  "ground_jungle_013": [
+  "batch3_tile_2_6": [
     12,
     6
   ],
-  "ground_jungle_014": [
+  "batch3_tile_2_7": [
     12,
     7
   ],
-  "ground_jungle_015": [
+  "batch3_tile_2_8": [
     12,
     8
   ],
-  "ground_jungle_016": [
+  "batch3_tile_2_9": [
     12,
     9
   ],
-  "ground_jungle_017": [
+  "batch3_tile_2_10": [
     12,
     10
   ],
-  "ground_jungle_018": [
+  "batch3_tile_2_11": [
     12,
     11
   ],
-  "ground_jungle_019": [
+  "batch3_tile_2_12": [
     12,
     12
   ],
-  "ground_jungle_020": [
+  "batch3_tile_2_13": [
     12,
     13
   ],
-  "ground_jungle_021": [
+  "batch3_tile_2_14": [
     12,
     14
   ],
-  "ground_jungle_022": [
+  "batch3_tile_2_15": [
     12,
     15
   ],
-  "ground_jungle_023": [
+  "batch3_tile_3_0": [
     12,
     16
   ],
-  "ground_jungle_024": [
+  "batch3_tile_3_1": [
     12,
     17
   ],
-  "ground_jungle_025": [
+  "batch3_tile_3_2": [
     12,
     18
   ],
-  "ground_jungle_026": [
+  "batch3_tile_3_3": [
     12,
     19
   ],
-  "ground_jungle_027": [
+  "batch3_tile_3_4": [
     12,
     20
   ],
-  "ground_jungle_028": [
+  "batch3_tile_3_5": [
     12,
     21
   ],
-  "ground_jungle_029": [
+  "batch3_tile_3_6": [
     12,
     22
   ],
-  "ground_jungle_030": [
+  "batch3_tile_3_7": [
     12,
     23
   ],
-  "ground_jungle_031": [
+  "batch3_tile_3_8": [
     12,
     24
   ],
-  "ground_jungle_032": [
+  "batch3_tile_3_9": [
     12,
     25
   ],
-  "ground_jungle_033": [
+  "batch3_tile_3_10": [
     12,
     26
   ],
-  "ground_jungle_034": [
+  "batch3_tile_3_11": [
     12,
     27
   ],
-  "ground_desert_000": [
+  "batch3_tile_3_12": [
     12,
     28
   ],
-  "ground_desert_001": [
+  "batch3_tile_3_13": [
     12,
     29
   ],
-  "ground_desert_002": [
+  "batch3_tile_3_14": [
     12,
     30
   ],
-  "ground_desert_003": [
+  "batch3_tile_3_15": [
     12,
     31
   ],
-  "ground_desert_004": [
+  "batch3_tile_4_0": [
     13,
     0
   ],
-  "ground_desert_005": [
+  "batch3_tile_4_1": [
     13,
     1
   ],
-  "ground_desert_006": [
+  "batch3_tile_4_2": [
     13,
     2
   ],
-  "ground_desert_007": [
+  "batch3_tile_4_3": [
     13,
     3
   ],
-  "ground_desert_008": [
+  "batch3_tile_4_4": [
     13,
     4
   ],
-  "ground_desert_009": [
+  "batch3_tile_4_5": [
     13,
     5
   ],
-  "ground_desert_010": [
+  "batch3_tile_4_6": [
     13,
     6
   ],
-  "ground_desert_011": [
+  "batch3_tile_4_7": [
     13,
     7
   ],
-  "ground_desert_012": [
+  "batch3_tile_4_8": [
     13,
     8
   ],
-  "ground_desert_013": [
+  "batch3_tile_4_9": [
     13,
     9
   ],
-  "ground_desert_014": [
+  "batch3_tile_4_10": [
     13,
     10
   ],
-  "ground_desert_015": [
+  "batch3_tile_4_11": [
     13,
     11
   ],
-  "ground_desert_016": [
+  "batch3_tile_4_12": [
     13,
     12
   ],
-  "ground_desert_017": [
+  "batch3_tile_4_13": [
     13,
     13
   ],
-  "ground_desert_018": [
+  "batch3_tile_4_14": [
     13,
     14
   ],
-  "ground_desert_019": [
+  "batch3_tile_4_15": [
     13,
     15
   ],
-  "ground_desert_020": [
+  "batch3_tile_5_0": [
     13,
     16
   ],
-  "ground_desert_021": [
+  "batch3_tile_5_1": [
     13,
     17
   ],
-  "ground_desert_022": [
+  "batch3_tile_5_2": [
     13,
     18
   ],
-  "ground_desert_023": [
+  "batch3_tile_5_3": [
     13,
     19
   ],
-  "ground_desert_024": [
+  "batch3_tile_5_4": [
     13,
     20
   ],
-  "water_still_variant_000": [
+  "batch3_tile_5_5": [
     13,
     21
   ],
-  "water_still_variant_001": [
+  "batch3_tile_5_6": [
     13,
     22
   ],
-  "water_still_variant_002": [
+  "batch3_tile_5_7": [
     13,
     23
   ],
-  "water_still_variant_003": [
+  "batch3_tile_5_8": [
     13,
     24
   ],
-  "water_still_variant_004": [
+  "batch3_tile_5_9": [
     13,
     25
   ],
-  "water_still_variant_005": [
+  "batch3_tile_5_10": [
     13,
     26
   ],
-  "water_still_variant_006": [
+  "batch3_tile_5_11": [
     13,
     27
   ],
-  "water_still_variant_007": [
+  "batch3_tile_5_12": [
     13,
     28
   ],
-  "water_still_variant_008": [
+  "batch3_tile_5_13": [
     13,
     29
   ],
-  "water_still_variant_009": [
+  "batch3_tile_5_14": [
     13,
     30
   ],
-  "water_still_variant_010": [
+  "batch3_tile_5_15": [
     13,
     31
   ],
-  "water_still_variant_011": [
+  "batch3_tile_6_0": [
     14,
     0
   ],
-  "water_still_variant_012": [
+  "batch3_tile_6_1": [
     14,
     1
   ],
-  "water_still_variant_013": [
+  "batch3_tile_6_2": [
     14,
     2
   ],
-  "water_still_variant_014": [
+  "batch3_tile_6_3": [
     14,
     3
   ],
-  "water_still_variant_015": [
+  "batch3_tile_6_4": [
     14,
     4
   ],
-  "water_still_variant_016": [
+  "batch3_tile_6_5": [
     14,
     5
   ],
-  "water_still_variant_017": [
+  "batch3_tile_6_6": [
     14,
     6
   ],
-  "water_still_variant_018": [
+  "batch3_tile_6_7": [
     14,
     7
   ],
-  "water_still_variant_019": [
+  "batch3_tile_6_8": [
     14,
     8
   ],
-  "water_still_variant_020": [
+  "batch3_tile_6_9": [
     14,
     9
   ],
-  "water_still_variant_021": [
+  "batch3_tile_6_10": [
     14,
     10
   ],
-  "water_still_variant_022": [
+  "batch3_tile_6_11": [
     14,
     11
   ],
-  "water_still_variant_023": [
+  "batch3_tile_6_12": [
     14,
     12
   ],
-  "water_wave_variant_000": [
+  "batch3_tile_6_13": [
     14,
     13
   ],
-  "water_wave_variant_001": [
+  "batch3_tile_6_14": [
     14,
     14
   ],
-  "water_wave_variant_002": [
+  "batch3_tile_6_15": [
     14,
     15
   ],
-  "water_wave_variant_003": [
+  "batch3_tile_7_0": [
     14,
     16
   ],
-  "water_wave_variant_004": [
+  "batch3_tile_7_1": [
     14,
     17
   ],
-  "water_wave_variant_005": [
+  "batch3_tile_7_2": [
     14,
     18
   ],
-  "water_wave_variant_006": [
+  "batch3_tile_7_3": [
     14,
     19
   ],
-  "water_wave_variant_007": [
+  "batch3_tile_7_4": [
     14,
     20
   ],
-  "water_wave_variant_008": [
+  "batch3_tile_7_5": [
     14,
     21
   ],
-  "water_wave_variant_009": [
+  "batch3_tile_7_6": [
     14,
     22
   ],
-  "water_wave_variant_010": [
+  "batch3_tile_7_7": [
     14,
     23
   ],
-  "water_wave_variant_011": [
+  "batch3_tile_7_8": [
     14,
     24
   ],
-  "water_wave_variant_012": [
+  "batch3_tile_7_9": [
     14,
     25
   ],
-  "water_wave_variant_013": [
+  "batch3_tile_7_10": [
     14,
     26
   ],
-  "water_wave_variant_014": [
+  "batch3_tile_7_11": [
     14,
     27
   ],
-  "water_wave_variant_015": [
+  "batch3_tile_7_12": [
     14,
     28
   ],
-  "water_wave_variant_016": [
+  "batch3_tile_7_13": [
     14,
     29
   ],
-  "water_wave_variant_017": [
+  "batch3_tile_7_14": [
     14,
     30
   ],
-  "water_wave_variant_018": [
+  "batch3_tile_7_15": [
     14,
     31
   ],
-  "water_wave_variant_019": [
+  "batch3_tile_8_0": [
     15,
     0
   ],
-  "water_wave_variant_020": [
+  "batch3_tile_8_1": [
     15,
     1
   ],
-  "water_wave_variant_021": [
+  "batch3_tile_8_2": [
     15,
     2
   ],
-  "water_wave_variant_022": [
+  "batch3_tile_8_3": [
     15,
     3
   ],
-  "water_wave_variant_023": [
+  "batch3_tile_8_4": [
     15,
     4
   ],
-  "water_wave_variant_024": [
+  "batch3_tile_8_5": [
     15,
     5
   ],
-  "water_wave_variant_025": [
+  "batch3_tile_8_6": [
     15,
     6
   ],
-  "water_wave_variant_026": [
+  "batch3_tile_8_7": [
     15,
     7
   ],
-  "water_wave_variant_027": [
+  "batch3_tile_8_8": [
     15,
     8
   ],
-  "water_edge_000": [
+  "batch3_tile_8_9": [
     15,
     9
   ],
-  "water_edge_001": [
+  "batch3_tile_8_10": [
     15,
     10
   ],
-  "water_edge_002": [
+  "batch3_tile_8_11": [
     15,
     11
   ],
-  "water_edge_003": [
+  "batch3_tile_8_12": [
     15,
     12
   ],
-  "water_edge_004": [
+  "batch3_tile_8_13": [
     15,
     13
   ],
-  "water_edge_005": [
+  "batch3_tile_8_14": [
     15,
     14
   ],
-  "water_edge_006": [
+  "batch3_tile_8_15": [
     15,
     15
   ],
-  "water_edge_007": [
+  "batch3_tile_9_0": [
     15,
     16
   ],
-  "water_edge_008": [
+  "batch3_tile_9_1": [
     15,
     17
   ],
-  "water_edge_009": [
+  "batch3_tile_9_2": [
     15,
     18
   ],
-  "water_edge_010": [
+  "batch3_tile_9_3": [
     15,
     19
   ],
-  "water_edge_011": [
+  "batch3_tile_9_4": [
     15,
     20
   ],
-  "water_edge_012": [
+  "batch3_tile_9_5": [
     15,
     21
   ],
-  "water_edge_013": [
+  "batch3_tile_9_6": [
     15,
     22
   ],
-  "water_edge_014": [
+  "batch3_tile_9_7": [
     15,
     23
   ],
-  "water_edge_015": [
+  "batch3_tile_9_8": [
     15,
     24
   ],
-  "water_edge_016": [
+  "batch3_tile_9_9": [
     15,
     25
   ],
-  "water_edge_017": [
+  "batch3_tile_9_10": [
     15,
     26
   ],
-  "water_edge_018": [
+  "batch3_tile_9_11": [
     15,
     27
   ],
-  "water_edge_019": [
+  "batch3_tile_9_12": [
     15,
     28
   ],
-  "water_edge_020": [
+  "batch3_tile_9_13": [
     15,
     29
   ],
-  "water_edge_021": [
+  "batch3_tile_9_14": [
     15,
     30
   ],
-  "water_edge_022": [
+  "batch3_tile_9_15": [
     15,
     31
   ],
-  "water_edge_023": [
+  "batch3_tile_10_0": [
     16,
     0
   ],
-  "water_edge_024": [
+  "batch3_tile_10_1": [
     16,
     1
   ],
-  "water_edge_025": [
+  "batch3_tile_10_2": [
     16,
     2
   ],
-  "water_edge_026": [
+  "batch3_tile_10_3": [
     16,
     3
   ],
-  "water_edge_027": [
+  "batch3_tile_10_4": [
     16,
     4
   ],
-  "waterfall_000": [
+  "batch3_tile_10_5": [
     16,
     5
   ],
-  "waterfall_001": [
+  "batch3_tile_10_6": [
     16,
     6
   ],
-  "waterfall_002": [
+  "batch3_tile_10_7": [
     16,
     7
   ],
-  "waterfall_003": [
+  "batch3_tile_10_8": [
     16,
     8
   ],
-  "waterfall_004": [
+  "batch3_tile_10_9": [
     16,
     9
   ],
-  "waterfall_005": [
+  "batch3_tile_10_10": [
     16,
     10
   ],
-  "waterfall_006": [
+  "batch3_tile_10_11": [
     16,
     11
   ],
-  "waterfall_007": [
+  "batch3_tile_10_12": [
     16,
     12
   ],
-  "waterfall_008": [
+  "batch3_tile_10_13": [
     16,
     13
   ],
-  "waterfall_009": [
+  "batch3_tile_10_14": [
     16,
     14
   ],
-  "waterfall_010": [
+  "batch3_tile_10_15": [
     16,
     15
   ],
-  "waterfall_011": [
+  "batch3_tile_11_0": [
     16,
     16
   ],
-  "waterfall_012": [
+  "batch3_tile_11_1": [
     16,
     17
   ],
-  "waterfall_013": [
+  "batch3_tile_11_2": [
     16,
     18
   ],
-  "waterfall_014": [
+  "batch3_tile_11_3": [
     16,
     19
   ],
-  "waterfall_015": [
+  "batch3_tile_11_4": [
     16,
     20
   ],
-  "vegetation_tree_000": [
+  "batch3_tile_11_5": [
     16,
     21
   ],
-  "vegetation_tree_001": [
+  "batch3_tile_11_6": [
     16,
     22
   ],
-  "vegetation_tree_002": [
+  "batch3_tile_11_7": [
     16,
     23
   ],
-  "vegetation_tree_003": [
+  "batch3_tile_11_8": [
     16,
     24
   ],
-  "vegetation_tree_004": [
+  "batch3_tile_11_9": [
     16,
     25
   ],
-  "vegetation_tree_005": [
+  "batch3_tile_11_10": [
     16,
     26
   ],
-  "vegetation_tree_006": [
+  "batch3_tile_11_11": [
     16,
     27
   ],
-  "vegetation_tree_007": [
+  "batch3_tile_11_12": [
     16,
     28
   ],
-  "vegetation_tree_008": [
+  "batch3_tile_11_13": [
     16,
     29
   ],
-  "vegetation_tree_009": [
+  "batch3_tile_11_14": [
     16,
     30
   ],
-  "vegetation_tree_010": [
+  "batch3_tile_11_15": [
     16,
     31
   ],
-  "vegetation_tree_011": [
+  "batch4_tile_0_0": [
     17,
     0
   ],
-  "vegetation_tree_012": [
+  "batch4_tile_0_1": [
     17,
     1
   ],
-  "vegetation_tree_013": [
+  "batch4_tile_0_2": [
     17,
     2
   ],
-  "vegetation_tree_014": [
+  "batch4_tile_0_3": [
     17,
     3
   ],
-  "vegetation_tree_015": [
+  "batch4_tile_0_4": [
     17,
     4
   ],
-  "vegetation_tree_016": [
+  "batch4_tile_0_5": [
     17,
     5
   ],
-  "vegetation_tree_017": [
+  "batch4_tile_0_6": [
     17,
     6
   ],
-  "vegetation_tree_018": [
+  "batch4_tile_0_7": [
     17,
     7
   ],
-  "vegetation_tree_019": [
+  "batch4_tile_0_8": [
     17,
     8
   ],
-  "vegetation_tree_020": [
+  "batch4_tile_0_9": [
     17,
     9
   ],
-  "vegetation_tree_021": [
+  "batch4_tile_0_10": [
     17,
     10
   ],
-  "vegetation_tree_022": [
+  "batch4_tile_0_11": [
     17,
     11
   ],
-  "vegetation_tree_023": [
+  "batch4_tile_0_12": [
     17,
     12
   ],
-  "vegetation_tree_024": [
+  "batch4_tile_0_13": [
     17,
     13
   ],
-  "vegetation_tree_025": [
+  "batch4_tile_0_14": [
     17,
     14
   ],
-  "vegetation_tree_026": [
+  "batch4_tile_0_15": [
     17,
     15
   ],
-  "vegetation_tree_027": [
+  "batch4_tile_1_0": [
     17,
     16
   ],
-  "vegetation_tree_028": [
+  "batch4_tile_1_1": [
     17,
     17
   ],
-  "vegetation_tree_029": [
+  "batch4_tile_1_2": [
     17,
     18
   ],
-  "vegetation_tree_030": [
+  "batch4_tile_1_3": [
     17,
     19
   ],
-  "vegetation_tree_031": [
+  "batch4_tile_1_4": [
     17,
     20
   ],
-  "vegetation_tree_032": [
+  "batch4_tile_1_5": [
     17,
     21
   ],
-  "vegetation_tree_033": [
+  "batch4_tile_1_6": [
     17,
     22
   ],
-  "vegetation_tree_034": [
+  "batch4_tile_1_7": [
     17,
     23
   ],
-  "vegetation_tree_035": [
+  "batch4_tile_1_8": [
     17,
     24
   ],
-  "vegetation_tree_036": [
+  "batch4_tile_1_9": [
     17,
     25
   ],
-  "vegetation_tree_037": [
+  "batch4_tile_1_10": [
     17,
     26
   ],
-  "vegetation_tree_038": [
+  "batch4_tile_1_11": [
     17,
     27
   ],
-  "vegetation_tree_039": [
+  "batch4_tile_1_12": [
     17,
     28
   ],
-  "vegetation_tree_040": [
+  "batch4_tile_1_13": [
     17,
     29
   ],
-  "vegetation_tree_041": [
+  "batch4_tile_1_14": [
     17,
     30
   ],
-  "vegetation_tree_042": [
+  "batch4_tile_1_15": [
     17,
     31
   ],
-  "vegetation_tree_043": [
+  "batch4_tile_2_0": [
     18,
     0
   ],
-  "vegetation_tree_044": [
+  "batch4_tile_2_1": [
     18,
     1
   ],
-  "vegetation_tree_045": [
+  "batch4_tile_2_2": [
     18,
     2
   ],
-  "vegetation_tree_046": [
+  "batch4_tile_2_3": [
     18,
     3
   ],
-  "vegetation_tree_047": [
+  "batch4_tile_2_4": [
     18,
     4
   ],
-  "vegetation_tree_048": [
+  "batch4_tile_2_5": [
     18,
     5
   ],
-  "vegetation_tree_049": [
+  "batch4_tile_2_6": [
     18,
     6
   ],
-  "vegetation_tree_050": [
+  "batch4_tile_2_7": [
     18,
     7
   ],
-  "vegetation_tree_051": [
+  "batch4_tile_2_8": [
     18,
     8
   ],
-  "vegetation_tree_052": [
+  "batch4_tile_2_9": [
     18,
     9
   ],
-  "vegetation_tree_053": [
+  "batch4_tile_2_10": [
     18,
     10
   ],
-  "vegetation_tree_054": [
+  "batch4_tile_2_11": [
     18,
     11
   ],
-  "vegetation_tree_055": [
+  "batch4_tile_2_12": [
     18,
     12
   ],
-  "vegetation_tree_056": [
+  "batch4_tile_2_13": [
     18,
     13
   ],
-  "vegetation_tree_057": [
+  "batch4_tile_2_14": [
     18,
     14
   ],
-  "vegetation_tree_058": [
+  "batch4_tile_2_15": [
     18,
     15
   ],
-  "vegetation_tree_059": [
+  "batch4_tile_3_0": [
     18,
     16
   ],
-  "vegetation_tree_060": [
+  "batch4_tile_3_1": [
     18,
     17
   ],
-  "vegetation_tree_061": [
+  "batch4_tile_3_2": [
     18,
     18
   ],
-  "vegetation_tree_062": [
+  "batch4_tile_3_3": [
     18,
     19
   ],
-  "vegetation_tree_063": [
+  "batch4_tile_3_4": [
     18,
     20
   ],
-  "vegetation_tree_064": [
+  "batch4_tile_3_5": [
     18,
     21
   ],
-  "vegetation_tree_065": [
+  "batch4_tile_3_6": [
     18,
     22
   ],
-  "vegetation_tree_066": [
+  "batch4_tile_3_7": [
     18,
     23
   ],
-  "vegetation_tree_067": [
+  "batch4_tile_3_8": [
     18,
     24
   ],
-  "vegetation_tree_068": [
+  "batch4_tile_3_9": [
     18,
     25
   ],
-  "vegetation_tree_069": [
+  "batch4_tile_3_10": [
     18,
     26
   ],
-  "vegetation_tree_070": [
+  "batch4_tile_3_11": [
     18,
     27
   ],
-  "vegetation_tree_071": [
+  "batch4_tile_3_12": [
     18,
     28
   ],
-  "vegetation_tree_072": [
+  "batch4_tile_3_13": [
     18,
     29
   ],
-  "vegetation_tree_073": [
+  "batch4_tile_3_14": [
     18,
     30
   ],
-  "vegetation_tree_074": [
+  "batch4_tile_3_15": [
     18,
     31
   ],
-  "vegetation_tree_075": [
+  "batch4_tile_4_0": [
     19,
     0
   ],
-  "vegetation_tree_076": [
+  "batch4_tile_4_1": [
     19,
     1
   ],
-  "vegetation_tree_077": [
+  "batch4_tile_4_2": [
     19,
     2
   ],
-  "vegetation_tree_078": [
+  "batch4_tile_4_3": [
     19,
     3
   ],
-  "vegetation_tree_079": [
+  "batch4_tile_4_4": [
     19,
     4
   ],
-  "vegetation_grass_000": [
+  "batch4_tile_4_5": [
     19,
     5
   ],
-  "vegetation_grass_001": [
+  "batch4_tile_4_6": [
     19,
     6
   ],
-  "vegetation_grass_002": [
+  "batch4_tile_4_7": [
     19,
     7
   ],
-  "vegetation_grass_003": [
+  "batch4_tile_4_8": [
     19,
     8
   ],
-  "vegetation_grass_004": [
+  "batch4_tile_4_9": [
     19,
     9
   ],
-  "vegetation_grass_005": [
+  "batch4_tile_4_10": [
     19,
     10
   ],
-  "vegetation_grass_006": [
+  "batch4_tile_4_11": [
     19,
     11
   ],
-  "vegetation_grass_007": [
+  "batch4_tile_4_12": [
     19,
     12
   ],
-  "vegetation_grass_008": [
+  "batch4_tile_4_13": [
     19,
     13
   ],
-  "vegetation_grass_009": [
+  "batch4_tile_4_14": [
     19,
     14
   ],
-  "vegetation_grass_010": [
+  "batch4_tile_4_15": [
     19,
     15
   ],
-  "vegetation_grass_011": [
+  "batch4_tile_5_0": [
     19,
     16
   ],
-  "vegetation_grass_012": [
+  "batch4_tile_5_1": [
     19,
     17
   ],
-  "vegetation_grass_013": [
+  "batch4_tile_5_2": [
     19,
     18
   ],
-  "vegetation_grass_014": [
+  "batch4_tile_5_3": [
     19,
     19
   ],
-  "vegetation_grass_015": [
+  "batch4_tile_5_4": [
     19,
     20
   ],
-  "vegetation_grass_016": [
+  "batch4_tile_5_5": [
     19,
     21
   ],
-  "vegetation_grass_017": [
+  "batch4_tile_5_6": [
     19,
     22
   ],
-  "vegetation_grass_018": [
+  "batch4_tile_5_7": [
     19,
     23
   ],
-  "vegetation_grass_019": [
+  "batch4_tile_5_8": [
     19,
     24
   ],
-  "vegetation_grass_020": [
+  "batch4_tile_5_9": [
     19,
     25
   ],
-  "vegetation_grass_021": [
+  "batch4_tile_5_10": [
     19,
     26
   ],
-  "vegetation_grass_022": [
+  "batch4_tile_5_11": [
     19,
     27
   ],
-  "vegetation_grass_023": [
+  "batch4_tile_5_12": [
     19,
     28
   ],
-  "vegetation_grass_024": [
+  "batch4_tile_5_13": [
     19,
     29
   ],
-  "vegetation_grass_025": [
+  "batch4_tile_5_14": [
     19,
     30
   ],
-  "vegetation_grass_026": [
+  "batch4_tile_5_15": [
     19,
     31
   ],
-  "vegetation_grass_027": [
+  "batch4_tile_6_0": [
     20,
     0
   ],
-  "vegetation_grass_028": [
+  "batch4_tile_6_1": [
     20,
     1
   ],
-  "vegetation_grass_029": [
+  "batch4_tile_6_2": [
     20,
     2
   ],
-  "vegetation_flower_000": [
+  "batch4_tile_6_3": [
     20,
     3
   ],
-  "vegetation_flower_001": [
+  "batch4_tile_6_4": [
     20,
     4
   ],
-  "vegetation_flower_002": [
+  "batch4_tile_6_5": [
     20,
     5
   ],
-  "vegetation_flower_003": [
+  "batch4_tile_6_6": [
     20,
     6
   ],
-  "vegetation_flower_004": [
+  "batch4_tile_6_7": [
     20,
     7
   ],
-  "vegetation_flower_005": [
+  "batch4_tile_6_8": [
     20,
     8
   ],
-  "vegetation_flower_006": [
+  "batch4_tile_6_9": [
     20,
     9
   ],
-  "vegetation_flower_007": [
+  "batch4_tile_6_10": [
     20,
     10
   ],
-  "vegetation_flower_008": [
+  "batch4_tile_6_11": [
     20,
     11
   ],
-  "vegetation_flower_009": [
+  "batch4_tile_6_12": [
     20,
     12
   ],
-  "vegetation_flower_010": [
+  "batch4_tile_6_13": [
     20,
     13
   ],
-  "vegetation_flower_011": [
+  "batch4_tile_6_14": [
     20,
     14
   ],
-  "vegetation_flower_012": [
+  "batch4_tile_6_15": [
     20,
     15
   ],
-  "vegetation_flower_013": [
+  "batch4_tile_7_0": [
     20,
     16
   ],
-  "vegetation_flower_014": [
+  "batch4_tile_7_1": [
     20,
     17
   ],
-  "vegetation_flower_015": [
+  "batch4_tile_7_2": [
     20,
     18
   ],
-  "vegetation_flower_016": [
+  "batch4_tile_7_3": [
     20,
     19
   ],
-  "vegetation_flower_017": [
+  "batch4_tile_7_4": [
     20,
     20
   ],
-  "vegetation_flower_018": [
+  "batch4_tile_7_5": [
     20,
     21
   ],
-  "vegetation_flower_019": [
+  "batch4_tile_7_6": [
     20,
     22
   ],
-  "vegetation_flower_020": [
+  "batch4_tile_7_7": [
     20,
     23
   ],
-  "vegetation_flower_021": [
+  "batch4_tile_7_8": [
     20,
     24
   ],
-  "vegetation_flower_022": [
+  "batch4_tile_7_9": [
     20,
     25
   ],
-  "vegetation_flower_023": [
+  "batch4_tile_7_10": [
     20,
     26
   ],
-  "vegetation_bush_000": [
+  "batch4_tile_7_11": [
     20,
     27
   ],
-  "vegetation_bush_001": [
+  "batch4_tile_7_12": [
     20,
     28
   ],
-  "vegetation_bush_002": [
+  "batch4_tile_7_13": [
     20,
     29
   ],
-  "vegetation_bush_003": [
+  "batch4_tile_7_14": [
     20,
     30
   ],
-  "vegetation_bush_004": [
+  "batch4_tile_7_15": [
     20,
     31
   ],
-  "vegetation_bush_005": [
+  "batch4_tile_8_0": [
     21,
     0
   ],
-  "vegetation_bush_006": [
+  "batch4_tile_8_1": [
     21,
     1
   ],
-  "vegetation_bush_007": [
+  "batch4_tile_8_2": [
     21,
     2
   ],
-  "vegetation_bush_008": [
+  "batch4_tile_8_3": [
     21,
     3
   ],
-  "vegetation_bush_009": [
+  "batch4_tile_8_4": [
     21,
     4
   ],
-  "vegetation_bush_010": [
+  "batch4_tile_8_5": [
     21,
     5
   ],
-  "vegetation_bush_011": [
+  "batch4_tile_8_6": [
     21,
     6
   ],
-  "vegetation_bush_012": [
+  "batch4_tile_8_7": [
     21,
     7
   ],
-  "vegetation_bush_013": [
+  "batch4_tile_8_8": [
     21,
     8
   ],
-  "vegetation_bush_014": [
+  "batch4_tile_8_9": [
     21,
     9
   ],
-  "vegetation_bush_015": [
+  "batch4_tile_8_10": [
     21,
     10
   ],
-  "vegetation_bush_016": [
+  "batch4_tile_8_11": [
     21,
     11
   ],
-  "vegetation_bush_017": [
+  "batch4_tile_8_12": [
     21,
     12
   ],
-  "vegetation_bush_018": [
+  "batch4_tile_8_13": [
     21,
     13
   ],
-  "vegetation_bush_019": [
+  "batch4_tile_8_14": [
     21,
     14
   ],
-  "vegetation_bush_020": [
+  "batch4_tile_8_15": [
     21,
     15
   ],
-  "vegetation_bush_021": [
+  "batch4_tile_9_0": [
     21,
     16
   ],
-  "vegetation_bush_022": [
+  "batch4_tile_9_1": [
     21,
     17
   ],
-  "vegetation_bush_023": [
+  "batch4_tile_9_2": [
     21,
     18
   ],
-  "vegetation_bush_024": [
+  "batch4_tile_9_3": [
     21,
     19
   ],
-  "vegetation_bush_025": [
+  "batch4_tile_9_4": [
     21,
     20
   ],
-  "vegetation_bush_026": [
+  "batch4_tile_9_5": [
     21,
     21
   ],
-  "vegetation_bush_027": [
+  "batch4_tile_9_6": [
     21,
     22
   ],
-  "vegetation_special_000": [
+  "batch4_tile_9_7": [
     21,
     23
   ],
-  "vegetation_special_001": [
+  "batch4_tile_9_8": [
     21,
     24
   ],
-  "vegetation_special_002": [
+  "batch4_tile_9_9": [
     21,
     25
   ],
-  "vegetation_special_003": [
+  "batch4_tile_9_10": [
     21,
     26
   ],
-  "vegetation_special_004": [
+  "batch4_tile_9_11": [
     21,
     27
   ],
-  "vegetation_special_005": [
+  "batch4_tile_9_12": [
     21,
     28
   ],
-  "vegetation_special_006": [
+  "batch4_tile_9_13": [
     21,
     29
   ],
-  "vegetation_special_007": [
+  "batch4_tile_9_14": [
     21,
     30
   ],
-  "vegetation_special_008": [
+  "batch4_tile_9_15": [
     21,
     31
   ],
-  "vegetation_special_009": [
+  "batch4_tile_10_0": [
     22,
     0
   ],
-  "vegetation_special_010": [
+  "batch4_tile_10_1": [
     22,
     1
   ],
-  "vegetation_special_011": [
+  "batch4_tile_10_2": [
     22,
     2
   ],
-  "vegetation_special_012": [
+  "batch4_tile_10_3": [
     22,
     3
   ],
-  "vegetation_special_013": [
+  "batch4_tile_10_4": [
     22,
     4
   ],
-  "vegetation_special_014": [
+  "batch4_tile_10_5": [
     22,
     5
   ],
-  "vegetation_special_015": [
+  "batch4_tile_10_6": [
     22,
     6
   ],
-  "vegetation_special_016": [
+  "batch4_tile_10_7": [
     22,
     7
   ],
-  "vegetation_special_017": [
+  "batch4_tile_10_8": [
     22,
     8
   ],
-  "vegetation_special_018": [
+  "batch4_tile_10_9": [
     22,
     9
   ],
-  "vegetation_special_019": [
+  "batch4_tile_10_10": [
     22,
     10
   ],
-  "vegetation_special_020": [
+  "batch4_tile_10_11": [
     22,
     11
   ],
-  "vegetation_special_021": [
+  "batch4_tile_10_12": [
     22,
     12
   ],
-  "vegetation_special_022": [
+  "batch4_tile_10_13": [
     22,
     13
   ],
-  "vegetation_special_023": [
+  "batch4_tile_10_14": [
     22,
     14
   ],
-  "building_wall_000": [
+  "batch4_tile_10_15": [
     22,
     15
   ],
-  "building_wall_001": [
+  "batch4_tile_11_0": [
     22,
     16
   ],
-  "building_wall_002": [
+  "batch4_tile_11_1": [
     22,
     17
   ],
-  "building_wall_003": [
+  "batch4_tile_11_2": [
     22,
     18
   ],
-  "building_wall_004": [
+  "batch4_tile_11_3": [
     22,
     19
   ],
-  "building_wall_005": [
+  "batch4_tile_11_4": [
     22,
     20
   ],
-  "building_wall_006": [
+  "batch4_tile_11_5": [
     22,
     21
   ],
-  "building_wall_007": [
+  "batch4_tile_11_6": [
     22,
     22
   ],
-  "building_wall_008": [
+  "batch4_tile_11_7": [
     22,
     23
   ],
-  "building_wall_009": [
+  "batch4_tile_11_8": [
     22,
     24
   ],
-  "building_wall_010": [
+  "batch4_tile_11_9": [
     22,
     25
   ],
-  "building_wall_011": [
+  "batch4_tile_11_10": [
     22,
     26
   ],
-  "building_wall_012": [
+  "batch4_tile_11_11": [
     22,
     27
   ],
-  "building_wall_013": [
+  "batch4_tile_11_12": [
     22,
     28
   ],
-  "building_wall_014": [
+  "batch4_tile_11_13": [
     22,
     29
   ],
-  "building_wall_015": [
+  "batch4_tile_11_14": [
     22,
     30
   ],
-  "building_wall_016": [
+  "batch4_tile_11_15": [
     22,
     31
   ],
-  "building_wall_017": [
+  "batch5_tile_0_0": [
     23,
     0
   ],
-  "building_wall_018": [
+  "batch5_tile_0_1": [
     23,
     1
   ],
-  "building_wall_019": [
+  "batch5_tile_0_2": [
     23,
     2
   ],
-  "building_wall_020": [
+  "batch5_tile_0_3": [
     23,
     3
   ],
-  "building_wall_021": [
+  "batch5_tile_0_4": [
     23,
     4
   ],
-  "building_wall_022": [
+  "batch5_tile_0_5": [
     23,
     5
   ],
-  "building_wall_023": [
+  "batch5_tile_0_6": [
     23,
     6
   ],
-  "building_wall_024": [
+  "batch5_tile_0_7": [
     23,
     7
   ],
-  "building_wall_025": [
+  "batch5_tile_0_8": [
     23,
     8
   ],
-  "building_wall_026": [
+  "batch5_tile_0_9": [
     23,
     9
   ],
-  "building_wall_027": [
+  "batch5_tile_0_10": [
     23,
     10
   ],
-  "building_wall_028": [
+  "batch5_tile_0_11": [
     23,
     11
   ],
-  "building_wall_029": [
+  "batch5_tile_0_12": [
     23,
     12
   ],
-  "building_wall_030": [
+  "batch5_tile_0_13": [
     23,
     13
   ],
-  "building_wall_031": [
+  "batch5_tile_0_14": [
     23,
     14
   ],
-  "building_wall_032": [
+  "batch5_tile_0_15": [
     23,
     15
   ],
-  "building_wall_033": [
+  "batch5_tile_1_0": [
     23,
     16
   ],
-  "building_wall_034": [
+  "batch5_tile_1_1": [
     23,
     17
   ],
-  "building_wall_035": [
+  "batch5_tile_1_2": [
     23,
     18
   ],
-  "building_wall_036": [
+  "batch5_tile_1_3": [
     23,
     19
   ],
-  "building_wall_037": [
+  "batch5_tile_1_4": [
     23,
     20
   ],
-  "building_wall_038": [
+  "batch5_tile_1_5": [
     23,
     21
   ],
-  "building_wall_039": [
+  "batch5_tile_1_6": [
     23,
     22
   ],
-  "building_wall_040": [
+  "batch5_tile_1_7": [
     23,
     23
   ],
-  "building_wall_041": [
+  "batch5_tile_1_8": [
     23,
     24
   ],
-  "building_wall_042": [
+  "batch5_tile_1_9": [
     23,
     25
   ],
-  "building_wall_043": [
+  "batch5_tile_1_10": [
     23,
     26
   ],
-  "building_wall_044": [
+  "batch5_tile_1_11": [
     23,
     27
   ],
-  "building_wall_045": [
+  "batch5_tile_1_12": [
     23,
     28
   ],
-  "building_wall_046": [
+  "batch5_tile_1_13": [
     23,
     29
   ],
-  "building_wall_047": [
+  "batch5_tile_1_14": [
     23,
     30
   ],
-  "building_wall_048": [
+  "batch5_tile_1_15": [
     23,
     31
   ],
-  "building_wall_049": [
+  "batch5_tile_2_0": [
     24,
     0
   ],
-  "building_wall_050": [
+  "batch5_tile_2_1": [
     24,
     1
   ],
-  "building_wall_051": [
+  "batch5_tile_2_2": [
     24,
     2
   ],
-  "building_wall_052": [
+  "batch5_tile_2_3": [
     24,
     3
   ],
-  "building_wall_053": [
+  "batch5_tile_2_4": [
     24,
     4
   ],
-  "building_wall_054": [
+  "batch5_tile_2_5": [
     24,
     5
   ],
-  "building_wall_055": [
+  "batch5_tile_2_6": [
     24,
     6
   ],
-  "building_wall_056": [
+  "batch5_tile_2_7": [
     24,
     7
   ],
-  "building_wall_057": [
+  "batch5_tile_2_8": [
     24,
     8
   ],
-  "building_wall_058": [
+  "batch5_tile_2_9": [
     24,
     9
   ],
-  "building_wall_059": [
+  "batch5_tile_2_10": [
     24,
     10
   ],
-  "building_wall_060": [
+  "batch5_tile_2_11": [
     24,
     11
   ],
-  "building_wall_061": [
+  "batch5_tile_2_12": [
     24,
     12
   ],
-  "building_wall_062": [
+  "batch5_tile_2_13": [
     24,
     13
   ],
-  "building_wall_063": [
+  "batch5_tile_2_14": [
     24,
     14
   ],
-  "building_wall_064": [
+  "batch5_tile_2_15": [
     24,
     15
   ],
-  "building_wall_065": [
+  "batch5_tile_3_0": [
     24,
     16
   ],
-  "building_wall_066": [
+  "batch5_tile_3_1": [
     24,
     17
   ],
-  "building_wall_067": [
+  "batch5_tile_3_2": [
     24,
     18
   ],
-  "building_wall_068": [
+  "batch5_tile_3_3": [
     24,
     19
   ],
-  "building_wall_069": [
+  "batch5_tile_3_4": [
     24,
     20
   ],
-  "building_roof_000": [
+  "batch5_tile_3_5": [
     24,
     21
   ],
-  "building_roof_001": [
+  "batch5_tile_3_6": [
     24,
     22
   ],
-  "building_roof_002": [
+  "batch5_tile_3_7": [
     24,
     23
   ],
-  "building_roof_003": [
+  "batch5_tile_3_8": [
     24,
     24
   ],
-  "building_roof_004": [
+  "batch5_tile_3_9": [
     24,
     25
   ],
-  "building_roof_005": [
+  "batch5_tile_3_10": [
     24,
     26
   ],
-  "building_roof_006": [
+  "batch5_tile_3_11": [
     24,
     27
   ],
-  "building_roof_007": [
+  "batch5_tile_3_12": [
     24,
     28
   ],
-  "building_roof_008": [
+  "batch5_tile_3_13": [
     24,
     29
   ],
-  "building_roof_009": [
+  "batch5_tile_3_14": [
     24,
     30
   ],
-  "building_roof_010": [
+  "batch5_tile_3_15": [
     24,
     31
   ],
-  "building_roof_011": [
+  "batch5_tile_4_0": [
     25,
     0
   ],
-  "building_roof_012": [
+  "batch5_tile_4_1": [
     25,
     1
   ],
-  "building_roof_013": [
+  "batch5_tile_4_2": [
     25,
     2
   ],
-  "building_roof_014": [
+  "batch5_tile_4_3": [
     25,
     3
   ],
-  "building_roof_015": [
+  "batch5_tile_4_4": [
     25,
     4
   ],
-  "building_roof_016": [
+  "batch5_tile_4_5": [
     25,
     5
   ],
-  "building_roof_017": [
+  "batch5_tile_4_6": [
     25,
     6
   ],
-  "building_roof_018": [
+  "batch5_tile_4_7": [
     25,
     7
   ],
-  "building_roof_019": [
+  "batch5_tile_4_8": [
     25,
     8
   ],
-  "building_roof_020": [
+  "batch5_tile_4_9": [
     25,
     9
   ],
-  "building_roof_021": [
+  "batch5_tile_4_10": [
     25,
     10
   ],
-  "building_roof_022": [
+  "batch5_tile_4_11": [
     25,
     11
   ],
-  "building_roof_023": [
+  "batch5_tile_4_12": [
     25,
     12
   ],
-  "building_roof_024": [
+  "batch5_tile_4_13": [
     25,
     13
   ],
-  "building_roof_025": [
+  "batch5_tile_4_14": [
     25,
     14
   ],
-  "building_roof_026": [
+  "batch5_tile_4_15": [
     25,
     15
   ],
-  "building_roof_027": [
+  "batch5_tile_5_0": [
     25,
     16
   ],
-  "building_roof_028": [
+  "batch5_tile_5_1": [
     25,
     17
   ],
-  "building_roof_029": [
+  "batch5_tile_5_2": [
     25,
     18
   ],
-  "building_roof_030": [
+  "batch5_tile_5_3": [
     25,
     19
   ],
-  "building_roof_031": [
+  "batch5_tile_5_4": [
     25,
     20
   ],
-  "building_roof_032": [
+  "batch5_tile_5_5": [
     25,
     21
   ],
-  "building_roof_033": [
+  "batch5_tile_5_6": [
     25,
     22
   ],
-  "building_roof_034": [
+  "batch5_tile_5_7": [
     25,
     23
   ],
-  "building_roof_035": [
+  "batch5_tile_5_8": [
     25,
     24
   ],
-  "building_roof_036": [
+  "batch5_tile_5_9": [
     25,
     25
   ],
-  "building_roof_037": [
+  "batch5_tile_5_10": [
     25,
     26
   ],
-  "building_roof_038": [
+  "batch5_tile_5_11": [
     25,
     27
   ],
-  "building_roof_039": [
+  "batch5_tile_5_12": [
     25,
     28
   ],
-  "building_roof_040": [
+  "batch5_tile_5_13": [
     25,
     29
   ],
-  "building_roof_041": [
+  "batch5_tile_5_14": [
     25,
     30
   ],
-  "building_roof_042": [
+  "batch5_tile_5_15": [
     25,
     31
   ],
-  "building_roof_043": [
+  "batch5_tile_6_0": [
     26,
     0
   ],
-  "building_roof_044": [
+  "batch5_tile_6_1": [
     26,
     1
   ],
-  "building_roof_045": [
+  "batch5_tile_6_2": [
     26,
     2
   ],
-  "building_roof_046": [
+  "batch5_tile_6_3": [
     26,
     3
   ],
-  "building_roof_047": [
+  "batch5_tile_6_4": [
     26,
     4
   ],
-  "building_roof_048": [
+  "batch5_tile_6_5": [
     26,
     5
   ],
-  "building_roof_049": [
+  "batch5_tile_6_6": [
     26,
     6
   ],
-  "building_roof_050": [
+  "batch5_tile_6_7": [
     26,
     7
   ],
-  "building_roof_051": [
+  "batch5_tile_6_8": [
     26,
     8
   ],
-  "building_roof_052": [
+  "batch5_tile_6_9": [
     26,
     9
   ],
-  "building_roof_053": [
+  "batch5_tile_6_10": [
     26,
     10
   ],
-  "building_roof_054": [
+  "batch5_tile_6_11": [
     26,
     11
   ],
-  "building_roof_055": [
+  "batch5_tile_6_12": [
     26,
     12
   ],
-  "building_roof_056": [
+  "batch5_tile_6_13": [
     26,
     13
   ],
-  "building_roof_057": [
+  "batch5_tile_6_14": [
     26,
     14
   ],
-  "building_door_000": [
+  "batch5_tile_6_15": [
     26,
     15
   ],
-  "building_door_001": [
+  "batch5_tile_7_0": [
     26,
     16
   ],
-  "building_door_002": [
+  "batch5_tile_7_1": [
     26,
     17
   ],
-  "building_door_003": [
+  "batch5_tile_7_2": [
     26,
     18
   ],
-  "building_door_004": [
+  "batch5_tile_7_3": [
     26,
     19
   ],
-  "building_door_005": [
+  "batch5_tile_7_4": [
     26,
     20
   ],
-  "building_door_006": [
+  "batch5_tile_7_5": [
     26,
     21
   ],
-  "building_door_007": [
+  "batch5_tile_7_6": [
     26,
     22
   ],
-  "building_door_008": [
+  "batch5_tile_7_7": [
     26,
     23
   ],
-  "building_door_009": [
+  "batch5_tile_7_8": [
     26,
     24
   ],
-  "building_door_010": [
+  "batch5_tile_7_9": [
     26,
     25
   ],
-  "building_door_011": [
+  "batch5_tile_7_10": [
     26,
     26
   ],
-  "building_door_012": [
+  "batch5_tile_7_11": [
     26,
     27
   ],
-  "building_door_013": [
+  "batch5_tile_7_12": [
     26,
     28
   ],
-  "building_door_014": [
+  "batch5_tile_7_13": [
     26,
     29
   ],
-  "building_door_015": [
+  "batch5_tile_7_14": [
     26,
     30
   ],
-  "building_door_016": [
+  "batch5_tile_7_15": [
     26,
     31
   ],
-  "building_door_017": [
+  "batch5_tile_8_0": [
     27,
     0
   ],
-  "building_door_018": [
+  "batch5_tile_8_1": [
     27,
     1
   ],
-  "building_door_019": [
+  "batch5_tile_8_2": [
     27,
     2
   ],
-  "building_door_020": [
+  "batch5_tile_8_3": [
     27,
     3
   ],
-  "building_door_021": [
+  "batch5_tile_8_4": [
     27,
     4
   ],
-  "building_door_022": [
+  "batch5_tile_8_5": [
     27,
     5
   ],
-  "building_door_023": [
+  "batch5_tile_8_6": [
     27,
     6
   ],
-  "building_window_000": [
+  "batch5_tile_8_7": [
     27,
     7
   ],
-  "building_window_001": [
+  "batch5_tile_8_8": [
     27,
     8
   ],
-  "building_window_002": [
+  "batch5_tile_8_9": [
     27,
     9
   ],
-  "building_window_003": [
+  "batch5_tile_8_10": [
     27,
     10
   ],
-  "building_window_004": [
+  "batch5_tile_8_11": [
     27,
     11
   ],
-  "building_window_005": [
+  "batch5_tile_8_12": [
     27,
     12
   ],
-  "building_window_006": [
+  "batch5_tile_8_13": [
     27,
     13
   ],
-  "building_window_007": [
+  "batch5_tile_8_14": [
     27,
     14
   ],
-  "building_window_008": [
+  "batch5_tile_8_15": [
     27,
     15
   ],
-  "building_window_009": [
+  "batch5_tile_9_0": [
     27,
     16
   ],
-  "building_window_010": [
+  "batch5_tile_9_1": [
     27,
     17
   ],
-  "building_window_011": [
+  "batch5_tile_9_2": [
     27,
     18
   ],
-  "building_window_012": [
+  "batch5_tile_9_3": [
     27,
     19
   ],
-  "building_window_013": [
+  "batch5_tile_9_4": [
     27,
     20
   ],
-  "building_window_014": [
+  "batch5_tile_9_5": [
     27,
     21
   ],
-  "building_window_015": [
+  "batch5_tile_9_6": [
     27,
     22
   ],
-  "building_window_016": [
+  "batch5_tile_9_7": [
     27,
     23
   ],
-  "building_window_017": [
+  "batch5_tile_9_8": [
     27,
     24
   ],
-  "building_window_018": [
+  "batch5_tile_9_9": [
     27,
     25
   ],
-  "building_window_019": [
+  "batch5_tile_9_10": [
     27,
     26
   ],
-  "building_window_020": [
+  "batch5_tile_9_11": [
     27,
     27
   ],
-  "building_window_021": [
+  "batch5_tile_9_12": [
     27,
     28
   ],
-  "building_window_022": [
+  "batch5_tile_9_13": [
     27,
     29
   ],
-  "building_window_023": [
+  "batch5_tile_9_14": [
     27,
     30
   ],
-  "building_fence_000": [
+  "batch5_tile_9_15": [
     27,
     31
   ],
-  "building_fence_001": [
+  "batch6_tile_0_0": [
     28,
     0
   ],
-  "building_fence_002": [
+  "batch6_tile_0_1": [
     28,
     1
   ],
-  "building_fence_003": [
+  "batch6_tile_0_2": [
     28,
     2
   ],
-  "building_fence_004": [
+  "batch6_tile_0_3": [
     28,
     3
   ],
-  "building_fence_005": [
+  "batch6_tile_0_4": [
     28,
     4
   ],
-  "building_fence_006": [
+  "batch6_tile_0_5": [
     28,
     5
   ],
-  "building_fence_007": [
+  "batch6_tile_0_6": [
     28,
     6
   ],
-  "building_fence_008": [
+  "batch6_tile_0_7": [
     28,
     7
   ],
-  "building_fence_009": [
+  "batch6_tile_0_8": [
     28,
     8
   ],
-  "building_fence_010": [
+  "batch6_tile_0_9": [
     28,
     9
   ],
-  "building_fence_011": [
+  "batch6_tile_0_10": [
     28,
     10
   ],
-  "building_fence_012": [
+  "batch6_tile_0_11": [
     28,
     11
   ],
-  "building_fence_013": [
+  "batch6_tile_0_12": [
     28,
     12
   ],
-  "building_fence_014": [
+  "batch6_tile_0_13": [
     28,
     13
   ],
-  "building_fence_015": [
+  "batch6_tile_0_14": [
     28,
     14
   ],
-  "building_fence_016": [
+  "batch6_tile_0_15": [
     28,
     15
   ],
-  "building_fence_017": [
+  "batch6_tile_1_0": [
     28,
     16
   ],
-  "building_fence_018": [
+  "batch6_tile_1_1": [
     28,
     17
   ],
-  "building_fence_019": [
+  "batch6_tile_1_2": [
     28,
     18
   ],
-  "building_fence_020": [
+  "batch6_tile_1_3": [
     28,
     19
   ],
-  "building_fence_021": [
+  "batch6_tile_1_4": [
     28,
     20
   ],
-  "building_fence_022": [
+  "batch6_tile_1_5": [
     28,
     21
   ],
-  "building_fence_023": [
+  "batch6_tile_1_6": [
     28,
     22
   ],
-  "building_rotria_000": [
+  "batch6_tile_1_7": [
     28,
     23
   ],
-  "building_rotria_001": [
+  "batch6_tile_1_8": [
     28,
     24
   ],
-  "building_rotria_002": [
+  "batch6_tile_1_9": [
     28,
     25
   ],
-  "building_rotria_003": [
+  "batch6_tile_1_10": [
     28,
     26
   ],
-  "building_rotria_004": [
+  "batch6_tile_1_11": [
     28,
     27
   ],
-  "building_rotria_005": [
+  "batch6_tile_1_12": [
     28,
     28
   ],
-  "building_rotria_006": [
+  "batch6_tile_1_13": [
     28,
     29
   ],
-  "building_rotria_007": [
+  "batch6_tile_1_14": [
     28,
     30
   ],
-  "building_rotria_008": [
+  "batch6_tile_1_15": [
     28,
     31
   ],
-  "building_rotria_009": [
+  "batch6_tile_2_0": [
     29,
     0
   ],
-  "building_rotria_010": [
+  "batch6_tile_2_1": [
     29,
     1
   ],
-  "building_rotria_011": [
+  "batch6_tile_2_2": [
     29,
     2
   ],
-  "building_rotria_012": [
+  "batch6_tile_2_3": [
     29,
     3
   ],
-  "building_rotria_013": [
+  "batch6_tile_2_4": [
     29,
     4
   ],
-  "building_rotria_014": [
+  "batch6_tile_2_5": [
     29,
     5
   ],
-  "building_rotria_015": [
+  "batch6_tile_2_6": [
     29,
     6
   ],
-  "building_rotria_016": [
+  "batch6_tile_2_7": [
     29,
     7
   ],
-  "building_rotria_017": [
+  "batch6_tile_2_8": [
     29,
     8
   ],
-  "building_rotria_018": [
+  "batch6_tile_2_9": [
     29,
     9
   ],
-  "building_rotria_019": [
+  "batch6_tile_2_10": [
     29,
     10
   ],
-  "building_rotria_020": [
+  "batch6_tile_2_11": [
     29,
     11
   ],
-  "building_rotria_021": [
+  "batch6_tile_2_12": [
     29,
     12
   ],
-  "building_rotria_022": [
+  "batch6_tile_2_13": [
     29,
     13
   ],
-  "building_rotria_023": [
+  "batch6_tile_2_14": [
     29,
     14
   ],
-  "building_rotria_024": [
+  "batch6_tile_2_15": [
     29,
     15
   ],
-  "building_rotria_025": [
+  "batch6_tile_3_0": [
     29,
     16
   ],
-  "building_rotria_026": [
+  "batch6_tile_3_1": [
     29,
     17
   ],
-  "building_rotria_027": [
+  "batch6_tile_3_2": [
     29,
     18
   ],
-  "building_rotria_028": [
+  "batch6_tile_3_3": [
     29,
     19
   ],
-  "building_rotria_029": [
+  "batch6_tile_3_4": [
     29,
     20
   ],
-  "building_rotria_030": [
+  "batch6_tile_3_5": [
     29,
     21
   ],
-  "building_rotria_031": [
+  "batch6_tile_3_6": [
     29,
     22
   ],
-  "object_rock_000": [
+  "batch6_tile_3_7": [
     29,
     23
   ],
-  "object_rock_001": [
+  "batch6_tile_3_8": [
     29,
     24
   ],
-  "object_rock_002": [
+  "batch6_tile_3_9": [
     29,
     25
   ],
-  "object_rock_003": [
+  "batch6_tile_3_10": [
     29,
     26
   ],
-  "object_rock_004": [
+  "batch6_tile_3_11": [
     29,
     27
   ],
-  "object_rock_005": [
+  "batch6_tile_3_12": [
     29,
     28
   ],
-  "object_rock_006": [
+  "batch6_tile_3_13": [
     29,
     29
   ],
-  "object_rock_007": [
+  "batch6_tile_3_14": [
     29,
     30
   ],
-  "object_rock_008": [
+  "batch6_tile_3_15": [
     29,
     31
   ],
-  "object_rock_009": [
+  "batch6_tile_4_0": [
     30,
     0
   ],
-  "object_rock_010": [
+  "batch6_tile_4_1": [
     30,
     1
   ],
-  "object_rock_011": [
+  "batch6_tile_4_2": [
     30,
     2
   ],
-  "object_rock_012": [
+  "batch6_tile_4_3": [
     30,
     3
   ],
-  "object_rock_013": [
+  "batch6_tile_4_4": [
     30,
     4
   ],
-  "object_rock_014": [
+  "batch6_tile_4_5": [
     30,
     5
   ],
-  "object_rock_015": [
+  "batch6_tile_4_6": [
     30,
     6
   ],
-  "object_rock_016": [
+  "batch6_tile_4_7": [
     30,
     7
   ],
-  "object_rock_017": [
+  "batch6_tile_4_8": [
     30,
     8
   ],
-  "object_rock_018": [
+  "batch6_tile_4_9": [
     30,
     9
   ],
-  "object_rock_019": [
+  "batch6_tile_4_10": [
     30,
     10
   ],
-  "object_rock_020": [
+  "batch6_tile_4_11": [
     30,
     11
   ],
-  "object_rock_021": [
+  "batch6_tile_4_12": [
     30,
     12
   ],
-  "object_rock_022": [
+  "batch6_tile_4_13": [
     30,
     13
   ],
-  "object_rock_023": [
+  "batch6_tile_4_14": [
     30,
     14
   ],
-  "object_rock_024": [
+  "batch6_tile_4_15": [
     30,
     15
   ],
-  "object_rock_025": [
+  "batch6_tile_5_0": [
     30,
     16
   ],
-  "object_rock_026": [
+  "batch6_tile_5_1": [
     30,
     17
   ],
-  "object_rock_027": [
+  "batch6_tile_5_2": [
     30,
     18
   ],
-  "object_rock_028": [
+  "batch6_tile_5_3": [
     30,
     19
   ],
-  "object_rock_029": [
+  "batch6_tile_5_4": [
     30,
     20
   ],
-  "object_cliff_000": [
+  "batch6_tile_5_5": [
     30,
     21
   ],
-  "object_cliff_001": [
+  "batch6_tile_5_6": [
     30,
     22
   ],
-  "object_cliff_002": [
+  "batch6_tile_5_7": [
     30,
     23
   ],
-  "object_cliff_003": [
+  "batch6_tile_5_8": [
     30,
     24
   ],
-  "object_cliff_004": [
+  "batch6_tile_5_9": [
     30,
     25
   ],
-  "object_cliff_005": [
+  "batch6_tile_5_10": [
     30,
     26
   ],
-  "object_cliff_006": [
+  "batch6_tile_5_11": [
     30,
     27
   ],
-  "object_cliff_007": [
+  "batch6_tile_5_12": [
     30,
     28
   ],
-  "object_cliff_008": [
+  "batch6_tile_5_13": [
     30,
     29
   ],
-  "object_cliff_009": [
+  "batch6_tile_5_14": [
     30,
     30
   ],
-  "object_cliff_010": [
+  "batch6_tile_5_15": [
     30,
     31
   ],
-  "object_cliff_011": [
+  "batch6_tile_6_0": [
     31,
     0
   ],
-  "object_cliff_012": [
+  "batch6_tile_6_1": [
     31,
     1
   ],
-  "object_cliff_013": [
+  "batch6_tile_6_2": [
     31,
     2
   ],
-  "object_cliff_014": [
+  "batch6_tile_6_3": [
     31,
     3
   ],
-  "object_cliff_015": [
+  "batch6_tile_6_4": [
     31,
     4
   ],
-  "object_cliff_016": [
+  "batch6_tile_6_5": [
     31,
     5
   ],
-  "object_cliff_017": [
+  "batch6_tile_6_6": [
     31,
     6
   ],
-  "object_cliff_018": [
+  "batch6_tile_6_7": [
     31,
     7
   ],
-  "object_cliff_019": [
+  "batch6_tile_6_8": [
     31,
     8
   ],
-  "object_cliff_020": [
+  "batch6_tile_6_9": [
     31,
     9
   ],
-  "object_cliff_021": [
+  "batch6_tile_6_10": [
     31,
     10
   ],
-  "object_cliff_022": [
+  "batch6_tile_6_11": [
     31,
     11
   ],
-  "object_cliff_023": [
+  "batch6_tile_6_12": [
     31,
     12
   ],
-  "object_cliff_024": [
+  "batch6_tile_6_13": [
     31,
     13
   ],
-  "object_cliff_025": [
+  "batch6_tile_6_14": [
     31,
     14
   ],
-  "object_cliff_026": [
+  "batch6_tile_6_15": [
     31,
     15
   ],
-  "object_cliff_027": [
+  "batch6_tile_7_0": [
     31,
     16
   ],
-  "object_cliff_028": [
+  "batch6_tile_7_1": [
     31,
     17
   ],
-  "object_cliff_029": [
+  "batch6_tile_7_2": [
     31,
     18
   ],
-  "object_cliff_030": [
+  "batch6_tile_7_3": [
     31,
     19
   ],
-  "object_cliff_031": [
+  "batch6_tile_7_4": [
     31,
     20
   ],
-  "object_cliff_032": [
+  "batch6_tile_7_5": [
     31,
     21
   ],
-  "object_cliff_033": [
+  "batch6_tile_7_6": [
     31,
     22
   ],
-  "object_cliff_034": [
+  "batch6_tile_7_7": [
     31,
     23
   ],
-  "object_cliff_035": [
+  "batch6_tile_7_8": [
     31,
     24
   ],
-  "object_bridge_000": [
+  "batch6_tile_7_9": [
     31,
     25
   ],
-  "object_bridge_001": [
+  "batch6_tile_7_10": [
     31,
     26
   ],
-  "object_bridge_002": [
+  "batch6_tile_7_11": [
     31,
     27
   ],
-  "object_bridge_003": [
+  "batch6_tile_7_12": [
     31,
     28
   ],
-  "object_bridge_004": [
+  "batch6_tile_7_13": [
     31,
     29
   ],
-  "object_bridge_005": [
+  "batch6_tile_7_14": [
     31,
     30
   ],
-  "object_bridge_006": [
+  "batch6_tile_7_15": [
     31,
+    31
+  ],
+  "batch7_tile_0_0": [
+    32,
+    0
+  ],
+  "batch7_tile_0_1": [
+    32,
+    1
+  ],
+  "batch7_tile_0_2": [
+    32,
+    2
+  ],
+  "batch7_tile_0_3": [
+    32,
+    3
+  ],
+  "batch7_tile_0_4": [
+    32,
+    4
+  ],
+  "batch7_tile_0_5": [
+    32,
+    5
+  ],
+  "batch7_tile_0_6": [
+    32,
+    6
+  ],
+  "batch7_tile_0_7": [
+    32,
+    7
+  ],
+  "batch7_tile_0_8": [
+    32,
+    8
+  ],
+  "batch7_tile_0_9": [
+    32,
+    9
+  ],
+  "batch7_tile_0_10": [
+    32,
+    10
+  ],
+  "batch7_tile_0_11": [
+    32,
+    11
+  ],
+  "batch7_tile_0_12": [
+    32,
+    12
+  ],
+  "batch7_tile_0_13": [
+    32,
+    13
+  ],
+  "batch7_tile_0_14": [
+    32,
+    14
+  ],
+  "batch7_tile_0_15": [
+    32,
+    15
+  ],
+  "batch7_tile_1_0": [
+    32,
+    16
+  ],
+  "batch7_tile_1_1": [
+    32,
+    17
+  ],
+  "batch7_tile_1_2": [
+    32,
+    18
+  ],
+  "batch7_tile_1_3": [
+    32,
+    19
+  ],
+  "batch7_tile_1_4": [
+    32,
+    20
+  ],
+  "batch7_tile_1_5": [
+    32,
+    21
+  ],
+  "batch7_tile_1_6": [
+    32,
+    22
+  ],
+  "batch7_tile_1_7": [
+    32,
+    23
+  ],
+  "batch7_tile_1_8": [
+    32,
+    24
+  ],
+  "batch7_tile_1_9": [
+    32,
+    25
+  ],
+  "batch7_tile_1_10": [
+    32,
+    26
+  ],
+  "batch7_tile_1_11": [
+    32,
+    27
+  ],
+  "batch7_tile_1_12": [
+    32,
+    28
+  ],
+  "batch7_tile_1_13": [
+    32,
+    29
+  ],
+  "batch7_tile_1_14": [
+    32,
+    30
+  ],
+  "batch7_tile_1_15": [
+    32,
+    31
+  ],
+  "batch7_tile_2_0": [
+    33,
+    0
+  ],
+  "batch7_tile_2_1": [
+    33,
+    1
+  ],
+  "batch7_tile_2_2": [
+    33,
+    2
+  ],
+  "batch7_tile_2_3": [
+    33,
+    3
+  ],
+  "batch7_tile_2_4": [
+    33,
+    4
+  ],
+  "batch7_tile_2_5": [
+    33,
+    5
+  ],
+  "batch7_tile_2_6": [
+    33,
+    6
+  ],
+  "batch7_tile_2_7": [
+    33,
+    7
+  ],
+  "batch7_tile_2_8": [
+    33,
+    8
+  ],
+  "batch7_tile_2_9": [
+    33,
+    9
+  ],
+  "batch7_tile_2_10": [
+    33,
+    10
+  ],
+  "batch7_tile_2_11": [
+    33,
+    11
+  ],
+  "batch7_tile_2_12": [
+    33,
+    12
+  ],
+  "batch7_tile_2_13": [
+    33,
+    13
+  ],
+  "batch7_tile_2_14": [
+    33,
+    14
+  ],
+  "batch7_tile_2_15": [
+    33,
+    15
+  ],
+  "batch7_tile_3_0": [
+    33,
+    16
+  ],
+  "batch7_tile_3_1": [
+    33,
+    17
+  ],
+  "batch7_tile_3_2": [
+    33,
+    18
+  ],
+  "batch7_tile_3_3": [
+    33,
+    19
+  ],
+  "batch7_tile_3_4": [
+    33,
+    20
+  ],
+  "batch7_tile_3_5": [
+    33,
+    21
+  ],
+  "batch7_tile_3_6": [
+    33,
+    22
+  ],
+  "batch7_tile_3_7": [
+    33,
+    23
+  ],
+  "batch7_tile_3_8": [
+    33,
+    24
+  ],
+  "batch7_tile_3_9": [
+    33,
+    25
+  ],
+  "batch7_tile_3_10": [
+    33,
+    26
+  ],
+  "batch7_tile_3_11": [
+    33,
+    27
+  ],
+  "batch7_tile_3_12": [
+    33,
+    28
+  ],
+  "batch7_tile_3_13": [
+    33,
+    29
+  ],
+  "batch7_tile_3_14": [
+    33,
+    30
+  ],
+  "batch7_tile_3_15": [
+    33,
+    31
+  ],
+  "batch7_tile_4_0": [
+    34,
+    0
+  ],
+  "batch7_tile_4_1": [
+    34,
+    1
+  ],
+  "batch7_tile_4_2": [
+    34,
+    2
+  ],
+  "batch7_tile_4_3": [
+    34,
+    3
+  ],
+  "batch7_tile_4_4": [
+    34,
+    4
+  ],
+  "batch7_tile_4_5": [
+    34,
+    5
+  ],
+  "batch7_tile_4_6": [
+    34,
+    6
+  ],
+  "batch7_tile_4_7": [
+    34,
+    7
+  ],
+  "batch7_tile_4_8": [
+    34,
+    8
+  ],
+  "batch7_tile_4_9": [
+    34,
+    9
+  ],
+  "batch7_tile_4_10": [
+    34,
+    10
+  ],
+  "batch7_tile_4_11": [
+    34,
+    11
+  ],
+  "batch7_tile_4_12": [
+    34,
+    12
+  ],
+  "batch7_tile_4_13": [
+    34,
+    13
+  ],
+  "batch7_tile_4_14": [
+    34,
+    14
+  ],
+  "batch7_tile_4_15": [
+    34,
+    15
+  ],
+  "batch7_tile_5_0": [
+    34,
+    16
+  ],
+  "batch7_tile_5_1": [
+    34,
+    17
+  ],
+  "batch7_tile_5_2": [
+    34,
+    18
+  ],
+  "batch7_tile_5_3": [
+    34,
+    19
+  ],
+  "batch7_tile_5_4": [
+    34,
+    20
+  ],
+  "batch7_tile_5_5": [
+    34,
+    21
+  ],
+  "batch7_tile_5_6": [
+    34,
+    22
+  ],
+  "batch7_tile_5_7": [
+    34,
+    23
+  ],
+  "batch7_tile_5_8": [
+    34,
+    24
+  ],
+  "batch7_tile_5_9": [
+    34,
+    25
+  ],
+  "batch7_tile_5_10": [
+    34,
+    26
+  ],
+  "batch7_tile_5_11": [
+    34,
+    27
+  ],
+  "batch7_tile_5_12": [
+    34,
+    28
+  ],
+  "batch7_tile_5_13": [
+    34,
+    29
+  ],
+  "batch7_tile_5_14": [
+    34,
+    30
+  ],
+  "batch7_tile_5_15": [
+    34,
+    31
+  ],
+  "batch7_tile_6_0": [
+    35,
+    0
+  ],
+  "batch7_tile_6_1": [
+    35,
+    1
+  ],
+  "batch7_tile_6_2": [
+    35,
+    2
+  ],
+  "batch7_tile_6_3": [
+    35,
+    3
+  ],
+  "batch7_tile_6_4": [
+    35,
+    4
+  ],
+  "batch7_tile_6_5": [
+    35,
+    5
+  ],
+  "batch7_tile_6_6": [
+    35,
+    6
+  ],
+  "batch7_tile_6_7": [
+    35,
+    7
+  ],
+  "batch7_tile_6_8": [
+    35,
+    8
+  ],
+  "batch7_tile_6_9": [
+    35,
+    9
+  ],
+  "batch7_tile_6_10": [
+    35,
+    10
+  ],
+  "batch7_tile_6_11": [
+    35,
+    11
+  ],
+  "batch7_tile_6_12": [
+    35,
+    12
+  ],
+  "batch7_tile_6_13": [
+    35,
+    13
+  ],
+  "batch7_tile_6_14": [
+    35,
+    14
+  ],
+  "batch7_tile_6_15": [
+    35,
+    15
+  ],
+  "batch7_tile_7_0": [
+    35,
+    16
+  ],
+  "batch7_tile_7_1": [
+    35,
+    17
+  ],
+  "batch7_tile_7_2": [
+    35,
+    18
+  ],
+  "batch7_tile_7_3": [
+    35,
+    19
+  ],
+  "batch7_tile_7_4": [
+    35,
+    20
+  ],
+  "batch7_tile_7_5": [
+    35,
+    21
+  ],
+  "batch7_tile_7_6": [
+    35,
+    22
+  ],
+  "batch7_tile_7_7": [
+    35,
+    23
+  ],
+  "batch7_tile_7_8": [
+    35,
+    24
+  ],
+  "batch7_tile_7_9": [
+    35,
+    25
+  ],
+  "batch7_tile_7_10": [
+    35,
+    26
+  ],
+  "batch7_tile_7_11": [
+    35,
+    27
+  ],
+  "batch7_tile_7_12": [
+    35,
+    28
+  ],
+  "batch7_tile_7_13": [
+    35,
+    29
+  ],
+  "batch7_tile_7_14": [
+    35,
+    30
+  ],
+  "batch7_tile_7_15": [
+    35,
+    31
+  ],
+  "batch7_tile_8_0": [
+    36,
+    0
+  ],
+  "batch7_tile_8_1": [
+    36,
+    1
+  ],
+  "batch7_tile_8_2": [
+    36,
+    2
+  ],
+  "batch7_tile_8_3": [
+    36,
+    3
+  ],
+  "batch7_tile_8_4": [
+    36,
+    4
+  ],
+  "batch7_tile_8_5": [
+    36,
+    5
+  ],
+  "batch7_tile_8_6": [
+    36,
+    6
+  ],
+  "batch7_tile_8_7": [
+    36,
+    7
+  ],
+  "batch7_tile_8_8": [
+    36,
+    8
+  ],
+  "batch7_tile_8_9": [
+    36,
+    9
+  ],
+  "batch7_tile_8_10": [
+    36,
+    10
+  ],
+  "batch7_tile_8_11": [
+    36,
+    11
+  ],
+  "batch7_tile_8_12": [
+    36,
+    12
+  ],
+  "batch7_tile_8_13": [
+    36,
+    13
+  ],
+  "batch7_tile_8_14": [
+    36,
+    14
+  ],
+  "batch7_tile_8_15": [
+    36,
+    15
+  ],
+  "batch7_tile_9_0": [
+    36,
+    16
+  ],
+  "batch7_tile_9_1": [
+    36,
+    17
+  ],
+  "batch7_tile_9_2": [
+    36,
+    18
+  ],
+  "batch7_tile_9_3": [
+    36,
+    19
+  ],
+  "batch7_tile_9_4": [
+    36,
+    20
+  ],
+  "batch7_tile_9_5": [
+    36,
+    21
+  ],
+  "batch7_tile_9_6": [
+    36,
+    22
+  ],
+  "batch7_tile_9_7": [
+    36,
+    23
+  ],
+  "batch7_tile_9_8": [
+    36,
+    24
+  ],
+  "batch7_tile_9_9": [
+    36,
+    25
+  ],
+  "batch7_tile_9_10": [
+    36,
+    26
+  ],
+  "batch7_tile_9_11": [
+    36,
+    27
+  ],
+  "batch7_tile_9_12": [
+    36,
+    28
+  ],
+  "batch7_tile_9_13": [
+    36,
+    29
+  ],
+  "batch7_tile_9_14": [
+    36,
+    30
+  ],
+  "batch7_tile_9_15": [
+    36,
     31
   ]
 }
