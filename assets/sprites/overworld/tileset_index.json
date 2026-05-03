@@ -1,8234 +1,4098 @@
 {
-  "bridge_0": [
+  "grass_light": [
     0,
     0
   ],
-  "bridge_0_corrupted": [
+  "grass_dark": [
     0,
     1
   ],
-  "bridge_0_fliph": [
+  "path_dirt": [
     0,
     2
   ],
-  "bridge_0_flipv": [
+  "path_stone": [
     0,
     3
   ],
-  "bridge_0_night": [
+  "water_still": [
     0,
     4
   ],
-  "bridge_0_rot1": [
+  "water_wave": [
     0,
     5
   ],
-  "bridge_0_rot2": [
+  "sand": [
     0,
     6
   ],
-  "bridge_0_rot3": [
+  "snow": [
     0,
     7
   ],
-  "bridge_1": [
+  "ground_grass_000": [
     0,
     8
   ],
-  "bridge_10": [
+  "ground_grass_001": [
     0,
     9
   ],
-  "bridge_10_corrupted": [
+  "ground_grass_002": [
     0,
     10
   ],
-  "bridge_10_fliph": [
+  "ground_grass_003": [
     0,
     11
   ],
-  "bridge_10_flipv": [
+  "ground_grass_004": [
     0,
     12
   ],
-  "bridge_10_night": [
+  "ground_grass_005": [
     0,
     13
   ],
-  "bridge_10_rot1": [
+  "ground_grass_006": [
     0,
     14
   ],
-  "bridge_10_rot2": [
+  "ground_grass_007": [
     0,
     15
   ],
-  "bridge_10_rot3": [
+  "ground_grass_008": [
     0,
     16
   ],
-  "bridge_11": [
+  "ground_grass_009": [
     0,
     17
   ],
-  "bridge_11_corrupted": [
+  "ground_grass_010": [
     0,
     18
   ],
-  "bridge_11_fliph": [
+  "ground_grass_011": [
     0,
     19
   ],
-  "bridge_11_flipv": [
+  "ground_grass_012": [
     0,
     20
   ],
-  "bridge_11_night": [
+  "ground_grass_013": [
     0,
     21
   ],
-  "bridge_11_rot1": [
+  "ground_grass_014": [
     0,
     22
   ],
-  "bridge_11_rot2": [
+  "ground_grass_015": [
     0,
     23
   ],
-  "bridge_11_rot3": [
+  "ground_grass_016": [
     0,
     24
   ],
-  "bridge_12": [
+  "ground_grass_017": [
     0,
     25
   ],
-  "bridge_12_corrupted": [
+  "ground_grass_018": [
     0,
     26
   ],
-  "bridge_12_fliph": [
+  "ground_grass_019": [
     0,
     27
   ],
-  "bridge_12_flipv": [
+  "ground_grass_020": [
     0,
     28
   ],
-  "bridge_12_night": [
+  "ground_grass_021": [
     0,
     29
   ],
-  "bridge_12_rot1": [
+  "ground_grass_022": [
     0,
     30
   ],
-  "bridge_12_rot2": [
+  "ground_grass_023": [
     0,
     31
   ],
-  "bridge_12_rot3": [
-    0,
-    32
-  ],
-  "bridge_13": [
-    0,
-    33
-  ],
-  "bridge_13_corrupted": [
-    0,
-    34
-  ],
-  "bridge_13_fliph": [
-    0,
-    35
-  ],
-  "bridge_13_flipv": [
-    0,
-    36
-  ],
-  "bridge_13_night": [
-    0,
-    37
-  ],
-  "bridge_13_rot1": [
-    0,
-    38
-  ],
-  "bridge_13_rot2": [
-    0,
-    39
-  ],
-  "bridge_13_rot3": [
-    0,
-    40
-  ],
-  "bridge_14": [
-    0,
-    41
-  ],
-  "bridge_14_corrupted": [
-    0,
-    42
-  ],
-  "bridge_14_fliph": [
-    0,
-    43
-  ],
-  "bridge_14_flipv": [
-    0,
-    44
-  ],
-  "bridge_14_night": [
-    0,
-    45
-  ],
-  "bridge_14_rot1": [
-    0,
-    46
-  ],
-  "bridge_14_rot2": [
-    0,
-    47
-  ],
-  "bridge_14_rot3": [
-    0,
-    48
-  ],
-  "bridge_15": [
-    0,
-    49
-  ],
-  "bridge_15_corrupted": [
-    0,
-    50
-  ],
-  "bridge_15_fliph": [
-    0,
-    51
-  ],
-  "bridge_15_flipv": [
-    0,
-    52
-  ],
-  "bridge_15_night": [
-    0,
-    53
-  ],
-  "bridge_15_rot1": [
-    0,
-    54
-  ],
-  "bridge_15_rot2": [
-    0,
-    55
-  ],
-  "bridge_15_rot3": [
-    0,
-    56
-  ],
-  "bridge_16": [
-    0,
-    57
-  ],
-  "bridge_16_corrupted": [
-    0,
-    58
-  ],
-  "bridge_16_fliph": [
-    0,
-    59
-  ],
-  "bridge_16_flipv": [
-    0,
-    60
-  ],
-  "bridge_16_night": [
-    0,
-    61
-  ],
-  "bridge_16_rot1": [
-    0,
-    62
-  ],
-  "bridge_16_rot2": [
-    0,
-    63
-  ],
-  "bridge_16_rot3": [
+  "tree_top_left": [
     1,
     0
   ],
-  "bridge_17": [
+  "tree_top_right": [
     1,
     1
   ],
-  "bridge_17_corrupted": [
+  "tree_bot_left": [
     1,
     2
   ],
-  "bridge_17_fliph": [
+  "tree_bot_right": [
     1,
     3
   ],
-  "bridge_17_flipv": [
+  "wall_stone": [
     1,
     4
   ],
-  "bridge_17_night": [
+  "wall_dark": [
     1,
     5
   ],
-  "bridge_17_rot1": [
+  "door_closed": [
     1,
     6
   ],
-  "bridge_17_rot2": [
+  "door_open": [
     1,
     7
   ],
-  "bridge_17_rot3": [
+  "ground_grass_024": [
     1,
     8
   ],
-  "bridge_18": [
+  "ground_grass_025": [
     1,
     9
   ],
-  "bridge_18_corrupted": [
+  "ground_grass_026": [
     1,
     10
   ],
-  "bridge_18_fliph": [
+  "ground_grass_027": [
     1,
     11
   ],
-  "bridge_18_flipv": [
+  "ground_grass_028": [
     1,
     12
   ],
-  "bridge_18_night": [
+  "ground_grass_029": [
     1,
     13
   ],
-  "bridge_18_rot1": [
+  "ground_grass_030": [
     1,
     14
   ],
-  "bridge_18_rot2": [
+  "ground_grass_031": [
     1,
     15
   ],
-  "bridge_18_rot3": [
+  "ground_grass_032": [
     1,
     16
   ],
-  "bridge_19": [
+  "ground_grass_033": [
     1,
     17
   ],
-  "bridge_19_corrupted": [
+  "ground_grass_034": [
     1,
     18
   ],
-  "bridge_19_fliph": [
+  "ground_grass_035": [
     1,
     19
   ],
-  "bridge_19_flipv": [
+  "ground_grass_036": [
     1,
     20
   ],
-  "bridge_19_night": [
+  "ground_grass_037": [
     1,
     21
   ],
-  "bridge_19_rot1": [
+  "ground_grass_038": [
     1,
     22
   ],
-  "bridge_19_rot2": [
+  "ground_grass_039": [
     1,
     23
   ],
-  "bridge_19_rot3": [
+  "ground_grass_040": [
     1,
     24
   ],
-  "bridge_1_corrupted": [
+  "ground_grass_041": [
     1,
     25
   ],
-  "bridge_1_fliph": [
+  "ground_grass_042": [
     1,
     26
   ],
-  "bridge_1_flipv": [
+  "ground_grass_043": [
     1,
     27
   ],
-  "bridge_1_night": [
+  "ground_grass_044": [
     1,
     28
   ],
-  "bridge_1_rot1": [
+  "ground_grass_045": [
     1,
     29
   ],
-  "bridge_1_rot2": [
+  "ground_grass_046": [
     1,
     30
   ],
-  "bridge_1_rot3": [
+  "ground_grass_047": [
     1,
     31
   ],
-  "bridge_2": [
-    1,
-    32
-  ],
-  "bridge_2_corrupted": [
-    1,
-    33
-  ],
-  "bridge_2_fliph": [
-    1,
-    34
-  ],
-  "bridge_2_flipv": [
-    1,
-    35
-  ],
-  "bridge_2_night": [
-    1,
-    36
-  ],
-  "bridge_2_rot1": [
-    1,
-    37
-  ],
-  "bridge_2_rot2": [
-    1,
-    38
-  ],
-  "bridge_2_rot3": [
-    1,
-    39
-  ],
-  "bridge_3": [
-    1,
-    40
-  ],
-  "bridge_3_corrupted": [
-    1,
-    41
-  ],
-  "bridge_3_fliph": [
-    1,
-    42
-  ],
-  "bridge_3_flipv": [
-    1,
-    43
-  ],
-  "bridge_3_night": [
-    1,
-    44
-  ],
-  "bridge_3_rot1": [
-    1,
-    45
-  ],
-  "bridge_3_rot2": [
-    1,
-    46
-  ],
-  "bridge_3_rot3": [
-    1,
-    47
-  ],
-  "bridge_4": [
-    1,
-    48
-  ],
-  "bridge_4_corrupted": [
-    1,
-    49
-  ],
-  "bridge_4_fliph": [
-    1,
-    50
-  ],
-  "bridge_4_flipv": [
-    1,
-    51
-  ],
-  "bridge_4_night": [
-    1,
-    52
-  ],
-  "bridge_4_rot1": [
-    1,
-    53
-  ],
-  "bridge_4_rot2": [
-    1,
-    54
-  ],
-  "bridge_4_rot3": [
-    1,
-    55
-  ],
-  "bridge_5": [
-    1,
-    56
-  ],
-  "bridge_5_corrupted": [
-    1,
-    57
-  ],
-  "bridge_5_fliph": [
-    1,
-    58
-  ],
-  "bridge_5_flipv": [
-    1,
-    59
-  ],
-  "bridge_5_night": [
-    1,
-    60
-  ],
-  "bridge_5_rot1": [
-    1,
-    61
-  ],
-  "bridge_5_rot2": [
-    1,
-    62
-  ],
-  "bridge_5_rot3": [
-    1,
-    63
-  ],
-  "bridge_6": [
+  "flower_patch": [
     2,
     0
   ],
-  "bridge_6_corrupted": [
+  "tall_grass": [
     2,
     1
   ],
-  "bridge_6_fliph": [
+  "cave_floor": [
     2,
     2
   ],
-  "bridge_6_flipv": [
+  "cave_wall": [
     2,
     3
   ],
-  "bridge_6_night": [
+  "ice_floor": [
     2,
     4
   ],
-  "bridge_6_rot1": [
+  "jungle_floor": [
     2,
     5
   ],
-  "bridge_6_rot2": [
+  "desert_floor": [
     2,
     6
   ],
-  "bridge_6_rot3": [
+  "ruin_floor": [
     2,
     7
   ],
-  "bridge_7": [
+  "ground_grass_048": [
     2,
     8
   ],
-  "bridge_7_corrupted": [
+  "ground_grass_049": [
     2,
     9
   ],
-  "bridge_7_fliph": [
+  "ground_grass_050": [
     2,
     10
   ],
-  "bridge_7_flipv": [
+  "ground_grass_051": [
     2,
     11
   ],
-  "bridge_7_night": [
+  "ground_grass_052": [
     2,
     12
   ],
-  "bridge_7_rot1": [
+  "ground_grass_053": [
     2,
     13
   ],
-  "bridge_7_rot2": [
+  "ground_grass_054": [
     2,
     14
   ],
-  "bridge_7_rot3": [
+  "ground_grass_055": [
     2,
     15
   ],
-  "bridge_8": [
+  "ground_grass_056": [
     2,
     16
   ],
-  "bridge_8_corrupted": [
+  "ground_grass_057": [
     2,
     17
   ],
-  "bridge_8_fliph": [
+  "ground_grass_058": [
     2,
     18
   ],
-  "bridge_8_flipv": [
+  "ground_grass_059": [
     2,
     19
   ],
-  "bridge_8_night": [
+  "ground_grass_060": [
     2,
     20
   ],
-  "bridge_8_rot1": [
+  "ground_grass_061": [
     2,
     21
   ],
-  "bridge_8_rot2": [
+  "ground_grass_062": [
     2,
     22
   ],
-  "bridge_8_rot3": [
+  "ground_grass_063": [
     2,
     23
   ],
-  "bridge_9": [
+  "ground_grass_064": [
     2,
     24
   ],
-  "bridge_9_corrupted": [
+  "ground_grass_065": [
     2,
     25
   ],
-  "bridge_9_fliph": [
+  "ground_grass_066": [
     2,
     26
   ],
-  "bridge_9_flipv": [
+  "ground_grass_067": [
     2,
     27
   ],
-  "bridge_9_night": [
+  "ground_grass_068": [
     2,
     28
   ],
-  "bridge_9_rot1": [
+  "ground_grass_069": [
     2,
     29
   ],
-  "bridge_9_rot2": [
+  "ground_grass_070": [
     2,
     30
   ],
-  "bridge_9_rot3": [
+  "ground_grass_071": [
     2,
     31
   ],
-  "bush_0": [
-    2,
-    32
-  ],
-  "bush_0_corrupted": [
-    2,
-    33
-  ],
-  "bush_0_night": [
-    2,
-    34
-  ],
-  "bush_1": [
-    2,
-    35
-  ],
-  "bush_1_corrupted": [
-    2,
-    36
-  ],
-  "bush_1_night": [
-    2,
-    37
-  ],
-  "bush_2": [
-    2,
-    38
-  ],
-  "bush_2_corrupted": [
-    2,
-    39
-  ],
-  "bush_2_night": [
-    2,
-    40
-  ],
-  "bush_3": [
-    2,
-    41
-  ],
-  "bush_3_corrupted": [
-    2,
-    42
-  ],
-  "bush_3_night": [
-    2,
-    43
-  ],
-  "bush_4": [
-    2,
-    44
-  ],
-  "bush_4_corrupted": [
-    2,
-    45
-  ],
-  "bush_4_night": [
-    2,
-    46
-  ],
-  "bush_5": [
-    2,
-    47
-  ],
-  "bush_5_corrupted": [
-    2,
-    48
-  ],
-  "bush_5_night": [
-    2,
-    49
-  ],
-  "bush_6": [
-    2,
-    50
-  ],
-  "bush_6_corrupted": [
-    2,
-    51
-  ],
-  "bush_6_night": [
-    2,
-    52
-  ],
-  "bush_7": [
-    2,
-    53
-  ],
-  "bush_7_corrupted": [
-    2,
-    54
-  ],
-  "bush_7_night": [
-    2,
-    55
-  ],
-  "bush_8": [
-    2,
-    56
-  ],
-  "bush_8_corrupted": [
-    2,
-    57
-  ],
-  "bush_8_night": [
-    2,
-    58
-  ],
-  "bush_9": [
-    2,
-    59
-  ],
-  "bush_9_corrupted": [
-    2,
-    60
-  ],
-  "bush_9_night": [
-    2,
-    61
-  ],
-  "chest_0": [
-    2,
-    62
-  ],
-  "chest_0_corrupted": [
-    2,
-    63
-  ],
-  "chest_0_night": [
+  "house_roof": [
     3,
     0
   ],
-  "chest_1": [
+  "house_wall": [
     3,
     1
   ],
-  "chest_10": [
+  "fence_h": [
     3,
     2
   ],
-  "chest_10_corrupted": [
+  "fence_v": [
     3,
     3
   ],
-  "chest_10_night": [
+  "sign_post": [
     3,
     4
   ],
-  "chest_11": [
+  "counter_shop": [
     3,
     5
   ],
-  "chest_11_corrupted": [
+  "bed": [
     3,
     6
   ],
-  "chest_11_night": [
+  "chest": [
     3,
     7
   ],
-  "chest_12": [
+  "ground_grass_072": [
     3,
     8
   ],
-  "chest_12_corrupted": [
+  "ground_grass_073": [
     3,
     9
   ],
-  "chest_12_night": [
+  "ground_grass_074": [
     3,
     10
   ],
-  "chest_13": [
+  "ground_grass_075": [
     3,
     11
   ],
-  "chest_13_corrupted": [
+  "ground_grass_076": [
     3,
     12
   ],
-  "chest_13_night": [
+  "ground_grass_077": [
     3,
     13
   ],
-  "chest_14": [
+  "ground_grass_078": [
     3,
     14
   ],
-  "chest_14_corrupted": [
+  "ground_grass_079": [
     3,
     15
   ],
-  "chest_14_night": [
+  "ground_path_dirt_000": [
     3,
     16
   ],
-  "chest_15": [
+  "ground_path_dirt_001": [
     3,
     17
   ],
-  "chest_15_corrupted": [
+  "ground_path_dirt_002": [
     3,
     18
   ],
-  "chest_15_night": [
+  "ground_path_dirt_003": [
     3,
     19
   ],
-  "chest_16": [
+  "ground_path_dirt_004": [
     3,
     20
   ],
-  "chest_16_corrupted": [
+  "ground_path_dirt_005": [
     3,
     21
   ],
-  "chest_16_night": [
+  "ground_path_dirt_006": [
     3,
     22
   ],
-  "chest_17": [
+  "ground_path_dirt_007": [
     3,
     23
   ],
-  "chest_17_corrupted": [
+  "ground_path_dirt_008": [
     3,
     24
   ],
-  "chest_17_night": [
+  "ground_path_dirt_009": [
     3,
     25
   ],
-  "chest_18": [
+  "ground_path_dirt_010": [
     3,
     26
   ],
-  "chest_18_corrupted": [
+  "ground_path_dirt_011": [
     3,
     27
   ],
-  "chest_18_night": [
+  "ground_path_dirt_012": [
     3,
     28
   ],
-  "chest_19": [
+  "ground_path_dirt_013": [
     3,
     29
   ],
-  "chest_19_corrupted": [
+  "ground_path_dirt_014": [
     3,
     30
   ],
-  "chest_19_night": [
+  "ground_path_dirt_015": [
     3,
     31
   ],
-  "chest_1_corrupted": [
-    3,
-    32
-  ],
-  "chest_1_night": [
-    3,
-    33
-  ],
-  "chest_2": [
-    3,
-    34
-  ],
-  "chest_2_corrupted": [
-    3,
-    35
-  ],
-  "chest_2_night": [
-    3,
-    36
-  ],
-  "chest_3": [
-    3,
-    37
-  ],
-  "chest_3_corrupted": [
-    3,
-    38
-  ],
-  "chest_3_night": [
-    3,
-    39
-  ],
-  "chest_4": [
-    3,
-    40
-  ],
-  "chest_4_corrupted": [
-    3,
-    41
-  ],
-  "chest_4_night": [
-    3,
-    42
-  ],
-  "chest_5": [
-    3,
-    43
-  ],
-  "chest_5_corrupted": [
-    3,
-    44
-  ],
-  "chest_5_night": [
-    3,
-    45
-  ],
-  "chest_6": [
-    3,
-    46
-  ],
-  "chest_6_corrupted": [
-    3,
-    47
-  ],
-  "chest_6_night": [
-    3,
-    48
-  ],
-  "chest_7": [
-    3,
-    49
-  ],
-  "chest_7_corrupted": [
-    3,
-    50
-  ],
-  "chest_7_night": [
-    3,
-    51
-  ],
-  "chest_8": [
-    3,
-    52
-  ],
-  "chest_8_corrupted": [
-    3,
-    53
-  ],
-  "chest_8_night": [
-    3,
-    54
-  ],
-  "chest_9": [
-    3,
-    55
-  ],
-  "chest_9_corrupted": [
-    3,
-    56
-  ],
-  "chest_9_night": [
-    3,
-    57
-  ],
-  "cliff_0": [
-    3,
-    58
-  ],
-  "cliff_0_corrupted": [
-    3,
-    59
-  ],
-  "cliff_0_fliph": [
-    3,
-    60
-  ],
-  "cliff_0_flipv": [
-    3,
-    61
-  ],
-  "cliff_0_night": [
-    3,
-    62
-  ],
-  "cliff_0_rot1": [
-    3,
-    63
-  ],
-  "cliff_0_rot2": [
+  "ground_path_dirt_016": [
     4,
     0
   ],
-  "cliff_0_rot3": [
+  "ground_path_dirt_017": [
     4,
     1
   ],
-  "cliff_1": [
+  "ground_path_dirt_018": [
     4,
     2
   ],
-  "cliff_10": [
+  "ground_path_dirt_019": [
     4,
     3
   ],
-  "cliff_10_corrupted": [
+  "ground_path_dirt_020": [
     4,
     4
   ],
-  "cliff_10_fliph": [
+  "ground_path_dirt_021": [
     4,
     5
   ],
-  "cliff_10_flipv": [
+  "ground_path_dirt_022": [
     4,
     6
   ],
-  "cliff_10_night": [
+  "ground_path_dirt_023": [
     4,
     7
   ],
-  "cliff_10_rot1": [
+  "ground_path_dirt_024": [
     4,
     8
   ],
-  "cliff_10_rot2": [
+  "ground_path_dirt_025": [
     4,
     9
   ],
-  "cliff_10_rot3": [
+  "ground_path_dirt_026": [
     4,
     10
   ],
-  "cliff_11": [
+  "ground_path_dirt_027": [
     4,
     11
   ],
-  "cliff_11_corrupted": [
+  "ground_path_dirt_028": [
     4,
     12
   ],
-  "cliff_11_fliph": [
+  "ground_path_dirt_029": [
     4,
     13
   ],
-  "cliff_11_flipv": [
+  "ground_path_dirt_030": [
     4,
     14
   ],
-  "cliff_11_night": [
+  "ground_path_dirt_031": [
     4,
     15
   ],
-  "cliff_11_rot1": [
+  "ground_path_dirt_032": [
     4,
     16
   ],
-  "cliff_11_rot2": [
+  "ground_path_dirt_033": [
     4,
     17
   ],
-  "cliff_11_rot3": [
+  "ground_path_dirt_034": [
     4,
     18
   ],
-  "cliff_12": [
+  "ground_path_dirt_035": [
     4,
     19
   ],
-  "cliff_12_corrupted": [
+  "ground_path_dirt_036": [
     4,
     20
   ],
-  "cliff_12_fliph": [
+  "ground_path_dirt_037": [
     4,
     21
   ],
-  "cliff_12_flipv": [
+  "ground_path_dirt_038": [
     4,
     22
   ],
-  "cliff_12_night": [
+  "ground_path_dirt_039": [
     4,
     23
   ],
-  "cliff_12_rot1": [
+  "ground_path_dirt_040": [
     4,
     24
   ],
-  "cliff_12_rot2": [
+  "ground_path_dirt_041": [
     4,
     25
   ],
-  "cliff_12_rot3": [
+  "ground_path_dirt_042": [
     4,
     26
   ],
-  "cliff_13": [
+  "ground_path_dirt_043": [
     4,
     27
   ],
-  "cliff_13_corrupted": [
+  "ground_path_dirt_044": [
     4,
     28
   ],
-  "cliff_13_fliph": [
+  "ground_path_dirt_045": [
     4,
     29
   ],
-  "cliff_13_flipv": [
+  "ground_path_dirt_046": [
     4,
     30
   ],
-  "cliff_13_night": [
+  "ground_path_dirt_047": [
     4,
     31
   ],
-  "cliff_13_rot1": [
-    4,
-    32
-  ],
-  "cliff_13_rot2": [
-    4,
-    33
-  ],
-  "cliff_13_rot3": [
-    4,
-    34
-  ],
-  "cliff_14": [
-    4,
-    35
-  ],
-  "cliff_14_corrupted": [
-    4,
-    36
-  ],
-  "cliff_14_fliph": [
-    4,
-    37
-  ],
-  "cliff_14_flipv": [
-    4,
-    38
-  ],
-  "cliff_14_night": [
-    4,
-    39
-  ],
-  "cliff_14_rot1": [
-    4,
-    40
-  ],
-  "cliff_14_rot2": [
-    4,
-    41
-  ],
-  "cliff_14_rot3": [
-    4,
-    42
-  ],
-  "cliff_15": [
-    4,
-    43
-  ],
-  "cliff_15_corrupted": [
-    4,
-    44
-  ],
-  "cliff_15_fliph": [
-    4,
-    45
-  ],
-  "cliff_15_flipv": [
-    4,
-    46
-  ],
-  "cliff_15_night": [
-    4,
-    47
-  ],
-  "cliff_15_rot1": [
-    4,
-    48
-  ],
-  "cliff_15_rot2": [
-    4,
-    49
-  ],
-  "cliff_15_rot3": [
-    4,
-    50
-  ],
-  "cliff_16": [
-    4,
-    51
-  ],
-  "cliff_16_corrupted": [
-    4,
-    52
-  ],
-  "cliff_16_fliph": [
-    4,
-    53
-  ],
-  "cliff_16_flipv": [
-    4,
-    54
-  ],
-  "cliff_16_night": [
-    4,
-    55
-  ],
-  "cliff_16_rot1": [
-    4,
-    56
-  ],
-  "cliff_16_rot2": [
-    4,
-    57
-  ],
-  "cliff_16_rot3": [
-    4,
-    58
-  ],
-  "cliff_17": [
-    4,
-    59
-  ],
-  "cliff_17_corrupted": [
-    4,
-    60
-  ],
-  "cliff_17_fliph": [
-    4,
-    61
-  ],
-  "cliff_17_flipv": [
-    4,
-    62
-  ],
-  "cliff_17_night": [
-    4,
-    63
-  ],
-  "cliff_17_rot1": [
+  "ground_path_dirt_048": [
     5,
     0
   ],
-  "cliff_17_rot2": [
+  "ground_path_dirt_049": [
     5,
     1
   ],
-  "cliff_17_rot3": [
+  "ground_path_dirt_050": [
     5,
     2
   ],
-  "cliff_18": [
+  "ground_path_dirt_051": [
     5,
     3
   ],
-  "cliff_18_corrupted": [
+  "ground_path_dirt_052": [
     5,
     4
   ],
-  "cliff_18_fliph": [
+  "ground_path_dirt_053": [
     5,
     5
   ],
-  "cliff_18_flipv": [
+  "ground_path_dirt_054": [
     5,
     6
   ],
-  "cliff_18_night": [
+  "ground_path_dirt_055": [
     5,
     7
   ],
-  "cliff_18_rot1": [
+  "ground_path_dirt_056": [
     5,
     8
   ],
-  "cliff_18_rot2": [
+  "ground_path_dirt_057": [
     5,
     9
   ],
-  "cliff_18_rot3": [
+  "ground_path_dirt_058": [
     5,
     10
   ],
-  "cliff_19": [
+  "ground_path_dirt_059": [
     5,
     11
   ],
-  "cliff_19_corrupted": [
+  "ground_path_stone_000": [
     5,
     12
   ],
-  "cliff_19_fliph": [
+  "ground_path_stone_001": [
     5,
     13
   ],
-  "cliff_19_flipv": [
+  "ground_path_stone_002": [
     5,
     14
   ],
-  "cliff_19_night": [
+  "ground_path_stone_003": [
     5,
     15
   ],
-  "cliff_19_rot1": [
+  "ground_path_stone_004": [
     5,
     16
   ],
-  "cliff_19_rot2": [
+  "ground_path_stone_005": [
     5,
     17
   ],
-  "cliff_19_rot3": [
+  "ground_path_stone_006": [
     5,
     18
   ],
-  "cliff_1_corrupted": [
+  "ground_path_stone_007": [
     5,
     19
   ],
-  "cliff_1_fliph": [
+  "ground_path_stone_008": [
     5,
     20
   ],
-  "cliff_1_flipv": [
+  "ground_path_stone_009": [
     5,
     21
   ],
-  "cliff_1_night": [
+  "ground_path_stone_010": [
     5,
     22
   ],
-  "cliff_1_rot1": [
+  "ground_path_stone_011": [
     5,
     23
   ],
-  "cliff_1_rot2": [
+  "ground_path_stone_012": [
     5,
     24
   ],
-  "cliff_1_rot3": [
+  "ground_path_stone_013": [
     5,
     25
   ],
-  "cliff_2": [
+  "ground_path_stone_014": [
     5,
     26
   ],
-  "cliff_2_corrupted": [
+  "ground_path_stone_015": [
     5,
     27
   ],
-  "cliff_2_fliph": [
+  "ground_path_stone_016": [
     5,
     28
   ],
-  "cliff_2_flipv": [
+  "ground_path_stone_017": [
     5,
     29
   ],
-  "cliff_2_night": [
+  "ground_path_stone_018": [
     5,
     30
   ],
-  "cliff_2_rot1": [
+  "ground_path_stone_019": [
     5,
     31
   ],
-  "cliff_2_rot2": [
-    5,
-    32
-  ],
-  "cliff_2_rot3": [
-    5,
-    33
-  ],
-  "cliff_3": [
-    5,
-    34
-  ],
-  "cliff_3_corrupted": [
-    5,
-    35
-  ],
-  "cliff_3_fliph": [
-    5,
-    36
-  ],
-  "cliff_3_flipv": [
-    5,
-    37
-  ],
-  "cliff_3_night": [
-    5,
-    38
-  ],
-  "cliff_3_rot1": [
-    5,
-    39
-  ],
-  "cliff_3_rot2": [
-    5,
-    40
-  ],
-  "cliff_3_rot3": [
-    5,
-    41
-  ],
-  "cliff_4": [
-    5,
-    42
-  ],
-  "cliff_4_corrupted": [
-    5,
-    43
-  ],
-  "cliff_4_fliph": [
-    5,
-    44
-  ],
-  "cliff_4_flipv": [
-    5,
-    45
-  ],
-  "cliff_4_night": [
-    5,
-    46
-  ],
-  "cliff_4_rot1": [
-    5,
-    47
-  ],
-  "cliff_4_rot2": [
-    5,
-    48
-  ],
-  "cliff_4_rot3": [
-    5,
-    49
-  ],
-  "cliff_5": [
-    5,
-    50
-  ],
-  "cliff_5_corrupted": [
-    5,
-    51
-  ],
-  "cliff_5_fliph": [
-    5,
-    52
-  ],
-  "cliff_5_flipv": [
-    5,
-    53
-  ],
-  "cliff_5_night": [
-    5,
-    54
-  ],
-  "cliff_5_rot1": [
-    5,
-    55
-  ],
-  "cliff_5_rot2": [
-    5,
-    56
-  ],
-  "cliff_5_rot3": [
-    5,
-    57
-  ],
-  "cliff_6": [
-    5,
-    58
-  ],
-  "cliff_6_corrupted": [
-    5,
-    59
-  ],
-  "cliff_6_fliph": [
-    5,
-    60
-  ],
-  "cliff_6_flipv": [
-    5,
-    61
-  ],
-  "cliff_6_night": [
-    5,
-    62
-  ],
-  "cliff_6_rot1": [
-    5,
-    63
-  ],
-  "cliff_6_rot2": [
+  "ground_path_stone_020": [
     6,
     0
   ],
-  "cliff_6_rot3": [
+  "ground_path_stone_021": [
     6,
     1
   ],
-  "cliff_7": [
+  "ground_path_stone_022": [
     6,
     2
   ],
-  "cliff_7_corrupted": [
+  "ground_path_stone_023": [
     6,
     3
   ],
-  "cliff_7_fliph": [
+  "ground_path_stone_024": [
     6,
     4
   ],
-  "cliff_7_flipv": [
+  "ground_path_stone_025": [
     6,
     5
   ],
-  "cliff_7_night": [
+  "ground_path_stone_026": [
     6,
     6
   ],
-  "cliff_7_rot1": [
+  "ground_path_stone_027": [
     6,
     7
   ],
-  "cliff_7_rot2": [
+  "ground_path_stone_028": [
     6,
     8
   ],
-  "cliff_7_rot3": [
+  "ground_path_stone_029": [
     6,
     9
   ],
-  "cliff_8": [
+  "ground_path_stone_030": [
     6,
     10
   ],
-  "cliff_8_corrupted": [
+  "ground_path_stone_031": [
     6,
     11
   ],
-  "cliff_8_fliph": [
+  "ground_path_stone_032": [
     6,
     12
   ],
-  "cliff_8_flipv": [
+  "ground_path_stone_033": [
     6,
     13
   ],
-  "cliff_8_night": [
+  "ground_path_stone_034": [
     6,
     14
   ],
-  "cliff_8_rot1": [
+  "ground_path_stone_035": [
     6,
     15
   ],
-  "cliff_8_rot2": [
+  "ground_path_stone_036": [
     6,
     16
   ],
-  "cliff_8_rot3": [
+  "ground_path_stone_037": [
     6,
     17
   ],
-  "cliff_9": [
+  "ground_path_stone_038": [
     6,
     18
   ],
-  "cliff_9_corrupted": [
+  "ground_path_stone_039": [
     6,
     19
   ],
-  "cliff_9_fliph": [
+  "ground_path_stone_040": [
     6,
     20
   ],
-  "cliff_9_flipv": [
+  "ground_path_stone_041": [
     6,
     21
   ],
-  "cliff_9_night": [
+  "ground_path_stone_042": [
     6,
     22
   ],
-  "cliff_9_rot1": [
+  "ground_path_stone_043": [
     6,
     23
   ],
-  "cliff_9_rot2": [
+  "ground_path_stone_044": [
     6,
     24
   ],
-  "cliff_9_rot3": [
+  "ground_sand_000": [
     6,
     25
   ],
-  "composite_1": [
+  "ground_sand_001": [
     6,
     26
   ],
-  "composite_10": [
+  "ground_sand_002": [
     6,
     27
   ],
-  "composite_11": [
+  "ground_sand_003": [
     6,
     28
   ],
-  "composite_12": [
+  "ground_sand_004": [
     6,
     29
   ],
-  "composite_13": [
+  "ground_sand_005": [
     6,
     30
   ],
-  "composite_14": [
+  "ground_sand_006": [
     6,
     31
   ],
-  "composite_15": [
-    6,
-    32
-  ],
-  "composite_16": [
-    6,
-    33
-  ],
-  "composite_17": [
-    6,
-    34
-  ],
-  "composite_18": [
-    6,
-    35
-  ],
-  "composite_19": [
-    6,
-    36
-  ],
-  "composite_2": [
-    6,
-    37
-  ],
-  "composite_20": [
-    6,
-    38
-  ],
-  "composite_21": [
-    6,
-    39
-  ],
-  "composite_22": [
-    6,
-    40
-  ],
-  "composite_23": [
-    6,
-    41
-  ],
-  "composite_24": [
-    6,
-    42
-  ],
-  "composite_25": [
-    6,
-    43
-  ],
-  "composite_26": [
-    6,
-    44
-  ],
-  "composite_27": [
-    6,
-    45
-  ],
-  "composite_28": [
-    6,
-    46
-  ],
-  "composite_29": [
-    6,
-    47
-  ],
-  "composite_3": [
-    6,
-    48
-  ],
-  "composite_30": [
-    6,
-    49
-  ],
-  "composite_31": [
-    6,
-    50
-  ],
-  "composite_32": [
-    6,
-    51
-  ],
-  "composite_33": [
-    6,
-    52
-  ],
-  "composite_34": [
-    6,
-    53
-  ],
-  "composite_35": [
-    6,
-    54
-  ],
-  "composite_36": [
-    6,
-    55
-  ],
-  "composite_37": [
-    6,
-    56
-  ],
-  "composite_38": [
-    6,
-    57
-  ],
-  "composite_39": [
-    6,
-    58
-  ],
-  "composite_4": [
-    6,
-    59
-  ],
-  "composite_40": [
-    6,
-    60
-  ],
-  "composite_41": [
-    6,
-    61
-  ],
-  "composite_42": [
-    6,
-    62
-  ],
-  "composite_43": [
-    6,
-    63
-  ],
-  "composite_44": [
+  "ground_sand_007": [
     7,
     0
   ],
-  "composite_45": [
+  "ground_sand_008": [
     7,
     1
   ],
-  "composite_46": [
+  "ground_sand_009": [
     7,
     2
   ],
-  "composite_47": [
+  "ground_sand_010": [
     7,
     3
   ],
-  "composite_48": [
+  "ground_sand_011": [
     7,
     4
   ],
-  "composite_49": [
+  "ground_sand_012": [
     7,
     5
   ],
-  "composite_5": [
+  "ground_sand_013": [
     7,
     6
   ],
-  "composite_50": [
+  "ground_sand_014": [
     7,
     7
   ],
-  "composite_51": [
+  "ground_sand_015": [
     7,
     8
   ],
-  "composite_52": [
+  "ground_sand_016": [
     7,
     9
   ],
-  "composite_53": [
+  "ground_sand_017": [
     7,
     10
   ],
-  "composite_54": [
+  "ground_sand_018": [
     7,
     11
   ],
-  "composite_55": [
+  "ground_sand_019": [
     7,
     12
   ],
-  "composite_56": [
+  "ground_sand_020": [
     7,
     13
   ],
-  "composite_57": [
+  "ground_sand_021": [
     7,
     14
   ],
-  "composite_58": [
+  "ground_sand_022": [
     7,
     15
   ],
-  "composite_59": [
+  "ground_sand_023": [
     7,
     16
   ],
-  "composite_6": [
+  "ground_sand_024": [
     7,
     17
   ],
-  "composite_60": [
+  "ground_sand_025": [
     7,
     18
   ],
-  "composite_63": [
+  "ground_sand_026": [
     7,
     19
   ],
-  "composite_64": [
+  "ground_sand_027": [
     7,
     20
   ],
-  "composite_65": [
+  "ground_sand_028": [
     7,
     21
   ],
-  "composite_66": [
+  "ground_sand_029": [
     7,
     22
   ],
-  "composite_67": [
+  "ground_snow_000": [
     7,
     23
   ],
-  "composite_68": [
+  "ground_snow_001": [
     7,
     24
   ],
-  "composite_69": [
+  "ground_snow_002": [
     7,
     25
   ],
-  "composite_7": [
+  "ground_snow_003": [
     7,
     26
   ],
-  "composite_70": [
+  "ground_snow_004": [
     7,
     27
   ],
-  "composite_71": [
+  "ground_snow_005": [
     7,
     28
   ],
-  "composite_72": [
+  "ground_snow_006": [
     7,
     29
   ],
-  "composite_73": [
+  "ground_snow_007": [
     7,
     30
   ],
-  "composite_74": [
+  "ground_snow_008": [
     7,
     31
   ],
-  "composite_75": [
-    7,
-    32
-  ],
-  "composite_76": [
-    7,
-    33
-  ],
-  "composite_77": [
-    7,
-    34
-  ],
-  "composite_78": [
-    7,
-    35
-  ],
-  "composite_79": [
-    7,
-    36
-  ],
-  "composite_8": [
-    7,
-    37
-  ],
-  "composite_80": [
-    7,
-    38
-  ],
-  "composite_81": [
-    7,
-    39
-  ],
-  "composite_82": [
-    7,
-    40
-  ],
-  "composite_83": [
-    7,
-    41
-  ],
-  "composite_84": [
-    7,
-    42
-  ],
-  "composite_85": [
-    7,
-    43
-  ],
-  "composite_86": [
-    7,
-    44
-  ],
-  "composite_87": [
-    7,
-    45
-  ],
-  "composite_88": [
-    7,
-    46
-  ],
-  "composite_89": [
-    7,
-    47
-  ],
-  "composite_9": [
-    7,
-    48
-  ],
-  "composite_90": [
-    7,
-    49
-  ],
-  "composite_91": [
-    7,
-    50
-  ],
-  "composite_92": [
-    7,
-    51
-  ],
-  "composite_93": [
-    7,
-    52
-  ],
-  "composite_94": [
-    7,
-    53
-  ],
-  "composite_95": [
-    7,
-    54
-  ],
-  "composite_96": [
-    7,
-    55
-  ],
-  "composite_97": [
-    7,
-    56
-  ],
-  "composite_98": [
-    7,
-    57
-  ],
-  "composite_99": [
-    7,
-    58
-  ],
-  "corrupted_0": [
-    7,
-    59
-  ],
-  "corrupted_0_corrupted": [
-    7,
-    60
-  ],
-  "corrupted_0_night": [
-    7,
-    61
-  ],
-  "corrupted_1": [
-    7,
-    62
-  ],
-  "corrupted_1_corrupted": [
-    7,
-    63
-  ],
-  "corrupted_1_night": [
+  "ground_snow_009": [
     8,
     0
   ],
-  "corrupted_2": [
+  "ground_snow_010": [
     8,
     1
   ],
-  "corrupted_2_corrupted": [
+  "ground_snow_011": [
     8,
     2
   ],
-  "corrupted_2_night": [
+  "ground_snow_012": [
     8,
     3
   ],
-  "corrupted_3": [
+  "ground_snow_013": [
     8,
     4
   ],
-  "corrupted_3_corrupted": [
+  "ground_snow_014": [
     8,
     5
   ],
-  "corrupted_3_night": [
+  "ground_snow_015": [
     8,
     6
   ],
-  "corrupted_4": [
+  "ground_snow_016": [
     8,
     7
   ],
-  "corrupted_4_corrupted": [
+  "ground_snow_017": [
     8,
     8
   ],
-  "corrupted_4_night": [
+  "ground_snow_018": [
     8,
     9
   ],
-  "corrupted_5": [
+  "ground_snow_019": [
     8,
     10
   ],
-  "corrupted_5_corrupted": [
+  "ground_snow_020": [
     8,
     11
   ],
-  "corrupted_5_night": [
+  "ground_snow_021": [
     8,
     12
   ],
-  "corrupted_6": [
+  "ground_snow_022": [
     8,
     13
   ],
-  "corrupted_6_corrupted": [
+  "ground_snow_023": [
     8,
     14
   ],
-  "corrupted_6_night": [
+  "ground_snow_024": [
     8,
     15
   ],
-  "corrupted_7": [
+  "ground_snow_025": [
     8,
     16
   ],
-  "corrupted_7_corrupted": [
+  "ground_snow_026": [
     8,
     17
   ],
-  "corrupted_7_night": [
+  "ground_snow_027": [
     8,
     18
   ],
-  "corrupted_8": [
+  "ground_snow_028": [
     8,
     19
   ],
-  "corrupted_8_corrupted": [
+  "ground_snow_029": [
     8,
     20
   ],
-  "corrupted_8_night": [
+  "ground_ice_000": [
     8,
     21
   ],
-  "corrupted_9": [
+  "ground_ice_001": [
     8,
     22
   ],
-  "corrupted_9_corrupted": [
+  "ground_ice_002": [
     8,
     23
   ],
-  "corrupted_9_night": [
+  "ground_ice_003": [
     8,
     24
   ],
-  "dirt_path_0": [
+  "ground_ice_004": [
     8,
     25
   ],
-  "dirt_path_0_corrupted": [
+  "ground_ice_005": [
     8,
     26
   ],
-  "dirt_path_0_decay_59": [
+  "ground_ice_006": [
     8,
     27
   ],
-  "dirt_path_0_decay_87": [
+  "ground_ice_007": [
     8,
     28
   ],
-  "dirt_path_0_light": [
+  "ground_ice_008": [
     8,
     29
   ],
-  "dirt_path_0_night": [
+  "ground_ice_009": [
     8,
     30
   ],
-  "dirt_path_0_shadow": [
+  "ground_ice_010": [
     8,
     31
   ],
-  "dirt_path_0_worn": [
-    8,
-    32
-  ],
-  "dirt_path_1": [
-    8,
-    33
-  ],
-  "dirt_path_1_corrupted": [
-    8,
-    34
-  ],
-  "dirt_path_1_decay_4": [
-    8,
-    35
-  ],
-  "dirt_path_1_decay_50": [
-    8,
-    36
-  ],
-  "dirt_path_1_light": [
-    8,
-    37
-  ],
-  "dirt_path_1_night": [
-    8,
-    38
-  ],
-  "dirt_path_1_shadow": [
-    8,
-    39
-  ],
-  "dirt_path_1_worn": [
-    8,
-    40
-  ],
-  "dirt_path_2": [
-    8,
-    41
-  ],
-  "dirt_path_2_corrupted": [
-    8,
-    42
-  ],
-  "dirt_path_2_decay_58": [
-    8,
-    43
-  ],
-  "dirt_path_2_decay_74": [
-    8,
-    44
-  ],
-  "dirt_path_2_light": [
-    8,
-    45
-  ],
-  "dirt_path_2_night": [
-    8,
-    46
-  ],
-  "dirt_path_2_shadow": [
-    8,
-    47
-  ],
-  "dirt_path_2_worn": [
-    8,
-    48
-  ],
-  "dirt_path_3": [
-    8,
-    49
-  ],
-  "dirt_path_3_corrupted": [
-    8,
-    50
-  ],
-  "dirt_path_3_decay_11": [
-    8,
-    51
-  ],
-  "dirt_path_3_light": [
-    8,
-    52
-  ],
-  "dirt_path_3_night": [
-    8,
-    53
-  ],
-  "dirt_path_3_shadow": [
-    8,
-    54
-  ],
-  "dirt_path_3_worn": [
-    8,
-    55
-  ],
-  "dirt_path_4": [
-    8,
-    56
-  ],
-  "dirt_path_4_corrupted": [
-    8,
-    57
-  ],
-  "dirt_path_4_decay_42": [
-    8,
-    58
-  ],
-  "dirt_path_4_decay_93": [
-    8,
-    59
-  ],
-  "dirt_path_4_light": [
-    8,
-    60
-  ],
-  "dirt_path_4_night": [
-    8,
-    61
-  ],
-  "dirt_path_4_shadow": [
-    8,
-    62
-  ],
-  "dirt_path_4_worn": [
-    8,
-    63
-  ],
-  "dirt_path_5": [
+  "ground_ice_011": [
     9,
     0
   ],
-  "dirt_path_5_corrupted": [
+  "ground_ice_012": [
     9,
     1
   ],
-  "dirt_path_5_decay_48": [
+  "ground_ice_013": [
     9,
     2
   ],
-  "dirt_path_5_decay_6": [
+  "ground_ice_014": [
     9,
     3
   ],
-  "dirt_path_5_light": [
+  "ground_ice_015": [
     9,
     4
   ],
-  "dirt_path_5_night": [
+  "ground_ice_016": [
     9,
     5
   ],
-  "dirt_path_5_shadow": [
+  "ground_ice_017": [
     9,
     6
   ],
-  "dirt_path_5_worn": [
+  "ground_ice_018": [
     9,
     7
   ],
-  "door_0": [
+  "ground_ice_019": [
     9,
     8
   ],
-  "door_0_corrupted": [
+  "ground_ice_020": [
     9,
     9
   ],
-  "door_0_night": [
+  "ground_ice_021": [
     9,
     10
   ],
-  "door_1": [
+  "ground_ice_022": [
     9,
     11
   ],
-  "door_10": [
+  "ground_ice_023": [
     9,
     12
   ],
-  "door_10_corrupted": [
+  "ground_ice_024": [
     9,
     13
   ],
-  "door_10_night": [
+  "ground_cave_000": [
     9,
     14
   ],
-  "door_11": [
+  "ground_cave_001": [
     9,
     15
   ],
-  "door_11_corrupted": [
+  "ground_cave_002": [
     9,
     16
   ],
-  "door_11_night": [
+  "ground_cave_003": [
     9,
     17
   ],
-  "door_12": [
+  "ground_cave_004": [
     9,
     18
   ],
-  "door_12_corrupted": [
+  "ground_cave_005": [
     9,
     19
   ],
-  "door_12_night": [
+  "ground_cave_006": [
     9,
     20
   ],
-  "door_13": [
+  "ground_cave_007": [
     9,
     21
   ],
-  "door_13_corrupted": [
+  "ground_cave_008": [
     9,
     22
   ],
-  "door_13_night": [
+  "ground_cave_009": [
     9,
     23
   ],
-  "door_14": [
+  "ground_cave_010": [
     9,
     24
   ],
-  "door_14_corrupted": [
+  "ground_cave_011": [
     9,
     25
   ],
-  "door_14_night": [
+  "ground_cave_012": [
     9,
     26
   ],
-  "door_1_corrupted": [
+  "ground_cave_013": [
     9,
     27
   ],
-  "door_1_night": [
+  "ground_cave_014": [
     9,
     28
   ],
-  "door_2": [
+  "ground_cave_015": [
     9,
     29
   ],
-  "door_2_corrupted": [
+  "ground_cave_016": [
     9,
     30
   ],
-  "door_2_night": [
+  "ground_cave_017": [
     9,
     31
   ],
-  "door_3": [
-    9,
-    32
-  ],
-  "door_3_corrupted": [
-    9,
-    33
-  ],
-  "door_3_night": [
-    9,
-    34
-  ],
-  "door_4": [
-    9,
-    35
-  ],
-  "door_4_corrupted": [
-    9,
-    36
-  ],
-  "door_4_night": [
-    9,
-    37
-  ],
-  "door_5": [
-    9,
-    38
-  ],
-  "door_5_corrupted": [
-    9,
-    39
-  ],
-  "door_5_night": [
-    9,
-    40
-  ],
-  "door_6": [
-    9,
-    41
-  ],
-  "door_6_corrupted": [
-    9,
-    42
-  ],
-  "door_6_night": [
-    9,
-    43
-  ],
-  "door_7": [
-    9,
-    44
-  ],
-  "door_7_corrupted": [
-    9,
-    45
-  ],
-  "door_7_night": [
-    9,
-    46
-  ],
-  "door_8": [
-    9,
-    47
-  ],
-  "door_8_corrupted": [
-    9,
-    48
-  ],
-  "door_8_night": [
-    9,
-    49
-  ],
-  "door_9": [
-    9,
-    50
-  ],
-  "door_9_corrupted": [
-    9,
-    51
-  ],
-  "door_9_night": [
-    9,
-    52
-  ],
-  "fence_0": [
-    9,
-    53
-  ],
-  "fence_0_corrupted": [
-    9,
-    54
-  ],
-  "fence_0_fliph": [
-    9,
-    55
-  ],
-  "fence_0_flipv": [
-    9,
-    56
-  ],
-  "fence_0_night": [
-    9,
-    57
-  ],
-  "fence_0_rot1": [
-    9,
-    58
-  ],
-  "fence_0_rot2": [
-    9,
-    59
-  ],
-  "fence_0_rot3": [
-    9,
-    60
-  ],
-  "fence_1": [
-    9,
-    61
-  ],
-  "fence_10": [
-    9,
-    62
-  ],
-  "fence_10_corrupted": [
-    9,
-    63
-  ],
-  "fence_10_fliph": [
+  "ground_cave_018": [
     10,
     0
   ],
-  "fence_10_flipv": [
+  "ground_cave_019": [
     10,
     1
   ],
-  "fence_10_night": [
+  "ground_cave_020": [
     10,
     2
   ],
-  "fence_10_rot1": [
+  "ground_cave_021": [
     10,
     3
   ],
-  "fence_10_rot2": [
+  "ground_cave_022": [
     10,
     4
   ],
-  "fence_10_rot3": [
+  "ground_cave_023": [
     10,
     5
   ],
-  "fence_11": [
+  "ground_cave_024": [
     10,
     6
   ],
-  "fence_11_corrupted": [
+  "ground_cave_025": [
     10,
     7
   ],
-  "fence_11_fliph": [
+  "ground_cave_026": [
     10,
     8
   ],
-  "fence_11_flipv": [
+  "ground_cave_027": [
     10,
     9
   ],
-  "fence_11_night": [
+  "ground_cave_028": [
     10,
     10
   ],
-  "fence_11_rot1": [
+  "ground_cave_029": [
     10,
     11
   ],
-  "fence_11_rot2": [
+  "ground_cave_030": [
     10,
     12
   ],
-  "fence_11_rot3": [
+  "ground_cave_031": [
     10,
     13
   ],
-  "fence_12": [
+  "ground_cave_032": [
     10,
     14
   ],
-  "fence_12_corrupted": [
+  "ground_cave_033": [
     10,
     15
   ],
-  "fence_12_fliph": [
+  "ground_cave_034": [
     10,
     16
   ],
-  "fence_12_flipv": [
+  "ground_cave_035": [
     10,
     17
   ],
-  "fence_12_night": [
+  "ground_cave_036": [
     10,
     18
   ],
-  "fence_12_rot1": [
+  "ground_cave_037": [
     10,
     19
   ],
-  "fence_12_rot2": [
+  "ground_cave_038": [
     10,
     20
   ],
-  "fence_12_rot3": [
+  "ground_cave_039": [
     10,
     21
   ],
-  "fence_13": [
+  "ground_ruin_000": [
     10,
     22
   ],
-  "fence_13_corrupted": [
+  "ground_ruin_001": [
     10,
     23
   ],
-  "fence_13_fliph": [
+  "ground_ruin_002": [
     10,
     24
   ],
-  "fence_13_flipv": [
+  "ground_ruin_003": [
     10,
     25
   ],
-  "fence_13_night": [
+  "ground_ruin_004": [
     10,
     26
   ],
-  "fence_13_rot1": [
+  "ground_ruin_005": [
     10,
     27
   ],
-  "fence_13_rot2": [
+  "ground_ruin_006": [
     10,
     28
   ],
-  "fence_13_rot3": [
+  "ground_ruin_007": [
     10,
     29
   ],
-  "fence_14": [
+  "ground_ruin_008": [
     10,
     30
   ],
-  "fence_14_corrupted": [
+  "ground_ruin_009": [
     10,
     31
   ],
-  "fence_14_fliph": [
-    10,
-    32
-  ],
-  "fence_14_flipv": [
-    10,
-    33
-  ],
-  "fence_14_night": [
-    10,
-    34
-  ],
-  "fence_14_rot1": [
-    10,
-    35
-  ],
-  "fence_14_rot2": [
-    10,
-    36
-  ],
-  "fence_14_rot3": [
-    10,
-    37
-  ],
-  "fence_1_corrupted": [
-    10,
-    38
-  ],
-  "fence_1_fliph": [
-    10,
-    39
-  ],
-  "fence_1_flipv": [
-    10,
-    40
-  ],
-  "fence_1_night": [
-    10,
-    41
-  ],
-  "fence_1_rot1": [
-    10,
-    42
-  ],
-  "fence_1_rot2": [
-    10,
-    43
-  ],
-  "fence_1_rot3": [
-    10,
-    44
-  ],
-  "fence_2": [
-    10,
-    45
-  ],
-  "fence_2_corrupted": [
-    10,
-    46
-  ],
-  "fence_2_fliph": [
-    10,
-    47
-  ],
-  "fence_2_flipv": [
-    10,
-    48
-  ],
-  "fence_2_night": [
-    10,
-    49
-  ],
-  "fence_2_rot1": [
-    10,
-    50
-  ],
-  "fence_2_rot2": [
-    10,
-    51
-  ],
-  "fence_2_rot3": [
-    10,
-    52
-  ],
-  "fence_3": [
-    10,
-    53
-  ],
-  "fence_3_corrupted": [
-    10,
-    54
-  ],
-  "fence_3_fliph": [
-    10,
-    55
-  ],
-  "fence_3_flipv": [
-    10,
-    56
-  ],
-  "fence_3_night": [
-    10,
-    57
-  ],
-  "fence_3_rot1": [
-    10,
-    58
-  ],
-  "fence_3_rot2": [
-    10,
-    59
-  ],
-  "fence_3_rot3": [
-    10,
-    60
-  ],
-  "fence_4": [
-    10,
-    61
-  ],
-  "fence_4_corrupted": [
-    10,
-    62
-  ],
-  "fence_4_fliph": [
-    10,
-    63
-  ],
-  "fence_4_flipv": [
+  "ground_ruin_010": [
     11,
     0
   ],
-  "fence_4_night": [
+  "ground_ruin_011": [
     11,
     1
   ],
-  "fence_4_rot1": [
+  "ground_ruin_012": [
     11,
     2
   ],
-  "fence_4_rot2": [
+  "ground_ruin_013": [
     11,
     3
   ],
-  "fence_4_rot3": [
+  "ground_ruin_014": [
     11,
     4
   ],
-  "fence_5": [
+  "ground_ruin_015": [
     11,
     5
   ],
-  "fence_5_corrupted": [
+  "ground_ruin_016": [
     11,
     6
   ],
-  "fence_5_fliph": [
+  "ground_ruin_017": [
     11,
     7
   ],
-  "fence_5_flipv": [
+  "ground_ruin_018": [
     11,
     8
   ],
-  "fence_5_night": [
+  "ground_ruin_019": [
     11,
     9
   ],
-  "fence_5_rot1": [
+  "ground_ruin_020": [
     11,
     10
   ],
-  "fence_5_rot2": [
+  "ground_ruin_021": [
     11,
     11
   ],
-  "fence_5_rot3": [
+  "ground_ruin_022": [
     11,
     12
   ],
-  "fence_6": [
+  "ground_ruin_023": [
     11,
     13
   ],
-  "fence_6_corrupted": [
+  "ground_ruin_024": [
     11,
     14
   ],
-  "fence_6_fliph": [
+  "ground_ruin_025": [
     11,
     15
   ],
-  "fence_6_flipv": [
+  "ground_ruin_026": [
     11,
     16
   ],
-  "fence_6_night": [
+  "ground_ruin_027": [
     11,
     17
   ],
-  "fence_6_rot1": [
+  "ground_ruin_028": [
     11,
     18
   ],
-  "fence_6_rot2": [
+  "ground_ruin_029": [
     11,
     19
   ],
-  "fence_6_rot3": [
+  "ground_ruin_030": [
     11,
     20
   ],
-  "fence_7": [
+  "ground_ruin_031": [
     11,
     21
   ],
-  "fence_7_corrupted": [
+  "ground_ruin_032": [
     11,
     22
   ],
-  "fence_7_fliph": [
+  "ground_ruin_033": [
     11,
     23
   ],
-  "fence_7_flipv": [
+  "ground_ruin_034": [
     11,
     24
   ],
-  "fence_7_night": [
+  "ground_jungle_000": [
     11,
     25
   ],
-  "fence_7_rot1": [
+  "ground_jungle_001": [
     11,
     26
   ],
-  "fence_7_rot2": [
+  "ground_jungle_002": [
     11,
     27
   ],
-  "fence_7_rot3": [
+  "ground_jungle_003": [
     11,
     28
   ],
-  "fence_8": [
+  "ground_jungle_004": [
     11,
     29
   ],
-  "fence_8_corrupted": [
+  "ground_jungle_005": [
     11,
     30
   ],
-  "fence_8_fliph": [
+  "ground_jungle_006": [
     11,
     31
   ],
-  "fence_8_flipv": [
-    11,
-    32
-  ],
-  "fence_8_night": [
-    11,
-    33
-  ],
-  "fence_8_rot1": [
-    11,
-    34
-  ],
-  "fence_8_rot2": [
-    11,
-    35
-  ],
-  "fence_8_rot3": [
-    11,
-    36
-  ],
-  "fence_9": [
-    11,
-    37
-  ],
-  "fence_9_corrupted": [
-    11,
-    38
-  ],
-  "fence_9_fliph": [
-    11,
-    39
-  ],
-  "fence_9_flipv": [
-    11,
-    40
-  ],
-  "fence_9_night": [
-    11,
-    41
-  ],
-  "fence_9_rot1": [
-    11,
-    42
-  ],
-  "fence_9_rot2": [
-    11,
-    43
-  ],
-  "fence_9_rot3": [
-    11,
-    44
-  ],
-  "floor_stone_0": [
-    11,
-    45
-  ],
-  "floor_stone_0_corrupted": [
-    11,
-    46
-  ],
-  "floor_stone_0_night": [
-    11,
-    47
-  ],
-  "floor_stone_1": [
-    11,
-    48
-  ],
-  "floor_stone_10": [
-    11,
-    49
-  ],
-  "floor_stone_10_corrupted": [
-    11,
-    50
-  ],
-  "floor_stone_10_night": [
-    11,
-    51
-  ],
-  "floor_stone_11": [
-    11,
-    52
-  ],
-  "floor_stone_11_corrupted": [
-    11,
-    53
-  ],
-  "floor_stone_11_night": [
-    11,
-    54
-  ],
-  "floor_stone_12": [
-    11,
-    55
-  ],
-  "floor_stone_12_corrupted": [
-    11,
-    56
-  ],
-  "floor_stone_12_night": [
-    11,
-    57
-  ],
-  "floor_stone_13": [
-    11,
-    58
-  ],
-  "floor_stone_13_corrupted": [
-    11,
-    59
-  ],
-  "floor_stone_13_night": [
-    11,
-    60
-  ],
-  "floor_stone_14": [
-    11,
-    61
-  ],
-  "floor_stone_14_corrupted": [
-    11,
-    62
-  ],
-  "floor_stone_14_night": [
-    11,
-    63
-  ],
-  "floor_stone_1_corrupted": [
+  "ground_jungle_007": [
     12,
     0
   ],
-  "floor_stone_1_night": [
+  "ground_jungle_008": [
     12,
     1
   ],
-  "floor_stone_2": [
+  "ground_jungle_009": [
     12,
     2
   ],
-  "floor_stone_2_corrupted": [
+  "ground_jungle_010": [
     12,
     3
   ],
-  "floor_stone_2_night": [
+  "ground_jungle_011": [
     12,
     4
   ],
-  "floor_stone_3": [
+  "ground_jungle_012": [
     12,
     5
   ],
-  "floor_stone_3_corrupted": [
+  "ground_jungle_013": [
     12,
     6
   ],
-  "floor_stone_3_night": [
+  "ground_jungle_014": [
     12,
     7
   ],
-  "floor_stone_4": [
+  "ground_jungle_015": [
     12,
     8
   ],
-  "floor_stone_4_corrupted": [
+  "ground_jungle_016": [
     12,
     9
   ],
-  "floor_stone_4_night": [
+  "ground_jungle_017": [
     12,
     10
   ],
-  "floor_stone_5": [
+  "ground_jungle_018": [
     12,
     11
   ],
-  "floor_stone_5_corrupted": [
+  "ground_jungle_019": [
     12,
     12
   ],
-  "floor_stone_5_night": [
+  "ground_jungle_020": [
     12,
     13
   ],
-  "floor_stone_6": [
+  "ground_jungle_021": [
     12,
     14
   ],
-  "floor_stone_6_corrupted": [
+  "ground_jungle_022": [
     12,
     15
   ],
-  "floor_stone_6_night": [
+  "ground_jungle_023": [
     12,
     16
   ],
-  "floor_stone_7": [
+  "ground_jungle_024": [
     12,
     17
   ],
-  "floor_stone_7_corrupted": [
+  "ground_jungle_025": [
     12,
     18
   ],
-  "floor_stone_7_night": [
+  "ground_jungle_026": [
     12,
     19
   ],
-  "floor_stone_8": [
+  "ground_jungle_027": [
     12,
     20
   ],
-  "floor_stone_8_corrupted": [
+  "ground_jungle_028": [
     12,
     21
   ],
-  "floor_stone_8_night": [
+  "ground_jungle_029": [
     12,
     22
   ],
-  "floor_stone_9": [
+  "ground_jungle_030": [
     12,
     23
   ],
-  "floor_stone_9_corrupted": [
+  "ground_jungle_031": [
     12,
     24
   ],
-  "floor_stone_9_night": [
+  "ground_jungle_032": [
     12,
     25
   ],
-  "floor_wood_0": [
+  "ground_jungle_033": [
     12,
     26
   ],
-  "floor_wood_0_corrupted": [
+  "ground_jungle_034": [
     12,
     27
   ],
-  "floor_wood_0_night": [
+  "ground_desert_000": [
     12,
     28
   ],
-  "floor_wood_1": [
+  "ground_desert_001": [
     12,
     29
   ],
-  "floor_wood_10": [
+  "ground_desert_002": [
     12,
     30
   ],
-  "floor_wood_10_corrupted": [
+  "ground_desert_003": [
     12,
     31
   ],
-  "floor_wood_10_night": [
-    12,
-    32
-  ],
-  "floor_wood_11": [
-    12,
-    33
-  ],
-  "floor_wood_11_corrupted": [
-    12,
-    34
-  ],
-  "floor_wood_11_night": [
-    12,
-    35
-  ],
-  "floor_wood_12": [
-    12,
-    36
-  ],
-  "floor_wood_12_corrupted": [
-    12,
-    37
-  ],
-  "floor_wood_12_night": [
-    12,
-    38
-  ],
-  "floor_wood_13": [
-    12,
-    39
-  ],
-  "floor_wood_13_corrupted": [
-    12,
-    40
-  ],
-  "floor_wood_13_night": [
-    12,
-    41
-  ],
-  "floor_wood_14": [
-    12,
-    42
-  ],
-  "floor_wood_14_corrupted": [
-    12,
-    43
-  ],
-  "floor_wood_14_night": [
-    12,
-    44
-  ],
-  "floor_wood_1_corrupted": [
-    12,
-    45
-  ],
-  "floor_wood_1_night": [
-    12,
-    46
-  ],
-  "floor_wood_2": [
-    12,
-    47
-  ],
-  "floor_wood_2_corrupted": [
-    12,
-    48
-  ],
-  "floor_wood_2_night": [
-    12,
-    49
-  ],
-  "floor_wood_3": [
-    12,
-    50
-  ],
-  "floor_wood_3_corrupted": [
-    12,
-    51
-  ],
-  "floor_wood_3_night": [
-    12,
-    52
-  ],
-  "floor_wood_4": [
-    12,
-    53
-  ],
-  "floor_wood_4_corrupted": [
-    12,
-    54
-  ],
-  "floor_wood_4_night": [
-    12,
-    55
-  ],
-  "floor_wood_5": [
-    12,
-    56
-  ],
-  "floor_wood_5_corrupted": [
-    12,
-    57
-  ],
-  "floor_wood_5_night": [
-    12,
-    58
-  ],
-  "floor_wood_6": [
-    12,
-    59
-  ],
-  "floor_wood_6_corrupted": [
-    12,
-    60
-  ],
-  "floor_wood_6_night": [
-    12,
-    61
-  ],
-  "floor_wood_7": [
-    12,
-    62
-  ],
-  "floor_wood_7_corrupted": [
-    12,
-    63
-  ],
-  "floor_wood_7_night": [
+  "ground_desert_004": [
     13,
     0
   ],
-  "floor_wood_8": [
+  "ground_desert_005": [
     13,
     1
   ],
-  "floor_wood_8_corrupted": [
+  "ground_desert_006": [
     13,
     2
   ],
-  "floor_wood_8_night": [
+  "ground_desert_007": [
     13,
     3
   ],
-  "floor_wood_9": [
+  "ground_desert_008": [
     13,
     4
   ],
-  "floor_wood_9_corrupted": [
+  "ground_desert_009": [
     13,
     5
   ],
-  "floor_wood_9_night": [
+  "ground_desert_010": [
     13,
     6
   ],
-  "flower_0": [
+  "ground_desert_011": [
     13,
     7
   ],
-  "flower_0_corrupted": [
+  "ground_desert_012": [
     13,
     8
   ],
-  "flower_0_night": [
+  "ground_desert_013": [
     13,
     9
   ],
-  "flower_1": [
+  "ground_desert_014": [
     13,
     10
   ],
-  "flower_1_corrupted": [
+  "ground_desert_015": [
     13,
     11
   ],
-  "flower_1_night": [
+  "ground_desert_016": [
     13,
     12
   ],
-  "flower_2": [
+  "ground_desert_017": [
     13,
     13
   ],
-  "flower_2_corrupted": [
+  "ground_desert_018": [
     13,
     14
   ],
-  "flower_2_night": [
+  "ground_desert_019": [
     13,
     15
   ],
-  "flower_3": [
+  "ground_desert_020": [
     13,
     16
   ],
-  "flower_3_corrupted": [
+  "ground_desert_021": [
     13,
     17
   ],
-  "flower_3_night": [
+  "ground_desert_022": [
     13,
     18
   ],
-  "flower_4": [
+  "ground_desert_023": [
     13,
     19
   ],
-  "flower_4_corrupted": [
+  "ground_desert_024": [
     13,
     20
   ],
-  "flower_4_night": [
+  "water_still_variant_000": [
     13,
     21
   ],
-  "flower_5": [
+  "water_still_variant_001": [
     13,
     22
   ],
-  "flower_5_corrupted": [
+  "water_still_variant_002": [
     13,
     23
   ],
-  "flower_5_night": [
+  "water_still_variant_003": [
     13,
     24
   ],
-  "flower_6": [
+  "water_still_variant_004": [
     13,
     25
   ],
-  "flower_6_corrupted": [
+  "water_still_variant_005": [
     13,
     26
   ],
-  "flower_6_night": [
+  "water_still_variant_006": [
     13,
     27
   ],
-  "flower_7": [
+  "water_still_variant_007": [
     13,
     28
   ],
-  "flower_7_corrupted": [
+  "water_still_variant_008": [
     13,
     29
   ],
-  "flower_7_night": [
+  "water_still_variant_009": [
     13,
     30
   ],
-  "flower_8": [
+  "water_still_variant_010": [
     13,
     31
   ],
-  "flower_8_corrupted": [
-    13,
-    32
-  ],
-  "flower_8_night": [
-    13,
-    33
-  ],
-  "flower_9": [
-    13,
-    34
-  ],
-  "flower_9_corrupted": [
-    13,
-    35
-  ],
-  "flower_9_night": [
-    13,
-    36
-  ],
-  "furniture_0": [
-    13,
-    37
-  ],
-  "furniture_0_corrupted": [
-    13,
-    38
-  ],
-  "furniture_0_night": [
-    13,
-    39
-  ],
-  "furniture_1": [
-    13,
-    40
-  ],
-  "furniture_10": [
-    13,
-    41
-  ],
-  "furniture_10_corrupted": [
-    13,
-    42
-  ],
-  "furniture_10_night": [
-    13,
-    43
-  ],
-  "furniture_11": [
-    13,
-    44
-  ],
-  "furniture_11_corrupted": [
-    13,
-    45
-  ],
-  "furniture_11_night": [
-    13,
-    46
-  ],
-  "furniture_12": [
-    13,
-    47
-  ],
-  "furniture_12_corrupted": [
-    13,
-    48
-  ],
-  "furniture_12_night": [
-    13,
-    49
-  ],
-  "furniture_13": [
-    13,
-    50
-  ],
-  "furniture_13_corrupted": [
-    13,
-    51
-  ],
-  "furniture_13_night": [
-    13,
-    52
-  ],
-  "furniture_14": [
-    13,
-    53
-  ],
-  "furniture_14_corrupted": [
-    13,
-    54
-  ],
-  "furniture_14_night": [
-    13,
-    55
-  ],
-  "furniture_1_corrupted": [
-    13,
-    56
-  ],
-  "furniture_1_night": [
-    13,
-    57
-  ],
-  "furniture_2": [
-    13,
-    58
-  ],
-  "furniture_2_corrupted": [
-    13,
-    59
-  ],
-  "furniture_2_night": [
-    13,
-    60
-  ],
-  "furniture_3": [
-    13,
-    61
-  ],
-  "furniture_3_corrupted": [
-    13,
-    62
-  ],
-  "furniture_3_night": [
-    13,
-    63
-  ],
-  "furniture_4": [
+  "water_still_variant_011": [
     14,
     0
   ],
-  "furniture_4_corrupted": [
+  "water_still_variant_012": [
     14,
     1
   ],
-  "furniture_4_night": [
+  "water_still_variant_013": [
     14,
     2
   ],
-  "furniture_5": [
+  "water_still_variant_014": [
     14,
     3
   ],
-  "furniture_5_corrupted": [
+  "water_still_variant_015": [
     14,
     4
   ],
-  "furniture_5_night": [
+  "water_still_variant_016": [
     14,
     5
   ],
-  "furniture_6": [
+  "water_still_variant_017": [
     14,
     6
   ],
-  "furniture_6_corrupted": [
+  "water_still_variant_018": [
     14,
     7
   ],
-  "furniture_6_night": [
+  "water_still_variant_019": [
     14,
     8
   ],
-  "furniture_7": [
+  "water_still_variant_020": [
     14,
     9
   ],
-  "furniture_7_corrupted": [
+  "water_still_variant_021": [
     14,
     10
   ],
-  "furniture_7_night": [
+  "water_still_variant_022": [
     14,
     11
   ],
-  "furniture_8": [
+  "water_still_variant_023": [
     14,
     12
   ],
-  "furniture_8_corrupted": [
+  "water_wave_variant_000": [
     14,
     13
   ],
-  "furniture_8_night": [
+  "water_wave_variant_001": [
     14,
     14
   ],
-  "furniture_9": [
+  "water_wave_variant_002": [
     14,
     15
   ],
-  "furniture_9_corrupted": [
+  "water_wave_variant_003": [
     14,
     16
   ],
-  "furniture_9_night": [
+  "water_wave_variant_004": [
     14,
     17
   ],
-  "grass_dark_0": [
+  "water_wave_variant_005": [
     14,
     18
   ],
-  "grass_dark_0_corrupted": [
+  "water_wave_variant_006": [
     14,
     19
   ],
-  "grass_dark_0_decay_34": [
+  "water_wave_variant_007": [
     14,
     20
   ],
-  "grass_dark_0_decay_88": [
+  "water_wave_variant_008": [
     14,
     21
   ],
-  "grass_dark_0_light": [
+  "water_wave_variant_009": [
     14,
     22
   ],
-  "grass_dark_0_night": [
+  "water_wave_variant_010": [
     14,
     23
   ],
-  "grass_dark_0_shadow": [
+  "water_wave_variant_011": [
     14,
     24
   ],
-  "grass_dark_0_worn": [
+  "water_wave_variant_012": [
     14,
     25
   ],
-  "grass_dark_1": [
+  "water_wave_variant_013": [
     14,
     26
   ],
-  "grass_dark_1_corrupted": [
+  "water_wave_variant_014": [
     14,
     27
   ],
-  "grass_dark_1_decay_72": [
+  "water_wave_variant_015": [
     14,
     28
   ],
-  "grass_dark_1_decay_99": [
+  "water_wave_variant_016": [
     14,
     29
   ],
-  "grass_dark_1_light": [
+  "water_wave_variant_017": [
     14,
     30
   ],
-  "grass_dark_1_night": [
+  "water_wave_variant_018": [
     14,
     31
   ],
-  "grass_dark_1_shadow": [
-    14,
-    32
-  ],
-  "grass_dark_1_worn": [
-    14,
-    33
-  ],
-  "grass_dark_2": [
-    14,
-    34
-  ],
-  "grass_dark_2_corrupted": [
-    14,
-    35
-  ],
-  "grass_dark_2_decay_22": [
-    14,
-    36
-  ],
-  "grass_dark_2_decay_28": [
-    14,
-    37
-  ],
-  "grass_dark_2_light": [
-    14,
-    38
-  ],
-  "grass_dark_2_night": [
-    14,
-    39
-  ],
-  "grass_dark_2_shadow": [
-    14,
-    40
-  ],
-  "grass_dark_2_worn": [
-    14,
-    41
-  ],
-  "grass_dark_3": [
-    14,
-    42
-  ],
-  "grass_dark_3_corrupted": [
-    14,
-    43
-  ],
-  "grass_dark_3_decay_47": [
-    14,
-    44
-  ],
-  "grass_dark_3_decay_58": [
-    14,
-    45
-  ],
-  "grass_dark_3_light": [
-    14,
-    46
-  ],
-  "grass_dark_3_night": [
-    14,
-    47
-  ],
-  "grass_dark_3_shadow": [
-    14,
-    48
-  ],
-  "grass_dark_3_worn": [
-    14,
-    49
-  ],
-  "grass_dark_4": [
-    14,
-    50
-  ],
-  "grass_dark_4_corrupted": [
-    14,
-    51
-  ],
-  "grass_dark_4_decay_30": [
-    14,
-    52
-  ],
-  "grass_dark_4_decay_43": [
-    14,
-    53
-  ],
-  "grass_dark_4_light": [
-    14,
-    54
-  ],
-  "grass_dark_4_night": [
-    14,
-    55
-  ],
-  "grass_dark_4_shadow": [
-    14,
-    56
-  ],
-  "grass_dark_4_worn": [
-    14,
-    57
-  ],
-  "grass_dark_5": [
-    14,
-    58
-  ],
-  "grass_dark_5_corrupted": [
-    14,
-    59
-  ],
-  "grass_dark_5_decay_5": [
-    14,
-    60
-  ],
-  "grass_dark_5_decay_89": [
-    14,
-    61
-  ],
-  "grass_dark_5_light": [
-    14,
-    62
-  ],
-  "grass_dark_5_night": [
-    14,
-    63
-  ],
-  "grass_dark_5_shadow": [
+  "water_wave_variant_019": [
     15,
     0
   ],
-  "grass_dark_5_worn": [
+  "water_wave_variant_020": [
     15,
     1
   ],
-  "grass_dark_6": [
+  "water_wave_variant_021": [
     15,
     2
   ],
-  "grass_dark_6_corrupted": [
+  "water_wave_variant_022": [
     15,
     3
   ],
-  "grass_dark_6_decay_45": [
+  "water_wave_variant_023": [
     15,
     4
   ],
-  "grass_dark_6_decay_84": [
+  "water_wave_variant_024": [
     15,
     5
   ],
-  "grass_dark_6_light": [
+  "water_wave_variant_025": [
     15,
     6
   ],
-  "grass_dark_6_night": [
+  "water_wave_variant_026": [
     15,
     7
   ],
-  "grass_dark_6_shadow": [
+  "water_wave_variant_027": [
     15,
     8
   ],
-  "grass_dark_6_worn": [
+  "water_edge_000": [
     15,
     9
   ],
-  "grass_dark_7": [
+  "water_edge_001": [
     15,
     10
   ],
-  "grass_dark_7_corrupted": [
+  "water_edge_002": [
     15,
     11
   ],
-  "grass_dark_7_decay_25": [
+  "water_edge_003": [
     15,
     12
   ],
-  "grass_dark_7_decay_78": [
+  "water_edge_004": [
     15,
     13
   ],
-  "grass_dark_7_light": [
+  "water_edge_005": [
     15,
     14
   ],
-  "grass_dark_7_night": [
+  "water_edge_006": [
     15,
     15
   ],
-  "grass_dark_7_shadow": [
+  "water_edge_007": [
     15,
     16
   ],
-  "grass_dark_7_worn": [
+  "water_edge_008": [
     15,
     17
   ],
-  "grass_light_0": [
+  "water_edge_009": [
     15,
     18
   ],
-  "grass_light_0_corrupted": [
+  "water_edge_010": [
     15,
     19
   ],
-  "grass_light_0_decay_23": [
+  "water_edge_011": [
     15,
     20
   ],
-  "grass_light_0_decay_64": [
+  "water_edge_012": [
     15,
     21
   ],
-  "grass_light_0_light": [
+  "water_edge_013": [
     15,
     22
   ],
-  "grass_light_0_night": [
+  "water_edge_014": [
     15,
     23
   ],
-  "grass_light_0_shadow": [
+  "water_edge_015": [
     15,
     24
   ],
-  "grass_light_0_worn": [
+  "water_edge_016": [
     15,
     25
   ],
-  "grass_light_1": [
+  "water_edge_017": [
     15,
     26
   ],
-  "grass_light_1_corrupted": [
+  "water_edge_018": [
     15,
     27
   ],
-  "grass_light_1_decay_62": [
+  "water_edge_019": [
     15,
     28
   ],
-  "grass_light_1_decay_85": [
+  "water_edge_020": [
     15,
     29
   ],
-  "grass_light_1_light": [
+  "water_edge_021": [
     15,
     30
   ],
-  "grass_light_1_night": [
+  "water_edge_022": [
     15,
     31
   ],
-  "grass_light_1_shadow": [
-    15,
-    32
-  ],
-  "grass_light_1_worn": [
-    15,
-    33
-  ],
-  "grass_light_2": [
-    15,
-    34
-  ],
-  "grass_light_2_corrupted": [
-    15,
-    35
-  ],
-  "grass_light_2_decay_11": [
-    15,
-    36
-  ],
-  "grass_light_2_decay_21": [
-    15,
-    37
-  ],
-  "grass_light_2_light": [
-    15,
-    38
-  ],
-  "grass_light_2_night": [
-    15,
-    39
-  ],
-  "grass_light_2_shadow": [
-    15,
-    40
-  ],
-  "grass_light_2_worn": [
-    15,
-    41
-  ],
-  "grass_light_3": [
-    15,
-    42
-  ],
-  "grass_light_3_corrupted": [
-    15,
-    43
-  ],
-  "grass_light_3_decay_57": [
-    15,
-    44
-  ],
-  "grass_light_3_decay_72": [
-    15,
-    45
-  ],
-  "grass_light_3_light": [
-    15,
-    46
-  ],
-  "grass_light_3_night": [
-    15,
-    47
-  ],
-  "grass_light_3_shadow": [
-    15,
-    48
-  ],
-  "grass_light_3_worn": [
-    15,
-    49
-  ],
-  "grass_light_4": [
-    15,
-    50
-  ],
-  "grass_light_4_corrupted": [
-    15,
-    51
-  ],
-  "grass_light_4_decay_47": [
-    15,
-    52
-  ],
-  "grass_light_4_decay_8": [
-    15,
-    53
-  ],
-  "grass_light_4_light": [
-    15,
-    54
-  ],
-  "grass_light_4_night": [
-    15,
-    55
-  ],
-  "grass_light_4_shadow": [
-    15,
-    56
-  ],
-  "grass_light_4_worn": [
-    15,
-    57
-  ],
-  "grass_light_5": [
-    15,
-    58
-  ],
-  "grass_light_5_corrupted": [
-    15,
-    59
-  ],
-  "grass_light_5_decay_39": [
-    15,
-    60
-  ],
-  "grass_light_5_decay_51": [
-    15,
-    61
-  ],
-  "grass_light_5_light": [
-    15,
-    62
-  ],
-  "grass_light_5_night": [
-    15,
-    63
-  ],
-  "grass_light_5_shadow": [
+  "water_edge_023": [
     16,
     0
   ],
-  "grass_light_5_worn": [
+  "water_edge_024": [
     16,
     1
   ],
-  "grass_light_6": [
+  "water_edge_025": [
     16,
     2
   ],
-  "grass_light_6_corrupted": [
+  "water_edge_026": [
     16,
     3
   ],
-  "grass_light_6_decay_44": [
+  "water_edge_027": [
     16,
     4
   ],
-  "grass_light_6_decay_50": [
+  "waterfall_000": [
     16,
     5
   ],
-  "grass_light_6_light": [
+  "waterfall_001": [
     16,
     6
   ],
-  "grass_light_6_night": [
+  "waterfall_002": [
     16,
     7
   ],
-  "grass_light_6_shadow": [
+  "waterfall_003": [
     16,
     8
   ],
-  "grass_light_6_worn": [
+  "waterfall_004": [
     16,
     9
   ],
-  "grass_light_7": [
+  "waterfall_005": [
     16,
     10
   ],
-  "grass_light_7_corrupted": [
+  "waterfall_006": [
     16,
     11
   ],
-  "grass_light_7_decay_15": [
+  "waterfall_007": [
     16,
     12
   ],
-  "grass_light_7_decay_20": [
+  "waterfall_008": [
     16,
     13
   ],
-  "grass_light_7_light": [
+  "waterfall_009": [
     16,
     14
   ],
-  "grass_light_7_night": [
+  "waterfall_010": [
     16,
     15
   ],
-  "grass_light_7_shadow": [
+  "waterfall_011": [
     16,
     16
   ],
-  "grass_light_7_worn": [
+  "waterfall_012": [
     16,
     17
   ],
-  "grass_medium_0": [
+  "waterfall_013": [
     16,
     18
   ],
-  "grass_medium_0_corrupted": [
+  "waterfall_014": [
     16,
     19
   ],
-  "grass_medium_0_decay_24": [
+  "waterfall_015": [
     16,
     20
   ],
-  "grass_medium_0_decay_37": [
+  "vegetation_tree_000": [
     16,
     21
   ],
-  "grass_medium_0_light": [
+  "vegetation_tree_001": [
     16,
     22
   ],
-  "grass_medium_0_night": [
+  "vegetation_tree_002": [
     16,
     23
   ],
-  "grass_medium_0_shadow": [
+  "vegetation_tree_003": [
     16,
     24
   ],
-  "grass_medium_0_worn": [
+  "vegetation_tree_004": [
     16,
     25
   ],
-  "grass_medium_1": [
+  "vegetation_tree_005": [
     16,
     26
   ],
-  "grass_medium_1_corrupted": [
+  "vegetation_tree_006": [
     16,
     27
   ],
-  "grass_medium_1_decay_13": [
+  "vegetation_tree_007": [
     16,
     28
   ],
-  "grass_medium_1_decay_89": [
+  "vegetation_tree_008": [
     16,
     29
   ],
-  "grass_medium_1_light": [
+  "vegetation_tree_009": [
     16,
     30
   ],
-  "grass_medium_1_night": [
+  "vegetation_tree_010": [
     16,
     31
   ],
-  "grass_medium_1_shadow": [
-    16,
-    32
-  ],
-  "grass_medium_1_worn": [
-    16,
-    33
-  ],
-  "grass_medium_2": [
-    16,
-    34
-  ],
-  "grass_medium_2_corrupted": [
-    16,
-    35
-  ],
-  "grass_medium_2_decay_35": [
-    16,
-    36
-  ],
-  "grass_medium_2_decay_71": [
-    16,
-    37
-  ],
-  "grass_medium_2_light": [
-    16,
-    38
-  ],
-  "grass_medium_2_night": [
-    16,
-    39
-  ],
-  "grass_medium_2_shadow": [
-    16,
-    40
-  ],
-  "grass_medium_2_worn": [
-    16,
-    41
-  ],
-  "grass_medium_3": [
-    16,
-    42
-  ],
-  "grass_medium_3_corrupted": [
-    16,
-    43
-  ],
-  "grass_medium_3_decay_31": [
-    16,
-    44
-  ],
-  "grass_medium_3_decay_50": [
-    16,
-    45
-  ],
-  "grass_medium_3_light": [
-    16,
-    46
-  ],
-  "grass_medium_3_night": [
-    16,
-    47
-  ],
-  "grass_medium_3_shadow": [
-    16,
-    48
-  ],
-  "grass_medium_3_worn": [
-    16,
-    49
-  ],
-  "grass_medium_4": [
-    16,
-    50
-  ],
-  "grass_medium_4_corrupted": [
-    16,
-    51
-  ],
-  "grass_medium_4_decay_17": [
-    16,
-    52
-  ],
-  "grass_medium_4_decay_38": [
-    16,
-    53
-  ],
-  "grass_medium_4_light": [
-    16,
-    54
-  ],
-  "grass_medium_4_night": [
-    16,
-    55
-  ],
-  "grass_medium_4_shadow": [
-    16,
-    56
-  ],
-  "grass_medium_4_worn": [
-    16,
-    57
-  ],
-  "grass_medium_5": [
-    16,
-    58
-  ],
-  "grass_medium_5_corrupted": [
-    16,
-    59
-  ],
-  "grass_medium_5_decay_45": [
-    16,
-    60
-  ],
-  "grass_medium_5_decay_85": [
-    16,
-    61
-  ],
-  "grass_medium_5_light": [
-    16,
-    62
-  ],
-  "grass_medium_5_night": [
-    16,
-    63
-  ],
-  "grass_medium_5_shadow": [
+  "vegetation_tree_011": [
     17,
     0
   ],
-  "grass_medium_5_worn": [
+  "vegetation_tree_012": [
     17,
     1
   ],
-  "grass_medium_6": [
+  "vegetation_tree_013": [
     17,
     2
   ],
-  "grass_medium_6_corrupted": [
+  "vegetation_tree_014": [
     17,
     3
   ],
-  "grass_medium_6_decay_53": [
+  "vegetation_tree_015": [
     17,
     4
   ],
-  "grass_medium_6_decay_77": [
+  "vegetation_tree_016": [
     17,
     5
   ],
-  "grass_medium_6_light": [
+  "vegetation_tree_017": [
     17,
     6
   ],
-  "grass_medium_6_night": [
+  "vegetation_tree_018": [
     17,
     7
   ],
-  "grass_medium_6_shadow": [
+  "vegetation_tree_019": [
     17,
     8
   ],
-  "grass_medium_6_worn": [
+  "vegetation_tree_020": [
     17,
     9
   ],
-  "grass_medium_7": [
+  "vegetation_tree_021": [
     17,
     10
   ],
-  "grass_medium_7_corrupted": [
+  "vegetation_tree_022": [
     17,
     11
   ],
-  "grass_medium_7_decay_61": [
+  "vegetation_tree_023": [
     17,
     12
   ],
-  "grass_medium_7_decay_84": [
+  "vegetation_tree_024": [
     17,
     13
   ],
-  "grass_medium_7_light": [
+  "vegetation_tree_025": [
     17,
     14
   ],
-  "grass_medium_7_night": [
+  "vegetation_tree_026": [
     17,
     15
   ],
-  "grass_medium_7_shadow": [
+  "vegetation_tree_027": [
     17,
     16
   ],
-  "grass_medium_7_worn": [
+  "vegetation_tree_028": [
     17,
     17
   ],
-  "grass_tall_0": [
+  "vegetation_tree_029": [
     17,
     18
   ],
-  "grass_tall_0_corrupted": [
+  "vegetation_tree_030": [
     17,
     19
   ],
-  "grass_tall_0_decay_15": [
+  "vegetation_tree_031": [
     17,
     20
   ],
-  "grass_tall_0_decay_57": [
+  "vegetation_tree_032": [
     17,
     21
   ],
-  "grass_tall_0_light": [
+  "vegetation_tree_033": [
     17,
     22
   ],
-  "grass_tall_0_night": [
+  "vegetation_tree_034": [
     17,
     23
   ],
-  "grass_tall_0_shadow": [
+  "vegetation_tree_035": [
     17,
     24
   ],
-  "grass_tall_0_worn": [
+  "vegetation_tree_036": [
     17,
     25
   ],
-  "grass_tall_1": [
+  "vegetation_tree_037": [
     17,
     26
   ],
-  "grass_tall_1_corrupted": [
+  "vegetation_tree_038": [
     17,
     27
   ],
-  "grass_tall_1_decay_50": [
+  "vegetation_tree_039": [
     17,
     28
   ],
-  "grass_tall_1_decay_70": [
+  "vegetation_tree_040": [
     17,
     29
   ],
-  "grass_tall_1_light": [
+  "vegetation_tree_041": [
     17,
     30
   ],
-  "grass_tall_1_night": [
+  "vegetation_tree_042": [
     17,
     31
   ],
-  "grass_tall_1_shadow": [
-    17,
-    32
-  ],
-  "grass_tall_1_worn": [
-    17,
-    33
-  ],
-  "grass_tall_2": [
-    17,
-    34
-  ],
-  "grass_tall_2_corrupted": [
-    17,
-    35
-  ],
-  "grass_tall_2_decay_29": [
-    17,
-    36
-  ],
-  "grass_tall_2_decay_52": [
-    17,
-    37
-  ],
-  "grass_tall_2_light": [
-    17,
-    38
-  ],
-  "grass_tall_2_night": [
-    17,
-    39
-  ],
-  "grass_tall_2_shadow": [
-    17,
-    40
-  ],
-  "grass_tall_2_worn": [
-    17,
-    41
-  ],
-  "grass_tall_3": [
-    17,
-    42
-  ],
-  "grass_tall_3_corrupted": [
-    17,
-    43
-  ],
-  "grass_tall_3_decay_11": [
-    17,
-    44
-  ],
-  "grass_tall_3_decay_83": [
-    17,
-    45
-  ],
-  "grass_tall_3_light": [
-    17,
-    46
-  ],
-  "grass_tall_3_night": [
-    17,
-    47
-  ],
-  "grass_tall_3_shadow": [
-    17,
-    48
-  ],
-  "grass_tall_3_worn": [
-    17,
-    49
-  ],
-  "grass_tall_4": [
-    17,
-    50
-  ],
-  "grass_tall_4_corrupted": [
-    17,
-    51
-  ],
-  "grass_tall_4_decay_30": [
-    17,
-    52
-  ],
-  "grass_tall_4_decay_49": [
-    17,
-    53
-  ],
-  "grass_tall_4_light": [
-    17,
-    54
-  ],
-  "grass_tall_4_night": [
-    17,
-    55
-  ],
-  "grass_tall_4_shadow": [
-    17,
-    56
-  ],
-  "grass_tall_4_worn": [
-    17,
-    57
-  ],
-  "grass_tall_5": [
-    17,
-    58
-  ],
-  "grass_tall_5_corrupted": [
-    17,
-    59
-  ],
-  "grass_tall_5_decay_21": [
-    17,
-    60
-  ],
-  "grass_tall_5_decay_73": [
-    17,
-    61
-  ],
-  "grass_tall_5_light": [
-    17,
-    62
-  ],
-  "grass_tall_5_night": [
-    17,
-    63
-  ],
-  "grass_tall_5_shadow": [
+  "vegetation_tree_043": [
     18,
     0
   ],
-  "grass_tall_5_worn": [
+  "vegetation_tree_044": [
     18,
     1
   ],
-  "grass_tall_6": [
+  "vegetation_tree_045": [
     18,
     2
   ],
-  "grass_tall_6_corrupted": [
+  "vegetation_tree_046": [
     18,
     3
   ],
-  "grass_tall_6_decay_5": [
+  "vegetation_tree_047": [
     18,
     4
   ],
-  "grass_tall_6_decay_55": [
+  "vegetation_tree_048": [
     18,
     5
   ],
-  "grass_tall_6_light": [
+  "vegetation_tree_049": [
     18,
     6
   ],
-  "grass_tall_6_night": [
+  "vegetation_tree_050": [
     18,
     7
   ],
-  "grass_tall_6_shadow": [
+  "vegetation_tree_051": [
     18,
     8
   ],
-  "grass_tall_6_worn": [
+  "vegetation_tree_052": [
     18,
     9
   ],
-  "grass_tall_7": [
+  "vegetation_tree_053": [
     18,
     10
   ],
-  "grass_tall_7_corrupted": [
+  "vegetation_tree_054": [
     18,
     11
   ],
-  "grass_tall_7_decay_52": [
+  "vegetation_tree_055": [
     18,
     12
   ],
-  "grass_tall_7_decay_68": [
+  "vegetation_tree_056": [
     18,
     13
   ],
-  "grass_tall_7_light": [
+  "vegetation_tree_057": [
     18,
     14
   ],
-  "grass_tall_7_night": [
+  "vegetation_tree_058": [
     18,
     15
   ],
-  "grass_tall_7_shadow": [
+  "vegetation_tree_059": [
     18,
     16
   ],
-  "grass_tall_7_worn": [
+  "vegetation_tree_060": [
     18,
     17
   ],
-  "grass_tall_8": [
+  "vegetation_tree_061": [
     18,
     18
   ],
-  "grass_tall_8_corrupted": [
+  "vegetation_tree_062": [
     18,
     19
   ],
-  "grass_tall_8_decay_65": [
+  "vegetation_tree_063": [
     18,
     20
   ],
-  "grass_tall_8_decay_86": [
+  "vegetation_tree_064": [
     18,
     21
   ],
-  "grass_tall_8_light": [
+  "vegetation_tree_065": [
     18,
     22
   ],
-  "grass_tall_8_night": [
+  "vegetation_tree_066": [
     18,
     23
   ],
-  "grass_tall_8_shadow": [
+  "vegetation_tree_067": [
     18,
     24
   ],
-  "grass_tall_8_worn": [
+  "vegetation_tree_068": [
     18,
     25
   ],
-  "grass_tall_9": [
+  "vegetation_tree_069": [
     18,
     26
   ],
-  "grass_tall_9_corrupted": [
+  "vegetation_tree_070": [
     18,
     27
   ],
-  "grass_tall_9_decay_20": [
+  "vegetation_tree_071": [
     18,
     28
   ],
-  "grass_tall_9_decay_43": [
+  "vegetation_tree_072": [
     18,
     29
   ],
-  "grass_tall_9_light": [
+  "vegetation_tree_073": [
     18,
     30
   ],
-  "grass_tall_9_night": [
+  "vegetation_tree_074": [
     18,
     31
   ],
-  "grass_tall_9_shadow": [
-    18,
-    32
-  ],
-  "grass_tall_9_worn": [
-    18,
-    33
-  ],
-  "house_wall_0": [
-    18,
-    34
-  ],
-  "house_wall_0_corrupted": [
-    18,
-    35
-  ],
-  "house_wall_0_night": [
-    18,
-    36
-  ],
-  "house_wall_1": [
-    18,
-    37
-  ],
-  "house_wall_1_corrupted": [
-    18,
-    38
-  ],
-  "house_wall_1_night": [
-    18,
-    39
-  ],
-  "house_wall_2": [
-    18,
-    40
-  ],
-  "house_wall_2_corrupted": [
-    18,
-    41
-  ],
-  "house_wall_2_night": [
-    18,
-    42
-  ],
-  "house_wall_3": [
-    18,
-    43
-  ],
-  "house_wall_3_corrupted": [
-    18,
-    44
-  ],
-  "house_wall_3_night": [
-    18,
-    45
-  ],
-  "house_wall_4": [
-    18,
-    46
-  ],
-  "house_wall_4_corrupted": [
-    18,
-    47
-  ],
-  "house_wall_4_night": [
-    18,
-    48
-  ],
-  "house_wall_5": [
-    18,
-    49
-  ],
-  "house_wall_5_corrupted": [
-    18,
-    50
-  ],
-  "house_wall_5_night": [
-    18,
-    51
-  ],
-  "house_wall_6": [
-    18,
-    52
-  ],
-  "house_wall_6_corrupted": [
-    18,
-    53
-  ],
-  "house_wall_6_night": [
-    18,
-    54
-  ],
-  "house_wall_7": [
-    18,
-    55
-  ],
-  "house_wall_7_corrupted": [
-    18,
-    56
-  ],
-  "house_wall_7_night": [
-    18,
-    57
-  ],
-  "house_wall_8": [
-    18,
-    58
-  ],
-  "house_wall_8_corrupted": [
-    18,
-    59
-  ],
-  "house_wall_8_night": [
-    18,
-    60
-  ],
-  "house_wall_9": [
-    18,
-    61
-  ],
-  "house_wall_9_corrupted": [
-    18,
-    62
-  ],
-  "house_wall_9_night": [
-    18,
-    63
-  ],
-  "night_variant_0": [
+  "vegetation_tree_075": [
     19,
     0
   ],
-  "night_variant_0_corrupted": [
+  "vegetation_tree_076": [
     19,
     1
   ],
-  "night_variant_0_night": [
+  "vegetation_tree_077": [
     19,
     2
   ],
-  "night_variant_1": [
+  "vegetation_tree_078": [
     19,
     3
   ],
-  "night_variant_1_corrupted": [
+  "vegetation_tree_079": [
     19,
     4
   ],
-  "night_variant_1_night": [
+  "vegetation_grass_000": [
     19,
     5
   ],
-  "night_variant_2": [
+  "vegetation_grass_001": [
     19,
     6
   ],
-  "night_variant_2_corrupted": [
+  "vegetation_grass_002": [
     19,
     7
   ],
-  "night_variant_2_night": [
+  "vegetation_grass_003": [
     19,
     8
   ],
-  "night_variant_3": [
+  "vegetation_grass_004": [
     19,
     9
   ],
-  "night_variant_3_corrupted": [
+  "vegetation_grass_005": [
     19,
     10
   ],
-  "night_variant_3_night": [
+  "vegetation_grass_006": [
     19,
     11
   ],
-  "night_variant_4": [
+  "vegetation_grass_007": [
     19,
     12
   ],
-  "night_variant_4_corrupted": [
+  "vegetation_grass_008": [
     19,
     13
   ],
-  "night_variant_4_night": [
+  "vegetation_grass_009": [
     19,
     14
   ],
-  "night_variant_5": [
+  "vegetation_grass_010": [
     19,
     15
   ],
-  "night_variant_5_corrupted": [
+  "vegetation_grass_011": [
     19,
     16
   ],
-  "night_variant_5_night": [
+  "vegetation_grass_012": [
     19,
     17
   ],
-  "night_variant_6": [
+  "vegetation_grass_013": [
     19,
     18
   ],
-  "night_variant_6_corrupted": [
+  "vegetation_grass_014": [
     19,
     19
   ],
-  "night_variant_6_night": [
+  "vegetation_grass_015": [
     19,
     20
   ],
-  "night_variant_7": [
+  "vegetation_grass_016": [
     19,
     21
   ],
-  "night_variant_7_corrupted": [
+  "vegetation_grass_017": [
     19,
     22
   ],
-  "night_variant_7_night": [
+  "vegetation_grass_018": [
     19,
     23
   ],
-  "night_variant_8": [
+  "vegetation_grass_019": [
     19,
     24
   ],
-  "night_variant_8_corrupted": [
+  "vegetation_grass_020": [
     19,
     25
   ],
-  "night_variant_8_night": [
+  "vegetation_grass_021": [
     19,
     26
   ],
-  "night_variant_9": [
+  "vegetation_grass_022": [
     19,
     27
   ],
-  "night_variant_9_corrupted": [
+  "vegetation_grass_023": [
     19,
     28
   ],
-  "night_variant_9_night": [
+  "vegetation_grass_024": [
     19,
     29
   ],
-  "rock_0": [
+  "vegetation_grass_025": [
     19,
     30
   ],
-  "rock_0_corrupted": [
+  "vegetation_grass_026": [
     19,
     31
   ],
-  "rock_0_fliph": [
-    19,
-    32
-  ],
-  "rock_0_flipv": [
-    19,
-    33
-  ],
-  "rock_0_night": [
-    19,
-    34
-  ],
-  "rock_0_rot1": [
-    19,
-    35
-  ],
-  "rock_0_rot2": [
-    19,
-    36
-  ],
-  "rock_0_rot3": [
-    19,
-    37
-  ],
-  "rock_1": [
-    19,
-    38
-  ],
-  "rock_10": [
-    19,
-    39
-  ],
-  "rock_10_corrupted": [
-    19,
-    40
-  ],
-  "rock_10_fliph": [
-    19,
-    41
-  ],
-  "rock_10_flipv": [
-    19,
-    42
-  ],
-  "rock_10_night": [
-    19,
-    43
-  ],
-  "rock_10_rot1": [
-    19,
-    44
-  ],
-  "rock_10_rot2": [
-    19,
-    45
-  ],
-  "rock_10_rot3": [
-    19,
-    46
-  ],
-  "rock_11": [
-    19,
-    47
-  ],
-  "rock_11_corrupted": [
-    19,
-    48
-  ],
-  "rock_11_fliph": [
-    19,
-    49
-  ],
-  "rock_11_flipv": [
-    19,
-    50
-  ],
-  "rock_11_night": [
-    19,
-    51
-  ],
-  "rock_11_rot1": [
-    19,
-    52
-  ],
-  "rock_11_rot2": [
-    19,
-    53
-  ],
-  "rock_11_rot3": [
-    19,
-    54
-  ],
-  "rock_12": [
-    19,
-    55
-  ],
-  "rock_12_corrupted": [
-    19,
-    56
-  ],
-  "rock_12_fliph": [
-    19,
-    57
-  ],
-  "rock_12_flipv": [
-    19,
-    58
-  ],
-  "rock_12_night": [
-    19,
-    59
-  ],
-  "rock_12_rot1": [
-    19,
-    60
-  ],
-  "rock_12_rot2": [
-    19,
-    61
-  ],
-  "rock_12_rot3": [
-    19,
-    62
-  ],
-  "rock_13": [
-    19,
-    63
-  ],
-  "rock_13_corrupted": [
+  "vegetation_grass_027": [
     20,
     0
   ],
-  "rock_13_fliph": [
+  "vegetation_grass_028": [
     20,
     1
   ],
-  "rock_13_flipv": [
+  "vegetation_grass_029": [
     20,
     2
   ],
-  "rock_13_night": [
+  "vegetation_flower_000": [
     20,
     3
   ],
-  "rock_13_rot1": [
+  "vegetation_flower_001": [
     20,
     4
   ],
-  "rock_13_rot2": [
+  "vegetation_flower_002": [
     20,
     5
   ],
-  "rock_13_rot3": [
+  "vegetation_flower_003": [
     20,
     6
   ],
-  "rock_14": [
+  "vegetation_flower_004": [
     20,
     7
   ],
-  "rock_14_corrupted": [
+  "vegetation_flower_005": [
     20,
     8
   ],
-  "rock_14_fliph": [
+  "vegetation_flower_006": [
     20,
     9
   ],
-  "rock_14_flipv": [
+  "vegetation_flower_007": [
     20,
     10
   ],
-  "rock_14_night": [
+  "vegetation_flower_008": [
     20,
     11
   ],
-  "rock_14_rot1": [
+  "vegetation_flower_009": [
     20,
     12
   ],
-  "rock_14_rot2": [
+  "vegetation_flower_010": [
     20,
     13
   ],
-  "rock_14_rot3": [
+  "vegetation_flower_011": [
     20,
     14
   ],
-  "rock_15": [
+  "vegetation_flower_012": [
     20,
     15
   ],
-  "rock_15_corrupted": [
+  "vegetation_flower_013": [
     20,
     16
   ],
-  "rock_15_fliph": [
+  "vegetation_flower_014": [
     20,
     17
   ],
-  "rock_15_flipv": [
+  "vegetation_flower_015": [
     20,
     18
   ],
-  "rock_15_night": [
+  "vegetation_flower_016": [
     20,
     19
   ],
-  "rock_15_rot1": [
+  "vegetation_flower_017": [
     20,
     20
   ],
-  "rock_15_rot2": [
+  "vegetation_flower_018": [
     20,
     21
   ],
-  "rock_15_rot3": [
+  "vegetation_flower_019": [
     20,
     22
   ],
-  "rock_16": [
+  "vegetation_flower_020": [
     20,
     23
   ],
-  "rock_16_corrupted": [
+  "vegetation_flower_021": [
     20,
     24
   ],
-  "rock_16_fliph": [
+  "vegetation_flower_022": [
     20,
     25
   ],
-  "rock_16_flipv": [
+  "vegetation_flower_023": [
     20,
     26
   ],
-  "rock_16_night": [
+  "vegetation_bush_000": [
     20,
     27
   ],
-  "rock_16_rot1": [
+  "vegetation_bush_001": [
     20,
     28
   ],
-  "rock_16_rot2": [
+  "vegetation_bush_002": [
     20,
     29
   ],
-  "rock_16_rot3": [
+  "vegetation_bush_003": [
     20,
     30
   ],
-  "rock_17": [
+  "vegetation_bush_004": [
     20,
     31
   ],
-  "rock_17_corrupted": [
-    20,
-    32
-  ],
-  "rock_17_fliph": [
-    20,
-    33
-  ],
-  "rock_17_flipv": [
-    20,
-    34
-  ],
-  "rock_17_night": [
-    20,
-    35
-  ],
-  "rock_17_rot1": [
-    20,
-    36
-  ],
-  "rock_17_rot2": [
-    20,
-    37
-  ],
-  "rock_17_rot3": [
-    20,
-    38
-  ],
-  "rock_18": [
-    20,
-    39
-  ],
-  "rock_18_corrupted": [
-    20,
-    40
-  ],
-  "rock_18_fliph": [
-    20,
-    41
-  ],
-  "rock_18_flipv": [
-    20,
-    42
-  ],
-  "rock_18_night": [
-    20,
-    43
-  ],
-  "rock_18_rot1": [
-    20,
-    44
-  ],
-  "rock_18_rot2": [
-    20,
-    45
-  ],
-  "rock_18_rot3": [
-    20,
-    46
-  ],
-  "rock_19": [
-    20,
-    47
-  ],
-  "rock_19_corrupted": [
-    20,
-    48
-  ],
-  "rock_19_fliph": [
-    20,
-    49
-  ],
-  "rock_19_flipv": [
-    20,
-    50
-  ],
-  "rock_19_night": [
-    20,
-    51
-  ],
-  "rock_19_rot1": [
-    20,
-    52
-  ],
-  "rock_19_rot2": [
-    20,
-    53
-  ],
-  "rock_19_rot3": [
-    20,
-    54
-  ],
-  "rock_1_corrupted": [
-    20,
-    55
-  ],
-  "rock_1_fliph": [
-    20,
-    56
-  ],
-  "rock_1_flipv": [
-    20,
-    57
-  ],
-  "rock_1_night": [
-    20,
-    58
-  ],
-  "rock_1_rot1": [
-    20,
-    59
-  ],
-  "rock_1_rot2": [
-    20,
-    60
-  ],
-  "rock_1_rot3": [
-    20,
-    61
-  ],
-  "rock_2": [
-    20,
-    62
-  ],
-  "rock_2_corrupted": [
-    20,
-    63
-  ],
-  "rock_2_fliph": [
+  "vegetation_bush_005": [
     21,
     0
   ],
-  "rock_2_flipv": [
+  "vegetation_bush_006": [
     21,
     1
   ],
-  "rock_2_night": [
+  "vegetation_bush_007": [
     21,
     2
   ],
-  "rock_2_rot1": [
+  "vegetation_bush_008": [
     21,
     3
   ],
-  "rock_2_rot2": [
+  "vegetation_bush_009": [
     21,
     4
   ],
-  "rock_2_rot3": [
+  "vegetation_bush_010": [
     21,
     5
   ],
-  "rock_3": [
+  "vegetation_bush_011": [
     21,
     6
   ],
-  "rock_3_corrupted": [
+  "vegetation_bush_012": [
     21,
     7
   ],
-  "rock_3_fliph": [
+  "vegetation_bush_013": [
     21,
     8
   ],
-  "rock_3_flipv": [
+  "vegetation_bush_014": [
     21,
     9
   ],
-  "rock_3_night": [
+  "vegetation_bush_015": [
     21,
     10
   ],
-  "rock_3_rot1": [
+  "vegetation_bush_016": [
     21,
     11
   ],
-  "rock_3_rot2": [
+  "vegetation_bush_017": [
     21,
     12
   ],
-  "rock_3_rot3": [
+  "vegetation_bush_018": [
     21,
     13
   ],
-  "rock_4": [
+  "vegetation_bush_019": [
     21,
     14
   ],
-  "rock_4_corrupted": [
+  "vegetation_bush_020": [
     21,
     15
   ],
-  "rock_4_fliph": [
+  "vegetation_bush_021": [
     21,
     16
   ],
-  "rock_4_flipv": [
+  "vegetation_bush_022": [
     21,
     17
   ],
-  "rock_4_night": [
+  "vegetation_bush_023": [
     21,
     18
   ],
-  "rock_4_rot1": [
+  "vegetation_bush_024": [
     21,
     19
   ],
-  "rock_4_rot2": [
+  "vegetation_bush_025": [
     21,
     20
   ],
-  "rock_4_rot3": [
+  "vegetation_bush_026": [
     21,
     21
   ],
-  "rock_5": [
+  "vegetation_bush_027": [
     21,
     22
   ],
-  "rock_5_corrupted": [
+  "vegetation_special_000": [
     21,
     23
   ],
-  "rock_5_fliph": [
+  "vegetation_special_001": [
     21,
     24
   ],
-  "rock_5_flipv": [
+  "vegetation_special_002": [
     21,
     25
   ],
-  "rock_5_night": [
+  "vegetation_special_003": [
     21,
     26
   ],
-  "rock_5_rot1": [
+  "vegetation_special_004": [
     21,
     27
   ],
-  "rock_5_rot2": [
+  "vegetation_special_005": [
     21,
     28
   ],
-  "rock_5_rot3": [
+  "vegetation_special_006": [
     21,
     29
   ],
-  "rock_6": [
+  "vegetation_special_007": [
     21,
     30
   ],
-  "rock_6_corrupted": [
+  "vegetation_special_008": [
     21,
     31
   ],
-  "rock_6_fliph": [
-    21,
-    32
-  ],
-  "rock_6_flipv": [
-    21,
-    33
-  ],
-  "rock_6_night": [
-    21,
-    34
-  ],
-  "rock_6_rot1": [
-    21,
-    35
-  ],
-  "rock_6_rot2": [
-    21,
-    36
-  ],
-  "rock_6_rot3": [
-    21,
-    37
-  ],
-  "rock_7": [
-    21,
-    38
-  ],
-  "rock_7_corrupted": [
-    21,
-    39
-  ],
-  "rock_7_fliph": [
-    21,
-    40
-  ],
-  "rock_7_flipv": [
-    21,
-    41
-  ],
-  "rock_7_night": [
-    21,
-    42
-  ],
-  "rock_7_rot1": [
-    21,
-    43
-  ],
-  "rock_7_rot2": [
-    21,
-    44
-  ],
-  "rock_7_rot3": [
-    21,
-    45
-  ],
-  "rock_8": [
-    21,
-    46
-  ],
-  "rock_8_corrupted": [
-    21,
-    47
-  ],
-  "rock_8_fliph": [
-    21,
-    48
-  ],
-  "rock_8_flipv": [
-    21,
-    49
-  ],
-  "rock_8_night": [
-    21,
-    50
-  ],
-  "rock_8_rot1": [
-    21,
-    51
-  ],
-  "rock_8_rot2": [
-    21,
-    52
-  ],
-  "rock_8_rot3": [
-    21,
-    53
-  ],
-  "rock_9": [
-    21,
-    54
-  ],
-  "rock_9_corrupted": [
-    21,
-    55
-  ],
-  "rock_9_fliph": [
-    21,
-    56
-  ],
-  "rock_9_flipv": [
-    21,
-    57
-  ],
-  "rock_9_night": [
-    21,
-    58
-  ],
-  "rock_9_rot1": [
-    21,
-    59
-  ],
-  "rock_9_rot2": [
-    21,
-    60
-  ],
-  "rock_9_rot3": [
-    21,
-    61
-  ],
-  "roof_0": [
-    21,
-    62
-  ],
-  "roof_0_corrupted": [
-    21,
-    63
-  ],
-  "roof_0_night": [
+  "vegetation_special_009": [
     22,
     0
   ],
-  "roof_1": [
+  "vegetation_special_010": [
     22,
     1
   ],
-  "roof_1_corrupted": [
+  "vegetation_special_011": [
     22,
     2
   ],
-  "roof_1_night": [
+  "vegetation_special_012": [
     22,
     3
   ],
-  "roof_2": [
+  "vegetation_special_013": [
     22,
     4
   ],
-  "roof_2_corrupted": [
+  "vegetation_special_014": [
     22,
     5
   ],
-  "roof_2_night": [
+  "vegetation_special_015": [
     22,
     6
   ],
-  "roof_3": [
+  "vegetation_special_016": [
     22,
     7
   ],
-  "roof_3_corrupted": [
+  "vegetation_special_017": [
     22,
     8
   ],
-  "roof_3_night": [
+  "vegetation_special_018": [
     22,
     9
   ],
-  "roof_4": [
+  "vegetation_special_019": [
     22,
     10
   ],
-  "roof_4_corrupted": [
+  "vegetation_special_020": [
     22,
     11
   ],
-  "roof_4_night": [
+  "vegetation_special_021": [
     22,
     12
   ],
-  "roof_5": [
+  "vegetation_special_022": [
     22,
     13
   ],
-  "roof_5_corrupted": [
+  "vegetation_special_023": [
     22,
     14
   ],
-  "roof_5_night": [
+  "building_wall_000": [
     22,
     15
   ],
-  "roof_6": [
+  "building_wall_001": [
     22,
     16
   ],
-  "roof_6_corrupted": [
+  "building_wall_002": [
     22,
     17
   ],
-  "roof_6_night": [
+  "building_wall_003": [
     22,
     18
   ],
-  "roof_7": [
+  "building_wall_004": [
     22,
     19
   ],
-  "roof_7_corrupted": [
+  "building_wall_005": [
     22,
     20
   ],
-  "roof_7_night": [
+  "building_wall_006": [
     22,
     21
   ],
-  "roof_8": [
+  "building_wall_007": [
     22,
     22
   ],
-  "roof_8_corrupted": [
+  "building_wall_008": [
     22,
     23
   ],
-  "roof_8_night": [
+  "building_wall_009": [
     22,
     24
   ],
-  "roof_9": [
+  "building_wall_010": [
     22,
     25
   ],
-  "roof_9_corrupted": [
+  "building_wall_011": [
     22,
     26
   ],
-  "roof_9_night": [
+  "building_wall_012": [
     22,
     27
   ],
-  "sand_0": [
+  "building_wall_013": [
     22,
     28
   ],
-  "sand_0_corrupted": [
+  "building_wall_014": [
     22,
     29
   ],
-  "sand_0_decay_16": [
+  "building_wall_015": [
     22,
     30
   ],
-  "sand_0_decay_92": [
+  "building_wall_016": [
     22,
     31
   ],
-  "sand_0_light": [
-    22,
-    32
-  ],
-  "sand_0_night": [
-    22,
-    33
-  ],
-  "sand_0_shadow": [
-    22,
-    34
-  ],
-  "sand_0_worn": [
-    22,
-    35
-  ],
-  "sand_1": [
-    22,
-    36
-  ],
-  "sand_1_corrupted": [
-    22,
-    37
-  ],
-  "sand_1_decay_3": [
-    22,
-    38
-  ],
-  "sand_1_decay_75": [
-    22,
-    39
-  ],
-  "sand_1_light": [
-    22,
-    40
-  ],
-  "sand_1_night": [
-    22,
-    41
-  ],
-  "sand_1_shadow": [
-    22,
-    42
-  ],
-  "sand_1_worn": [
-    22,
-    43
-  ],
-  "sand_2": [
-    22,
-    44
-  ],
-  "sand_2_corrupted": [
-    22,
-    45
-  ],
-  "sand_2_decay_35": [
-    22,
-    46
-  ],
-  "sand_2_decay_99": [
-    22,
-    47
-  ],
-  "sand_2_light": [
-    22,
-    48
-  ],
-  "sand_2_night": [
-    22,
-    49
-  ],
-  "sand_2_shadow": [
-    22,
-    50
-  ],
-  "sand_2_worn": [
-    22,
-    51
-  ],
-  "sand_3": [
-    22,
-    52
-  ],
-  "sand_3_corrupted": [
-    22,
-    53
-  ],
-  "sand_3_decay_6": [
-    22,
-    54
-  ],
-  "sand_3_decay_69": [
-    22,
-    55
-  ],
-  "sand_3_light": [
-    22,
-    56
-  ],
-  "sand_3_night": [
-    22,
-    57
-  ],
-  "sand_3_shadow": [
-    22,
-    58
-  ],
-  "sand_3_worn": [
-    22,
-    59
-  ],
-  "sand_4": [
-    22,
-    60
-  ],
-  "sand_4_corrupted": [
-    22,
-    61
-  ],
-  "sand_4_decay_42": [
-    22,
-    62
-  ],
-  "sand_4_decay_81": [
-    22,
-    63
-  ],
-  "sand_4_light": [
+  "building_wall_017": [
     23,
     0
   ],
-  "sand_4_night": [
+  "building_wall_018": [
     23,
     1
   ],
-  "sand_4_shadow": [
+  "building_wall_019": [
     23,
     2
   ],
-  "sand_4_worn": [
+  "building_wall_020": [
     23,
     3
   ],
-  "sign_0": [
+  "building_wall_021": [
     23,
     4
   ],
-  "sign_0_corrupted": [
+  "building_wall_022": [
     23,
     5
   ],
-  "sign_0_night": [
+  "building_wall_023": [
     23,
     6
   ],
-  "sign_1": [
+  "building_wall_024": [
     23,
     7
   ],
-  "sign_10": [
+  "building_wall_025": [
     23,
     8
   ],
-  "sign_10_corrupted": [
+  "building_wall_026": [
     23,
     9
   ],
-  "sign_10_night": [
+  "building_wall_027": [
     23,
     10
   ],
-  "sign_11": [
+  "building_wall_028": [
     23,
     11
   ],
-  "sign_11_corrupted": [
+  "building_wall_029": [
     23,
     12
   ],
-  "sign_11_night": [
+  "building_wall_030": [
     23,
     13
   ],
-  "sign_12": [
+  "building_wall_031": [
     23,
     14
   ],
-  "sign_12_corrupted": [
+  "building_wall_032": [
     23,
     15
   ],
-  "sign_12_night": [
+  "building_wall_033": [
     23,
     16
   ],
-  "sign_13": [
+  "building_wall_034": [
     23,
     17
   ],
-  "sign_13_corrupted": [
+  "building_wall_035": [
     23,
     18
   ],
-  "sign_13_night": [
+  "building_wall_036": [
     23,
     19
   ],
-  "sign_14": [
+  "building_wall_037": [
     23,
     20
   ],
-  "sign_14_corrupted": [
+  "building_wall_038": [
     23,
     21
   ],
-  "sign_14_night": [
+  "building_wall_039": [
     23,
     22
   ],
-  "sign_1_corrupted": [
+  "building_wall_040": [
     23,
     23
   ],
-  "sign_1_night": [
+  "building_wall_041": [
     23,
     24
   ],
-  "sign_2": [
+  "building_wall_042": [
     23,
     25
   ],
-  "sign_2_corrupted": [
+  "building_wall_043": [
     23,
     26
   ],
-  "sign_2_night": [
+  "building_wall_044": [
     23,
     27
   ],
-  "sign_3": [
+  "building_wall_045": [
     23,
     28
   ],
-  "sign_3_corrupted": [
+  "building_wall_046": [
     23,
     29
   ],
-  "sign_3_night": [
+  "building_wall_047": [
     23,
     30
   ],
-  "sign_4": [
+  "building_wall_048": [
     23,
     31
   ],
-  "sign_4_corrupted": [
-    23,
-    32
-  ],
-  "sign_4_night": [
-    23,
-    33
-  ],
-  "sign_5": [
-    23,
-    34
-  ],
-  "sign_5_corrupted": [
-    23,
-    35
-  ],
-  "sign_5_night": [
-    23,
-    36
-  ],
-  "sign_6": [
-    23,
-    37
-  ],
-  "sign_6_corrupted": [
-    23,
-    38
-  ],
-  "sign_6_night": [
-    23,
-    39
-  ],
-  "sign_7": [
-    23,
-    40
-  ],
-  "sign_7_corrupted": [
-    23,
-    41
-  ],
-  "sign_7_night": [
-    23,
-    42
-  ],
-  "sign_8": [
-    23,
-    43
-  ],
-  "sign_8_corrupted": [
-    23,
-    44
-  ],
-  "sign_8_night": [
-    23,
-    45
-  ],
-  "sign_9": [
-    23,
-    46
-  ],
-  "sign_9_corrupted": [
-    23,
-    47
-  ],
-  "sign_9_night": [
-    23,
-    48
-  ],
-  "snow_0": [
-    23,
-    49
-  ],
-  "snow_0_corrupted": [
-    23,
-    50
-  ],
-  "snow_0_decay_46": [
-    23,
-    51
-  ],
-  "snow_0_decay_69": [
-    23,
-    52
-  ],
-  "snow_0_light": [
-    23,
-    53
-  ],
-  "snow_0_night": [
-    23,
-    54
-  ],
-  "snow_0_shadow": [
-    23,
-    55
-  ],
-  "snow_0_worn": [
-    23,
-    56
-  ],
-  "snow_1": [
-    23,
-    57
-  ],
-  "snow_1_corrupted": [
-    23,
-    58
-  ],
-  "snow_1_decay_33": [
-    23,
-    59
-  ],
-  "snow_1_decay_87": [
-    23,
-    60
-  ],
-  "snow_1_light": [
-    23,
-    61
-  ],
-  "snow_1_night": [
-    23,
-    62
-  ],
-  "snow_1_shadow": [
-    23,
-    63
-  ],
-  "snow_1_worn": [
+  "building_wall_049": [
     24,
     0
   ],
-  "snow_2": [
+  "building_wall_050": [
     24,
     1
   ],
-  "snow_2_corrupted": [
+  "building_wall_051": [
     24,
     2
   ],
-  "snow_2_decay_13": [
+  "building_wall_052": [
     24,
     3
   ],
-  "snow_2_decay_6": [
+  "building_wall_053": [
     24,
     4
   ],
-  "snow_2_light": [
+  "building_wall_054": [
     24,
     5
   ],
-  "snow_2_night": [
+  "building_wall_055": [
     24,
     6
   ],
-  "snow_2_shadow": [
+  "building_wall_056": [
     24,
     7
   ],
-  "snow_2_worn": [
+  "building_wall_057": [
     24,
     8
   ],
-  "snow_3": [
+  "building_wall_058": [
     24,
     9
   ],
-  "snow_3_corrupted": [
+  "building_wall_059": [
     24,
     10
   ],
-  "snow_3_decay_17": [
+  "building_wall_060": [
     24,
     11
   ],
-  "snow_3_decay_42": [
+  "building_wall_061": [
     24,
     12
   ],
-  "snow_3_light": [
+  "building_wall_062": [
     24,
     13
   ],
-  "snow_3_night": [
+  "building_wall_063": [
     24,
     14
   ],
-  "snow_3_shadow": [
+  "building_wall_064": [
     24,
     15
   ],
-  "snow_3_worn": [
+  "building_wall_065": [
     24,
     16
   ],
-  "stone_path_0": [
+  "building_wall_066": [
     24,
     17
   ],
-  "stone_path_0_corrupted": [
+  "building_wall_067": [
     24,
     18
   ],
-  "stone_path_0_night": [
+  "building_wall_068": [
     24,
     19
   ],
-  "stone_path_1": [
+  "building_wall_069": [
     24,
     20
   ],
-  "stone_path_1_corrupted": [
+  "building_roof_000": [
     24,
     21
   ],
-  "stone_path_1_night": [
+  "building_roof_001": [
     24,
     22
   ],
-  "stone_path_2": [
+  "building_roof_002": [
     24,
     23
   ],
-  "stone_path_2_corrupted": [
+  "building_roof_003": [
     24,
     24
   ],
-  "stone_path_2_night": [
+  "building_roof_004": [
     24,
     25
   ],
-  "stone_path_3": [
+  "building_roof_005": [
     24,
     26
   ],
-  "stone_path_3_corrupted": [
+  "building_roof_006": [
     24,
     27
   ],
-  "stone_path_3_night": [
+  "building_roof_007": [
     24,
     28
   ],
-  "stone_path_4": [
+  "building_roof_008": [
     24,
     29
   ],
-  "stone_path_4_corrupted": [
+  "building_roof_009": [
     24,
     30
   ],
-  "stone_path_4_night": [
+  "building_roof_010": [
     24,
     31
   ],
-  "stone_path_5": [
-    24,
-    32
-  ],
-  "stone_path_5_corrupted": [
-    24,
-    33
-  ],
-  "stone_path_5_night": [
-    24,
-    34
-  ],
-  "transition_0": [
-    24,
-    35
-  ],
-  "transition_1": [
-    24,
-    36
-  ],
-  "transition_10": [
-    24,
-    37
-  ],
-  "transition_11": [
-    24,
-    38
-  ],
-  "transition_12": [
-    24,
-    39
-  ],
-  "transition_13": [
-    24,
-    40
-  ],
-  "transition_14": [
-    24,
-    41
-  ],
-  "transition_15": [
-    24,
-    42
-  ],
-  "transition_16": [
-    24,
-    43
-  ],
-  "transition_17": [
-    24,
-    44
-  ],
-  "transition_18": [
-    24,
-    45
-  ],
-  "transition_19": [
-    24,
-    46
-  ],
-  "transition_2": [
-    24,
-    47
-  ],
-  "transition_20": [
-    24,
-    48
-  ],
-  "transition_21": [
-    24,
-    49
-  ],
-  "transition_22": [
-    24,
-    50
-  ],
-  "transition_23": [
-    24,
-    51
-  ],
-  "transition_24": [
-    24,
-    52
-  ],
-  "transition_25": [
-    24,
-    53
-  ],
-  "transition_26": [
-    24,
-    54
-  ],
-  "transition_27": [
-    24,
-    55
-  ],
-  "transition_28": [
-    24,
-    56
-  ],
-  "transition_29": [
-    24,
-    57
-  ],
-  "transition_3": [
-    24,
-    58
-  ],
-  "transition_30": [
-    24,
-    59
-  ],
-  "transition_31": [
-    24,
-    60
-  ],
-  "transition_32": [
-    24,
-    61
-  ],
-  "transition_33": [
-    24,
-    62
-  ],
-  "transition_34": [
-    24,
-    63
-  ],
-  "transition_35": [
+  "building_roof_011": [
     25,
     0
   ],
-  "transition_36": [
+  "building_roof_012": [
     25,
     1
   ],
-  "transition_37": [
+  "building_roof_013": [
     25,
     2
   ],
-  "transition_38": [
+  "building_roof_014": [
     25,
     3
   ],
-  "transition_39": [
+  "building_roof_015": [
     25,
     4
   ],
-  "transition_4": [
+  "building_roof_016": [
     25,
     5
   ],
-  "transition_40": [
+  "building_roof_017": [
     25,
     6
   ],
-  "transition_41": [
+  "building_roof_018": [
     25,
     7
   ],
-  "transition_42": [
+  "building_roof_019": [
     25,
     8
   ],
-  "transition_43": [
+  "building_roof_020": [
     25,
     9
   ],
-  "transition_44": [
+  "building_roof_021": [
     25,
     10
   ],
-  "transition_45": [
+  "building_roof_022": [
     25,
     11
   ],
-  "transition_46": [
+  "building_roof_023": [
     25,
     12
   ],
-  "transition_47": [
+  "building_roof_024": [
     25,
     13
   ],
-  "transition_48": [
+  "building_roof_025": [
     25,
     14
   ],
-  "transition_49": [
+  "building_roof_026": [
     25,
     15
   ],
-  "transition_5": [
+  "building_roof_027": [
     25,
     16
   ],
-  "transition_50": [
+  "building_roof_028": [
     25,
     17
   ],
-  "transition_51": [
+  "building_roof_029": [
     25,
     18
   ],
-  "transition_52": [
+  "building_roof_030": [
     25,
     19
   ],
-  "transition_53": [
+  "building_roof_031": [
     25,
     20
   ],
-  "transition_54": [
+  "building_roof_032": [
     25,
     21
   ],
-  "transition_55": [
+  "building_roof_033": [
     25,
     22
   ],
-  "transition_56": [
+  "building_roof_034": [
     25,
     23
   ],
-  "transition_57": [
+  "building_roof_035": [
     25,
     24
   ],
-  "transition_58": [
+  "building_roof_036": [
     25,
     25
   ],
-  "transition_59": [
+  "building_roof_037": [
     25,
     26
   ],
-  "transition_6": [
+  "building_roof_038": [
     25,
     27
   ],
-  "transition_60": [
+  "building_roof_039": [
     25,
     28
   ],
-  "transition_61": [
+  "building_roof_040": [
     25,
     29
   ],
-  "transition_62": [
+  "building_roof_041": [
     25,
     30
   ],
-  "transition_63": [
+  "building_roof_042": [
     25,
     31
   ],
-  "transition_64": [
-    25,
-    32
-  ],
-  "transition_65": [
-    25,
-    33
-  ],
-  "transition_66": [
-    25,
-    34
-  ],
-  "transition_67": [
-    25,
-    35
-  ],
-  "transition_68": [
-    25,
-    36
-  ],
-  "transition_69": [
-    25,
-    37
-  ],
-  "transition_7": [
-    25,
-    38
-  ],
-  "transition_70": [
-    25,
-    39
-  ],
-  "transition_71": [
-    25,
-    40
-  ],
-  "transition_72": [
-    25,
-    41
-  ],
-  "transition_73": [
-    25,
-    42
-  ],
-  "transition_74": [
-    25,
-    43
-  ],
-  "transition_75": [
-    25,
-    44
-  ],
-  "transition_76": [
-    25,
-    45
-  ],
-  "transition_77": [
-    25,
-    46
-  ],
-  "transition_78": [
-    25,
-    47
-  ],
-  "transition_79": [
-    25,
-    48
-  ],
-  "transition_8": [
-    25,
-    49
-  ],
-  "transition_80": [
-    25,
-    50
-  ],
-  "transition_81": [
-    25,
-    51
-  ],
-  "transition_82": [
-    25,
-    52
-  ],
-  "transition_83": [
-    25,
-    53
-  ],
-  "transition_84": [
-    25,
-    54
-  ],
-  "transition_85": [
-    25,
-    55
-  ],
-  "transition_86": [
-    25,
-    56
-  ],
-  "transition_87": [
-    25,
-    57
-  ],
-  "transition_88": [
-    25,
-    58
-  ],
-  "transition_89": [
-    25,
-    59
-  ],
-  "transition_9": [
-    25,
-    60
-  ],
-  "transition_90": [
-    25,
-    61
-  ],
-  "transition_91": [
-    25,
-    62
-  ],
-  "transition_92": [
-    25,
-    63
-  ],
-  "transition_93": [
+  "building_roof_043": [
     26,
     0
   ],
-  "transition_94": [
+  "building_roof_044": [
     26,
     1
   ],
-  "transition_95": [
+  "building_roof_045": [
     26,
     2
   ],
-  "transition_96": [
+  "building_roof_046": [
     26,
     3
   ],
-  "transition_97": [
+  "building_roof_047": [
     26,
     4
   ],
-  "transition_98": [
+  "building_roof_048": [
     26,
     5
   ],
-  "transition_99": [
+  "building_roof_049": [
     26,
     6
   ],
-  "tree_dead_bl": [
+  "building_roof_050": [
     26,
     7
   ],
-  "tree_dead_bl_corrupted": [
+  "building_roof_051": [
     26,
     8
   ],
-  "tree_dead_bl_night": [
+  "building_roof_052": [
     26,
     9
   ],
-  "tree_dead_br": [
+  "building_roof_053": [
     26,
     10
   ],
-  "tree_dead_br_corrupted": [
+  "building_roof_054": [
     26,
     11
   ],
-  "tree_dead_br_night": [
+  "building_roof_055": [
     26,
     12
   ],
-  "tree_dead_tl": [
+  "building_roof_056": [
     26,
     13
   ],
-  "tree_dead_tl_corrupted": [
+  "building_roof_057": [
     26,
     14
   ],
-  "tree_dead_tl_night": [
+  "building_door_000": [
     26,
     15
   ],
-  "tree_dead_tr": [
+  "building_door_001": [
     26,
     16
   ],
-  "tree_dead_tr_corrupted": [
+  "building_door_002": [
     26,
     17
   ],
-  "tree_dead_tr_night": [
+  "building_door_003": [
     26,
     18
   ],
-  "tree_jungle_bl": [
+  "building_door_004": [
     26,
     19
   ],
-  "tree_jungle_bl_corrupted": [
+  "building_door_005": [
     26,
     20
   ],
-  "tree_jungle_bl_night": [
+  "building_door_006": [
     26,
     21
   ],
-  "tree_jungle_br": [
+  "building_door_007": [
     26,
     22
   ],
-  "tree_jungle_br_corrupted": [
+  "building_door_008": [
     26,
     23
   ],
-  "tree_jungle_br_night": [
+  "building_door_009": [
     26,
     24
   ],
-  "tree_jungle_tl": [
+  "building_door_010": [
     26,
     25
   ],
-  "tree_jungle_tl_corrupted": [
+  "building_door_011": [
     26,
     26
   ],
-  "tree_jungle_tl_night": [
+  "building_door_012": [
     26,
     27
   ],
-  "tree_jungle_tr": [
+  "building_door_013": [
     26,
     28
   ],
-  "tree_jungle_tr_corrupted": [
+  "building_door_014": [
     26,
     29
   ],
-  "tree_jungle_tr_night": [
+  "building_door_015": [
     26,
     30
   ],
-  "tree_oak_bl": [
+  "building_door_016": [
     26,
     31
   ],
-  "tree_oak_bl_corrupted": [
-    26,
-    32
-  ],
-  "tree_oak_bl_night": [
-    26,
-    33
-  ],
-  "tree_oak_br": [
-    26,
-    34
-  ],
-  "tree_oak_br_corrupted": [
-    26,
-    35
-  ],
-  "tree_oak_br_night": [
-    26,
-    36
-  ],
-  "tree_oak_tl": [
-    26,
-    37
-  ],
-  "tree_oak_tl_corrupted": [
-    26,
-    38
-  ],
-  "tree_oak_tl_night": [
-    26,
-    39
-  ],
-  "tree_oak_tr": [
-    26,
-    40
-  ],
-  "tree_oak_tr_corrupted": [
-    26,
-    41
-  ],
-  "tree_oak_tr_night": [
-    26,
-    42
-  ],
-  "tree_palm_bl": [
-    26,
-    43
-  ],
-  "tree_palm_bl_corrupted": [
-    26,
-    44
-  ],
-  "tree_palm_bl_night": [
-    26,
-    45
-  ],
-  "tree_palm_br": [
-    26,
-    46
-  ],
-  "tree_palm_br_corrupted": [
-    26,
-    47
-  ],
-  "tree_palm_br_night": [
-    26,
-    48
-  ],
-  "tree_palm_tl": [
-    26,
-    49
-  ],
-  "tree_palm_tl_corrupted": [
-    26,
-    50
-  ],
-  "tree_palm_tl_night": [
-    26,
-    51
-  ],
-  "tree_palm_tr": [
-    26,
-    52
-  ],
-  "tree_palm_tr_corrupted": [
-    26,
-    53
-  ],
-  "tree_palm_tr_night": [
-    26,
-    54
-  ],
-  "tree_pine_bl": [
-    26,
-    55
-  ],
-  "tree_pine_bl_corrupted": [
-    26,
-    56
-  ],
-  "tree_pine_bl_night": [
-    26,
-    57
-  ],
-  "tree_pine_br": [
-    26,
-    58
-  ],
-  "tree_pine_br_corrupted": [
-    26,
-    59
-  ],
-  "tree_pine_br_night": [
-    26,
-    60
-  ],
-  "tree_pine_tl": [
-    26,
-    61
-  ],
-  "tree_pine_tl_corrupted": [
-    26,
-    62
-  ],
-  "tree_pine_tl_night": [
-    26,
-    63
-  ],
-  "tree_pine_tr": [
+  "building_door_017": [
     27,
     0
   ],
-  "tree_pine_tr_corrupted": [
+  "building_door_018": [
     27,
     1
   ],
-  "tree_pine_tr_night": [
+  "building_door_019": [
     27,
     2
   ],
-  "tree_snowy_bl": [
+  "building_door_020": [
     27,
     3
   ],
-  "tree_snowy_bl_corrupted": [
+  "building_door_021": [
     27,
     4
   ],
-  "tree_snowy_bl_decay_71": [
+  "building_door_022": [
     27,
     5
   ],
-  "tree_snowy_bl_decay_90": [
+  "building_door_023": [
     27,
     6
   ],
-  "tree_snowy_bl_light": [
+  "building_window_000": [
     27,
     7
   ],
-  "tree_snowy_bl_night": [
+  "building_window_001": [
     27,
     8
   ],
-  "tree_snowy_bl_shadow": [
+  "building_window_002": [
     27,
     9
   ],
-  "tree_snowy_bl_worn": [
+  "building_window_003": [
     27,
     10
   ],
-  "tree_snowy_br": [
+  "building_window_004": [
     27,
     11
   ],
-  "tree_snowy_br_corrupted": [
+  "building_window_005": [
     27,
     12
   ],
-  "tree_snowy_br_decay_16": [
+  "building_window_006": [
     27,
     13
   ],
-  "tree_snowy_br_decay_90": [
+  "building_window_007": [
     27,
     14
   ],
-  "tree_snowy_br_light": [
+  "building_window_008": [
     27,
     15
   ],
-  "tree_snowy_br_night": [
+  "building_window_009": [
     27,
     16
   ],
-  "tree_snowy_br_shadow": [
+  "building_window_010": [
     27,
     17
   ],
-  "tree_snowy_br_worn": [
+  "building_window_011": [
     27,
     18
   ],
-  "tree_snowy_tl": [
+  "building_window_012": [
     27,
     19
   ],
-  "tree_snowy_tl_corrupted": [
+  "building_window_013": [
     27,
     20
   ],
-  "tree_snowy_tl_decay_13": [
+  "building_window_014": [
     27,
     21
   ],
-  "tree_snowy_tl_decay_80": [
+  "building_window_015": [
     27,
     22
   ],
-  "tree_snowy_tl_light": [
+  "building_window_016": [
     27,
     23
   ],
-  "tree_snowy_tl_night": [
+  "building_window_017": [
     27,
     24
   ],
-  "tree_snowy_tl_shadow": [
+  "building_window_018": [
     27,
     25
   ],
-  "tree_snowy_tl_worn": [
+  "building_window_019": [
     27,
     26
   ],
-  "tree_snowy_tr": [
+  "building_window_020": [
     27,
     27
   ],
-  "tree_snowy_tr_corrupted": [
+  "building_window_021": [
     27,
     28
   ],
-  "tree_snowy_tr_decay_48": [
+  "building_window_022": [
     27,
     29
   ],
-  "tree_snowy_tr_decay_68": [
+  "building_window_023": [
     27,
     30
   ],
-  "tree_snowy_tr_light": [
+  "building_fence_000": [
     27,
     31
   ],
-  "tree_snowy_tr_night": [
-    27,
-    32
-  ],
-  "tree_snowy_tr_shadow": [
-    27,
-    33
-  ],
-  "tree_snowy_tr_worn": [
-    27,
-    34
-  ],
-  "tree_stump_0": [
-    27,
-    35
-  ],
-  "tree_stump_0_corrupted": [
-    27,
-    36
-  ],
-  "tree_stump_0_night": [
-    27,
-    37
-  ],
-  "tree_stump_1": [
-    27,
-    38
-  ],
-  "tree_stump_10": [
-    27,
-    39
-  ],
-  "tree_stump_10_corrupted": [
-    27,
-    40
-  ],
-  "tree_stump_10_night": [
-    27,
-    41
-  ],
-  "tree_stump_11": [
-    27,
-    42
-  ],
-  "tree_stump_11_corrupted": [
-    27,
-    43
-  ],
-  "tree_stump_11_night": [
-    27,
-    44
-  ],
-  "tree_stump_12": [
-    27,
-    45
-  ],
-  "tree_stump_12_corrupted": [
-    27,
-    46
-  ],
-  "tree_stump_12_night": [
-    27,
-    47
-  ],
-  "tree_stump_13": [
-    27,
-    48
-  ],
-  "tree_stump_13_corrupted": [
-    27,
-    49
-  ],
-  "tree_stump_13_night": [
-    27,
-    50
-  ],
-  "tree_stump_14": [
-    27,
-    51
-  ],
-  "tree_stump_14_corrupted": [
-    27,
-    52
-  ],
-  "tree_stump_14_night": [
-    27,
-    53
-  ],
-  "tree_stump_15": [
-    27,
-    54
-  ],
-  "tree_stump_15_corrupted": [
-    27,
-    55
-  ],
-  "tree_stump_15_night": [
-    27,
-    56
-  ],
-  "tree_stump_16": [
-    27,
-    57
-  ],
-  "tree_stump_16_corrupted": [
-    27,
-    58
-  ],
-  "tree_stump_16_night": [
-    27,
-    59
-  ],
-  "tree_stump_17": [
-    27,
-    60
-  ],
-  "tree_stump_17_corrupted": [
-    27,
-    61
-  ],
-  "tree_stump_17_night": [
-    27,
-    62
-  ],
-  "tree_stump_18": [
-    27,
-    63
-  ],
-  "tree_stump_18_corrupted": [
+  "building_fence_001": [
     28,
     0
   ],
-  "tree_stump_18_night": [
+  "building_fence_002": [
     28,
     1
   ],
-  "tree_stump_19": [
+  "building_fence_003": [
     28,
     2
   ],
-  "tree_stump_19_corrupted": [
+  "building_fence_004": [
     28,
     3
   ],
-  "tree_stump_19_night": [
+  "building_fence_005": [
     28,
     4
   ],
-  "tree_stump_1_corrupted": [
+  "building_fence_006": [
     28,
     5
   ],
-  "tree_stump_1_night": [
+  "building_fence_007": [
     28,
     6
   ],
-  "tree_stump_2": [
+  "building_fence_008": [
     28,
     7
   ],
-  "tree_stump_2_corrupted": [
+  "building_fence_009": [
     28,
     8
   ],
-  "tree_stump_2_night": [
+  "building_fence_010": [
     28,
     9
   ],
-  "tree_stump_3": [
+  "building_fence_011": [
     28,
     10
   ],
-  "tree_stump_3_corrupted": [
+  "building_fence_012": [
     28,
     11
   ],
-  "tree_stump_3_night": [
+  "building_fence_013": [
     28,
     12
   ],
-  "tree_stump_4": [
+  "building_fence_014": [
     28,
     13
   ],
-  "tree_stump_4_corrupted": [
+  "building_fence_015": [
     28,
     14
   ],
-  "tree_stump_4_night": [
+  "building_fence_016": [
     28,
     15
   ],
-  "tree_stump_5": [
+  "building_fence_017": [
     28,
     16
   ],
-  "tree_stump_5_corrupted": [
+  "building_fence_018": [
     28,
     17
   ],
-  "tree_stump_5_night": [
+  "building_fence_019": [
     28,
     18
   ],
-  "tree_stump_6": [
+  "building_fence_020": [
     28,
     19
   ],
-  "tree_stump_6_corrupted": [
+  "building_fence_021": [
     28,
     20
   ],
-  "tree_stump_6_night": [
+  "building_fence_022": [
     28,
     21
   ],
-  "tree_stump_7": [
+  "building_fence_023": [
     28,
     22
   ],
-  "tree_stump_7_corrupted": [
+  "building_rotria_000": [
     28,
     23
   ],
-  "tree_stump_7_night": [
+  "building_rotria_001": [
     28,
     24
   ],
-  "tree_stump_8": [
+  "building_rotria_002": [
     28,
     25
   ],
-  "tree_stump_8_corrupted": [
+  "building_rotria_003": [
     28,
     26
   ],
-  "tree_stump_8_night": [
+  "building_rotria_004": [
     28,
     27
   ],
-  "tree_stump_9": [
+  "building_rotria_005": [
     28,
     28
   ],
-  "tree_stump_9_corrupted": [
+  "building_rotria_006": [
     28,
     29
   ],
-  "tree_stump_9_night": [
+  "building_rotria_007": [
     28,
     30
   ],
-  "wall_0": [
+  "building_rotria_008": [
     28,
     31
   ],
-  "wall_0_corrupted": [
-    28,
-    32
-  ],
-  "wall_0_night": [
-    28,
-    33
-  ],
-  "wall_1": [
-    28,
-    34
-  ],
-  "wall_10": [
-    28,
-    35
-  ],
-  "wall_10_corrupted": [
-    28,
-    36
-  ],
-  "wall_10_night": [
-    28,
-    37
-  ],
-  "wall_11": [
-    28,
-    38
-  ],
-  "wall_11_corrupted": [
-    28,
-    39
-  ],
-  "wall_11_night": [
-    28,
-    40
-  ],
-  "wall_12": [
-    28,
-    41
-  ],
-  "wall_12_corrupted": [
-    28,
-    42
-  ],
-  "wall_12_night": [
-    28,
-    43
-  ],
-  "wall_13": [
-    28,
-    44
-  ],
-  "wall_13_corrupted": [
-    28,
-    45
-  ],
-  "wall_13_night": [
-    28,
-    46
-  ],
-  "wall_14": [
-    28,
-    47
-  ],
-  "wall_14_corrupted": [
-    28,
-    48
-  ],
-  "wall_14_night": [
-    28,
-    49
-  ],
-  "wall_1_corrupted": [
-    28,
-    50
-  ],
-  "wall_1_night": [
-    28,
-    51
-  ],
-  "wall_2": [
-    28,
-    52
-  ],
-  "wall_2_corrupted": [
-    28,
-    53
-  ],
-  "wall_2_night": [
-    28,
-    54
-  ],
-  "wall_3": [
-    28,
-    55
-  ],
-  "wall_3_corrupted": [
-    28,
-    56
-  ],
-  "wall_3_night": [
-    28,
-    57
-  ],
-  "wall_4": [
-    28,
-    58
-  ],
-  "wall_4_corrupted": [
-    28,
-    59
-  ],
-  "wall_4_night": [
-    28,
-    60
-  ],
-  "wall_5": [
-    28,
-    61
-  ],
-  "wall_5_corrupted": [
-    28,
-    62
-  ],
-  "wall_5_night": [
-    28,
-    63
-  ],
-  "wall_6": [
+  "building_rotria_009": [
     29,
     0
   ],
-  "wall_6_corrupted": [
+  "building_rotria_010": [
     29,
     1
   ],
-  "wall_6_night": [
+  "building_rotria_011": [
     29,
     2
   ],
-  "wall_7": [
+  "building_rotria_012": [
     29,
     3
   ],
-  "wall_7_corrupted": [
+  "building_rotria_013": [
     29,
     4
   ],
-  "wall_7_night": [
+  "building_rotria_014": [
     29,
     5
   ],
-  "wall_8": [
+  "building_rotria_015": [
     29,
     6
   ],
-  "wall_8_corrupted": [
+  "building_rotria_016": [
     29,
     7
   ],
-  "wall_8_night": [
+  "building_rotria_017": [
     29,
     8
   ],
-  "wall_9": [
+  "building_rotria_018": [
     29,
     9
   ],
-  "wall_9_corrupted": [
+  "building_rotria_019": [
     29,
     10
   ],
-  "wall_9_night": [
+  "building_rotria_020": [
     29,
     11
   ],
-  "warp_0": [
+  "building_rotria_021": [
     29,
     12
   ],
-  "warp_0_anim1": [
+  "building_rotria_022": [
     29,
     13
   ],
-  "warp_0_anim2": [
+  "building_rotria_023": [
     29,
     14
   ],
-  "warp_0_anim3": [
+  "building_rotria_024": [
     29,
     15
   ],
-  "warp_0_anim4": [
+  "building_rotria_025": [
     29,
     16
   ],
-  "warp_0_anim5": [
+  "building_rotria_026": [
     29,
     17
   ],
-  "warp_0_anim6": [
+  "building_rotria_027": [
     29,
     18
   ],
-  "warp_0_anim7": [
+  "building_rotria_028": [
     29,
     19
   ],
-  "warp_0_corrupted": [
+  "building_rotria_029": [
     29,
     20
   ],
-  "warp_0_night": [
+  "building_rotria_030": [
     29,
     21
   ],
-  "warp_1": [
+  "building_rotria_031": [
     29,
     22
   ],
-  "warp_1_anim1": [
+  "object_rock_000": [
     29,
     23
   ],
-  "warp_1_anim2": [
+  "object_rock_001": [
     29,
     24
   ],
-  "warp_1_anim3": [
+  "object_rock_002": [
     29,
     25
   ],
-  "warp_1_anim4": [
+  "object_rock_003": [
     29,
     26
   ],
-  "warp_1_anim5": [
+  "object_rock_004": [
     29,
     27
   ],
-  "warp_1_anim6": [
+  "object_rock_005": [
     29,
     28
   ],
-  "warp_1_anim7": [
+  "object_rock_006": [
     29,
     29
   ],
-  "warp_1_corrupted": [
+  "object_rock_007": [
     29,
     30
   ],
-  "warp_1_night": [
+  "object_rock_008": [
     29,
     31
   ],
-  "warp_2": [
-    29,
-    32
-  ],
-  "warp_2_anim1": [
-    29,
-    33
-  ],
-  "warp_2_anim2": [
-    29,
-    34
-  ],
-  "warp_2_anim3": [
-    29,
-    35
-  ],
-  "warp_2_anim4": [
-    29,
-    36
-  ],
-  "warp_2_anim5": [
-    29,
-    37
-  ],
-  "warp_2_anim6": [
-    29,
-    38
-  ],
-  "warp_2_anim7": [
-    29,
-    39
-  ],
-  "warp_2_corrupted": [
-    29,
-    40
-  ],
-  "warp_2_night": [
-    29,
-    41
-  ],
-  "warp_3": [
-    29,
-    42
-  ],
-  "warp_3_anim1": [
-    29,
-    43
-  ],
-  "warp_3_anim2": [
-    29,
-    44
-  ],
-  "warp_3_anim3": [
-    29,
-    45
-  ],
-  "warp_3_anim4": [
-    29,
-    46
-  ],
-  "warp_3_anim5": [
-    29,
-    47
-  ],
-  "warp_3_anim6": [
-    29,
-    48
-  ],
-  "warp_3_anim7": [
-    29,
-    49
-  ],
-  "warp_3_corrupted": [
-    29,
-    50
-  ],
-  "warp_3_night": [
-    29,
-    51
-  ],
-  "water_deep_0": [
-    29,
-    52
-  ],
-  "water_deep_0_anim1": [
-    29,
-    53
-  ],
-  "water_deep_0_anim2": [
-    29,
-    54
-  ],
-  "water_deep_0_anim3": [
-    29,
-    55
-  ],
-  "water_deep_0_anim4": [
-    29,
-    56
-  ],
-  "water_deep_0_anim5": [
-    29,
-    57
-  ],
-  "water_deep_0_anim6": [
-    29,
-    58
-  ],
-  "water_deep_0_anim7": [
-    29,
-    59
-  ],
-  "water_deep_0_corrupted": [
-    29,
-    60
-  ],
-  "water_deep_0_night": [
-    29,
-    61
-  ],
-  "water_deep_1": [
-    29,
-    62
-  ],
-  "water_deep_1_anim1": [
-    29,
-    63
-  ],
-  "water_deep_1_anim2": [
+  "object_rock_009": [
     30,
     0
   ],
-  "water_deep_1_anim3": [
+  "object_rock_010": [
     30,
     1
   ],
-  "water_deep_1_anim4": [
+  "object_rock_011": [
     30,
     2
   ],
-  "water_deep_1_anim5": [
+  "object_rock_012": [
     30,
     3
   ],
-  "water_deep_1_anim6": [
+  "object_rock_013": [
     30,
     4
   ],
-  "water_deep_1_anim7": [
+  "object_rock_014": [
     30,
     5
   ],
-  "water_deep_1_corrupted": [
+  "object_rock_015": [
     30,
     6
   ],
-  "water_deep_1_night": [
+  "object_rock_016": [
     30,
     7
   ],
-  "water_deep_2": [
+  "object_rock_017": [
     30,
     8
   ],
-  "water_deep_2_anim1": [
+  "object_rock_018": [
     30,
     9
   ],
-  "water_deep_2_anim2": [
+  "object_rock_019": [
     30,
     10
   ],
-  "water_deep_2_anim3": [
+  "object_rock_020": [
     30,
     11
   ],
-  "water_deep_2_anim4": [
+  "object_rock_021": [
     30,
     12
   ],
-  "water_deep_2_anim5": [
+  "object_rock_022": [
     30,
     13
   ],
-  "water_deep_2_anim6": [
+  "object_rock_023": [
     30,
     14
   ],
-  "water_deep_2_anim7": [
+  "object_rock_024": [
     30,
     15
   ],
-  "water_deep_2_corrupted": [
+  "object_rock_025": [
     30,
     16
   ],
-  "water_deep_2_night": [
+  "object_rock_026": [
     30,
     17
   ],
-  "water_deep_3": [
+  "object_rock_027": [
     30,
     18
   ],
-  "water_deep_3_anim1": [
+  "object_rock_028": [
     30,
     19
   ],
-  "water_deep_3_anim2": [
+  "object_rock_029": [
     30,
     20
   ],
-  "water_deep_3_anim3": [
+  "object_cliff_000": [
     30,
     21
   ],
-  "water_deep_3_anim4": [
+  "object_cliff_001": [
     30,
     22
   ],
-  "water_deep_3_anim5": [
+  "object_cliff_002": [
     30,
     23
   ],
-  "water_deep_3_anim6": [
+  "object_cliff_003": [
     30,
     24
   ],
-  "water_deep_3_anim7": [
+  "object_cliff_004": [
     30,
     25
   ],
-  "water_deep_3_corrupted": [
+  "object_cliff_005": [
     30,
     26
   ],
-  "water_deep_3_night": [
+  "object_cliff_006": [
     30,
     27
   ],
-  "water_still_0": [
+  "object_cliff_007": [
     30,
     28
   ],
-  "water_still_0_anim1": [
+  "object_cliff_008": [
     30,
     29
   ],
-  "water_still_0_anim2": [
+  "object_cliff_009": [
     30,
     30
   ],
-  "water_still_0_anim3": [
+  "object_cliff_010": [
     30,
     31
   ],
-  "water_still_0_anim4": [
-    30,
-    32
-  ],
-  "water_still_0_anim5": [
-    30,
-    33
-  ],
-  "water_still_0_anim6": [
-    30,
-    34
-  ],
-  "water_still_0_anim7": [
-    30,
-    35
-  ],
-  "water_still_0_corrupted": [
-    30,
-    36
-  ],
-  "water_still_0_night": [
-    30,
-    37
-  ],
-  "water_still_1": [
-    30,
-    38
-  ],
-  "water_still_1_anim1": [
-    30,
-    39
-  ],
-  "water_still_1_anim2": [
-    30,
-    40
-  ],
-  "water_still_1_anim3": [
-    30,
-    41
-  ],
-  "water_still_1_anim4": [
-    30,
-    42
-  ],
-  "water_still_1_anim5": [
-    30,
-    43
-  ],
-  "water_still_1_anim6": [
-    30,
-    44
-  ],
-  "water_still_1_anim7": [
-    30,
-    45
-  ],
-  "water_still_1_corrupted": [
-    30,
-    46
-  ],
-  "water_still_1_night": [
-    30,
-    47
-  ],
-  "water_still_2": [
-    30,
-    48
-  ],
-  "water_still_2_anim1": [
-    30,
-    49
-  ],
-  "water_still_2_anim2": [
-    30,
-    50
-  ],
-  "water_still_2_anim3": [
-    30,
-    51
-  ],
-  "water_still_2_anim4": [
-    30,
-    52
-  ],
-  "water_still_2_anim5": [
-    30,
-    53
-  ],
-  "water_still_2_anim6": [
-    30,
-    54
-  ],
-  "water_still_2_anim7": [
-    30,
-    55
-  ],
-  "water_still_2_corrupted": [
-    30,
-    56
-  ],
-  "water_still_2_night": [
-    30,
-    57
-  ],
-  "water_still_3": [
-    30,
-    58
-  ],
-  "water_still_3_anim1": [
-    30,
-    59
-  ],
-  "water_still_3_anim2": [
-    30,
-    60
-  ],
-  "water_still_3_anim3": [
-    30,
-    61
-  ],
-  "water_still_3_anim4": [
-    30,
-    62
-  ],
-  "water_still_3_anim5": [
-    30,
-    63
-  ],
-  "water_still_3_anim6": [
+  "object_cliff_011": [
     31,
     0
   ],
-  "water_still_3_anim7": [
+  "object_cliff_012": [
     31,
     1
   ],
-  "water_still_3_corrupted": [
+  "object_cliff_013": [
     31,
     2
   ],
-  "water_still_3_night": [
+  "object_cliff_014": [
     31,
     3
   ],
-  "water_wave_0": [
+  "object_cliff_015": [
     31,
     4
   ],
-  "water_wave_0_anim1": [
+  "object_cliff_016": [
     31,
     5
   ],
-  "water_wave_0_anim2": [
+  "object_cliff_017": [
     31,
     6
   ],
-  "water_wave_0_anim3": [
+  "object_cliff_018": [
     31,
     7
   ],
-  "water_wave_0_anim4": [
+  "object_cliff_019": [
     31,
     8
   ],
-  "water_wave_0_anim5": [
+  "object_cliff_020": [
     31,
     9
   ],
-  "water_wave_0_anim6": [
+  "object_cliff_021": [
     31,
     10
   ],
-  "water_wave_0_anim7": [
+  "object_cliff_022": [
     31,
     11
   ],
-  "water_wave_0_corrupted": [
+  "object_cliff_023": [
     31,
     12
   ],
-  "water_wave_0_night": [
+  "object_cliff_024": [
     31,
     13
   ],
-  "water_wave_1": [
+  "object_cliff_025": [
     31,
     14
   ],
-  "water_wave_1_anim1": [
+  "object_cliff_026": [
     31,
     15
   ],
-  "water_wave_1_anim2": [
+  "object_cliff_027": [
     31,
     16
   ],
-  "water_wave_1_anim3": [
+  "object_cliff_028": [
     31,
     17
   ],
-  "water_wave_1_anim4": [
+  "object_cliff_029": [
     31,
     18
   ],
-  "water_wave_1_anim5": [
+  "object_cliff_030": [
     31,
     19
   ],
-  "water_wave_1_anim6": [
+  "object_cliff_031": [
     31,
     20
   ],
-  "water_wave_1_anim7": [
+  "object_cliff_032": [
     31,
     21
   ],
-  "water_wave_1_corrupted": [
+  "object_cliff_033": [
     31,
     22
   ],
-  "water_wave_1_night": [
+  "object_cliff_034": [
     31,
     23
   ],
-  "water_wave_2": [
+  "object_cliff_035": [
     31,
     24
   ],
-  "water_wave_2_anim1": [
+  "object_bridge_000": [
     31,
     25
   ],
-  "water_wave_2_anim2": [
+  "object_bridge_001": [
     31,
     26
   ],
-  "water_wave_2_anim3": [
+  "object_bridge_002": [
     31,
     27
   ],
-  "water_wave_2_anim4": [
+  "object_bridge_003": [
     31,
     28
   ],
-  "water_wave_2_anim5": [
+  "object_bridge_004": [
     31,
     29
   ],
-  "water_wave_2_anim6": [
+  "object_bridge_005": [
     31,
     30
   ],
-  "water_wave_2_anim7": [
+  "object_bridge_006": [
     31,
     31
-  ],
-  "water_wave_2_corrupted": [
-    31,
-    32
-  ],
-  "water_wave_2_night": [
-    31,
-    33
-  ],
-  "water_wave_3": [
-    31,
-    34
-  ],
-  "water_wave_3_anim1": [
-    31,
-    35
-  ],
-  "water_wave_3_anim2": [
-    31,
-    36
-  ],
-  "water_wave_3_anim3": [
-    31,
-    37
-  ],
-  "water_wave_3_anim4": [
-    31,
-    38
-  ],
-  "water_wave_3_anim5": [
-    31,
-    39
-  ],
-  "water_wave_3_anim6": [
-    31,
-    40
-  ],
-  "water_wave_3_anim7": [
-    31,
-    41
-  ],
-  "water_wave_3_corrupted": [
-    31,
-    42
-  ],
-  "water_wave_3_night": [
-    31,
-    43
-  ],
-  "window_0": [
-    31,
-    44
-  ],
-  "window_0_corrupted": [
-    31,
-    45
-  ],
-  "window_0_night": [
-    31,
-    46
-  ],
-  "window_1": [
-    31,
-    47
-  ],
-  "window_1_corrupted": [
-    31,
-    48
-  ],
-  "window_1_night": [
-    31,
-    49
-  ],
-  "window_2": [
-    31,
-    50
-  ],
-  "window_2_corrupted": [
-    31,
-    51
-  ],
-  "window_2_night": [
-    31,
-    52
-  ],
-  "window_3": [
-    31,
-    53
-  ],
-  "window_3_corrupted": [
-    31,
-    54
-  ],
-  "window_3_night": [
-    31,
-    55
-  ],
-  "window_4": [
-    31,
-    56
-  ],
-  "window_4_corrupted": [
-    31,
-    57
-  ],
-  "window_4_night": [
-    31,
-    58
-  ],
-  "window_5": [
-    31,
-    59
-  ],
-  "window_5_corrupted": [
-    31,
-    60
-  ],
-  "window_5_night": [
-    31,
-    61
-  ],
-  "window_6": [
-    31,
-    62
-  ],
-  "window_6_corrupted": [
-    31,
-    63
-  ],
-  "window_6_night": [
-    32,
-    0
-  ],
-  "window_7": [
-    32,
-    1
-  ],
-  "window_7_corrupted": [
-    32,
-    2
-  ],
-  "window_7_night": [
-    32,
-    3
-  ],
-  "window_8": [
-    32,
-    4
-  ],
-  "window_8_corrupted": [
-    32,
-    5
-  ],
-  "window_8_night": [
-    32,
-    6
-  ],
-  "window_9": [
-    32,
-    7
-  ],
-  "window_9_corrupted": [
-    32,
-    8
-  ],
-  "window_9_night": [
-    32,
-    9
   ]
 }

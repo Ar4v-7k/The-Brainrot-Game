@@ -1,0 +1,17 @@
+{
+  "runtime_tileset": "assets/sprites/overworld/tileset.png",
+  "runtime_index": "assets/sprites/overworld/tileset_index.json",
+  "tile_count": 1024,
+  "grid": {
+    "columns": 32,
+    "rows": 32,
+    "tile_size": 16
+  },
+  "primary_source": "assets/source_sheets/hf_tileset_v1/imagegen_tileset_source.png",
+  "source_mode": "imagegen source sheet normalized into exact runtime grid",
+  "hugging_face": {
+    "jobs_attempted": true,
+    "jobs_result": "blocked: 402 Payment Required / insufficient HF Jobs credits",
+    "fallback": "local pygame importer used the project imagegen source sheet and preserved exact file outputs"
+  }
+}

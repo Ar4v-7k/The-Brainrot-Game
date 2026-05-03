@@ -19,6 +19,7 @@ import pygame
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "assets" / "sprites" / "overworld"
 AI_TILE_SOURCES = (
+    ROOT / "assets" / "source_sheets" / "hf_tileset_v1" / "imagegen_tileset_source.png",
     ROOT / "assets" / "source_sheets" / "adventure_retro_v1" / "tile_building_sheet_retro_v1.png",
     ROOT / "assets" / "sprites" / "overworld" / "tile_building_sheet_retro_v1.png",
 )
@@ -278,13 +279,23 @@ def build_sprites() -> None:
 
 
 def _pygame_tile_names() -> list[str]:
-    names = [name for row in CORE_LAYOUT for name in row]
+    slots: list[str | None] = [None] * (COLS * ROWS)
+    for row, core_row in enumerate(CORE_LAYOUT):
+        for col, name in enumerate(core_row):
+            slots[row * COLS + col] = name
+    names: list[str] = []
     for prefix, count in TILE_CATEGORIES:
         for idx in range(count):
             names.append(f"{prefix}_{idx:03d}")
-    while len(names) < COLS * ROWS:
-        names.append(f"bonus_rotria_detail_{len(names):04d}")
-    return names[: COLS * ROWS]
+    bonus = 0
+    for idx, current in enumerate(slots):
+        if current is None:
+            if names:
+                slots[idx] = names.pop(0)
+            else:
+                slots[idx] = f"bonus_rotria_detail_{bonus:04d}"
+                bonus += 1
+    return [name or "bonus_rotria_detail_9999" for name in slots]
 
 
 def _pg_rect(surface: pygame.Surface, xy: tuple[int, int, int, int], color: tuple[int, int, int]) -> None:
@@ -405,9 +416,20 @@ def _looks_empty_or_flat(tile: pygame.Surface) -> bool:
             colors.add((r, g, b))
             if len(colors) > 8:
                 return False
-    if non_transparent < (w * h) // 6:
+    if non_transparent < max(8, (w * h) // 24):
         return True
     return len(colors) <= 2
+
+
+def _remove_magenta_key(tile: pygame.Surface) -> pygame.Surface:
+    out = tile.copy()
+    w, h = out.get_size()
+    for y in range(h):
+        for x in range(w):
+            r, g, b, a = out.get_at((x, y))
+            if a and r > 210 and g < 90 and b > 210:
+                out.set_at((x, y), (0, 0, 0, 0))
+    return out
 
 
 def _load_ai_tiles() -> list[pygame.Surface]:
@@ -427,6 +449,7 @@ def _load_ai_tiles() -> list[pygame.Surface]:
             for col in range(cols):
                 sub = src.subsurface(pygame.Rect(col * cell, row * cell, cell, cell)).copy()
                 tile = pygame.transform.scale(sub, (TILE, TILE))
+                tile = _remove_magenta_key(tile)
                 if _looks_empty_or_flat(tile):
                     continue
                 cells.append(tile)
@@ -492,7 +515,9 @@ def main_pygame() -> None:
     ai_tiles = _load_ai_tiles()
     for i, name in enumerate(_pygame_tile_names()):
         row, col = divmod(i, COLS)
-        tile = ai_tiles[i] if i < len(ai_tiles) else _pg_make_tile(name, i)
+        tile = _pg_make_tile(name, i)
+        if i < len(ai_tiles):
+            tile.blit(ai_tiles[i], (0, 0))
         sheet.blit(tile, (col * TILE, row * TILE))
         index[name] = [row, col]
     pygame.image.save(sheet, str(OUT / "tileset.png"))
