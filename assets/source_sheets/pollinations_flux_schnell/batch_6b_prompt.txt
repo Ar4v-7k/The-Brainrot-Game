@@ -1,0 +1,6 @@
+Pixel art RPG character sprite sheet. Style: Stardew Valley quality — warm, charming, richly detailed, hand-crafted pixel art. Soft cel-shaded lighting, warm color palette, cozy countryside RPG feel. Deep greens, earthy browns, warm golden paths, bright flowers. NOT dark. NOT gritty. NOT Minecraft flat blocks. NOT corrupted or sci-fi. Pure black background #000000.
+Make 4 NPC character sprite sheets on one image. Each character: 48x48 pixels per frame, 3 frames wide, 4 rows tall (down up left right). Arrange 4 characters side by side. Total image: 576x192 pixels. Pure black background.
+Character 1: Generic friendly townsperson, simple clothes, warm smile readable at small size
+Character 2: Trainer NPC, more confident stance, adventure outfit, slightly different build
+Character 3: Team Scroll Grunt, dark outfit with scroll symbol on chest, slightly menacing but also goofy
+Character 4: Old wise person, elderly, simple robes, calm energy

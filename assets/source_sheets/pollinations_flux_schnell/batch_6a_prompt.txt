@@ -1,0 +1,7 @@
+Pixel art RPG character sprite sheet. Style: Stardew Valley quality — warm, charming, richly detailed, hand-crafted pixel art. Soft cel-shaded lighting, warm color palette, cozy countryside RPG feel. Deep greens, earthy browns, warm golden paths, bright flowers. NOT dark. NOT gritty. NOT Minecraft flat blocks. NOT corrupted or sci-fi. Pure black background #000000.
+Make a player character walking sprite sheet. Pure black background. Each frame is exactly 48x48 pixels. Arrange in a grid: 3 frames wide (idle, step1, step2), 4 rows tall (facing down, up, left, right). Total image: 144x192 pixels.
+Character: teen protagonist, neutral casual outfit, hoodie and jeans, short hair. Warm friendly look. Readable at small size. Clear directional difference between all 4 facing directions. Walking animation frames show clear leg movement.
+Row 1: facing DOWN — stand, step left foot forward, step right foot forward
+Row 2: facing UP — stand, step left, step right (back of character visible)
+Row 3: facing LEFT — stand, step, recover
+Row 4: facing RIGHT — stand, step, recover

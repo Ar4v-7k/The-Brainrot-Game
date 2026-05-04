@@ -1,0 +1,3 @@
+Pixel art RPG battle background. Style: Stardew Valley quality, warm painterly pixel art, lush and detailed. Each background is 480x320 pixels. Make 2 backgrounds side by side on one image, total 960x320 pixels. Pure black background.
+Background 1 — Route field battle: Open grassy field with distant rolling hills, warm blue sky, scattered wildflowers, daytime countryside, player fights wild encounters here
+Background 2 — Forest battle: Dense canopy above with dappled light through leaves, mossy ground with tree roots, deep rich greens, organic and alive, used in Drumwood Forest

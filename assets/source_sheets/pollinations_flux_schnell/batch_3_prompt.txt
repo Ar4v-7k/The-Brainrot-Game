@@ -1,0 +1,86 @@
+*Expected output: 1024x1024px image (8 tiles x 8 rows)*
+
+Pixel art RPG tileset image. Style: Stardew Valley quality — warm, charming, richly detailed, hand-crafted pixel art. Soft cel-shaded lighting, warm color palette, cozy countryside RPG feel. Deep greens, earthy browns, warm golden paths, bright flowers. NOT dark. NOT gritty. NOT Minecraft flat blocks. NOT corrupted or sci-fi. Pure black background #000000.
+Layout: arrange tiles in a GRID, 8 tiles per row. Each tile is 128x128 pixels. Total image size depends on tile count. No gaps between tiles. No borders. No labels. No text. Just tiles touching edge to edge on black background.
+
+Make exactly these 64 tiles, 8 per row, left to right:
+
+**ROW 1 — Wood walls (8 tiles):**
+1. Wooden plank wall center, horizontal grain lines, warm honey brown
+2. Wood wall top edge with slight darker shadow at top
+3. Wood wall left edge, slightly darker on left side
+4. Wood wall right edge
+5. Wood wall top-left corner piece
+6. Wood wall top-right corner piece
+7. Wood wall with window opening, no glass just a hole
+8. Wood wall with warm yellow lit window, cozy glow from inside
+
+**ROW 2 — Stone walls (8 tiles):**
+9. Stone brick wall center, visible mortar lines, cool grey
+10. Stone wall top edge with darker top line
+11. Stone wall left edge
+12. Stone wall right edge
+13. Stone wall top-left corner
+14. Stone wall top-right corner
+15. Stone wall with window, warm light glowing from inside
+16. Dark stone wall almost black, cave or dungeon style
+
+**ROW 3 — Roofs (8 tiles):**
+17. Red tiled roof viewed from above, overlapping curved tiles, warm red-orange
+18. Red roof left edge slanting down
+19. Red roof right edge slanting down
+20. Red roof peak center ridge, top of the roof
+21. Blue slate roof center, deep slate blue tiles
+22. Blue roof left edge
+23. Blue roof right edge
+24. Blue roof peak
+
+**ROW 4 — More roofs and doors (8 tiles):**
+25. Green mossy roof, green tiles or tiles with moss growing
+26. Brown thatched roof, rough straw texture
+27. Grey roof, plain grey slate
+28. Orange terracotta roof, warm clay orange
+29. Wooden door closed, panelled warm brown with small round knob
+30. Wooden door open, same frame but open, dark interior visible inside
+31. Wooden door with padlock, clearly locked
+32. Fancy ornate wooden door with carved details
+
+**ROW 5 — Gates, arches, windows (8 tiles):**
+33. Stone archway entrance, rounded arch, grey stone
+34. Stone archway with vines growing over it
+35. Iron dungeon gate closed, vertical bars visible
+36. Iron dungeon gate open
+37. Window lit with warm yellow glow, small panes visible
+38. Window dark and unlit, grey glass pane
+39. Window broken with cracked glass
+40. Window with flower box outside, flowers in box below window
+
+**ROW 6 — Fences (8 tiles):**
+41. Wooden picket fence horizontal, white painted, classic
+42. Wooden fence vertical
+43. Wooden fence corner piece
+44. Wooden fence gate, open
+45. Stone low wall horizontal, rough stone
+46. Iron bar fence vertical bars, sharp tips
+47. Iron gate
+48. Hedge fence, living green leaves
+
+**ROW 7 — Town objects (8 tiles):**
+49. Wooden sign post in grass, blank board face, weathered
+50. Large town name sign, decorative frame
+51. Lamp post with warm glowing lantern at top
+52. Well, stone circle with wooden roof structure over it
+53. Town fountain, stone basin with water spout in center
+54. Mailbox, small red or wooden box on post
+55. Notice board with papers pinned to it
+56. Market stall awning red and white striped, canopy only viewed from above
+
+**ROW 8 — Shop and service objects (8 tiles):**
+57. Shop counter top viewed from front, warm wood
+58. Heal counter, same style but with a glowing green cross symbol
+59. Storage PC machine, blue screen glow, boxy
+60. Bookshelf packed with colorful books, wall-mounted
+61. Shop shelf with items displayed, wooden shelves
+62. Barrel, wooden barrel with metal rings
+63. Crate, wooden crate with rope tied around
+64. Market stall food cart, wooden cart with awning

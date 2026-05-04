@@ -1,0 +1,86 @@
+*Expected output: 1024x1024px image (8 tiles x 8 rows)*
+
+Pixel art RPG tileset image. Style: Stardew Valley quality — warm, charming, richly detailed, hand-crafted pixel art. Soft cel-shaded lighting, warm color palette, cozy countryside RPG feel. Deep greens, earthy browns, warm golden paths, bright flowers. NOT dark. NOT gritty. NOT Minecraft flat blocks. NOT corrupted or sci-fi. Pure black background #000000.
+Layout: arrange tiles in a GRID, 8 tiles per row. Each tile is 128x128 pixels. Total image size depends on tile count. No gaps between tiles. No borders. No labels. No text. Just tiles touching edge to edge on black background.
+
+Make exactly these 64 tiles, 8 per row, left to right:
+
+**ROW 1 — Basic grass (8 tiles):**
+1. Fresh bright green grass with soft blade texture and warm highlights
+2. Medium green grass slightly darker, denser blades, small shadow at base
+3. Dark rich green grass, thick and lush, moist-looking
+4. Patchy grass with warm bare dirt showing through gaps
+5. Tall wild grass with visible taller blades poking up, bright green
+6. Worn grass path, blades rubbed away showing warm dirt underneath
+7. Dead yellowed grass with brown brittle tips, dry
+8. Grass with tiny white daisy cluster sitting in center
+
+**ROW 2 — Flower grass (8 tiles):**
+9. Grass with small red flowers scattered across it
+10. Grass with yellow sunflower-like blooms
+11. Grass with pink blossom flowers
+12. Grass with purple wildflowers
+13. Grass with blue bell flowers
+14. Grass with orange flowers
+15. Grass with mixed colorful flower cluster
+16. Grass with espresso-brown flowers unique to Rotria, warm dark petals
+
+**ROW 3 — Dirt and earth (8 tiles):**
+17. Packed warm brown dirt, smooth worn texture
+18. Muddy dark wet dirt with slight shine and footprint impressions
+19. Dry cracked earth with deep fissure lines across surface
+20. Rocky dirt with small pebbles scattered
+21. Freshly turned dark soil like a garden
+22. Hard baked pale clay, very dry and pale tan
+23. Dirt path center tile, wheel ruts worn in, warm earthy brown
+24. Dirt with a single boot print pressed into it
+
+**ROW 4 — Cobblestone paths (8 tiles):**
+25. Grey cobblestone with rounded stones and dark grout lines between them
+26. Worn cobblestone, same stones but more faded and uneven
+27. Mossy cobblestone with green moss growing in the grout gaps
+28. Cracked cobblestone with a visible split across several stones
+29. Smooth cut stone slabs in regular rectangular pattern, cool grey
+30. Ancient overgrown stone path with small weeds growing in cracks
+31. Pale limestone path, bright and clean, slightly yellow-white
+32. Dark basalt stone path, almost black, smooth
+
+**ROW 5 — Sand (8 tiles):**
+33. Warm golden dry sand with ripple lines across surface
+34. Dark wet sand near water with subtle shine
+35. Pale white sand very fine and light
+36. Coarse brown sand with tiny pebble texture
+37. Sand with small shells visible on surface
+38. Sand with footprint impressions pressed in
+39. Wind-rippled sand with wave pattern
+40. Desert red-orange sand warm and hot looking
+
+**ROW 6 — Snow and ice (8 tiles):**
+41. Fresh clean white snow with faint blue shadow in dips
+42. Packed compressed grey-white snow with icy sheen
+43. Snow with boot tracks crossing diagonally
+44. Snow melting at edges showing green grass beneath
+45. Smooth pale blue ice mirror-like with soft reflection lines
+46. Cracked ice with dark fissure lines spreading
+47. Thin ice with darker water visible beneath
+48. Frost pattern like lace crystals on a pale surface
+
+**ROW 7 — Cave and underground (8 tiles):**
+49. Dark rough cave stone floor, very dark grey-brown
+50. Wet cave floor with moisture sheen and puddle
+51. Gravel cave floor with small loose stones
+52. Ancient tile cave floor like old civilisation, faded mosaic
+53. Solid cave rock wall, jagged craggy texture, darkest tile
+54. Cave wall with water seeping through and moss
+55. Cave wall with embedded glowing blue crystal
+56. Cave floor with small crack down the center
+
+**ROW 8 — Ruin and ancient (8 tiles):**
+57. Cracked ancient stone mosaic floor with faded painted colors
+58. Worn overgrown ruin stone floor with small plants growing in gaps
+59. Ancient ruin tile with carved symbol faintly visible
+60. Ruin floor with short grass growing through cracks
+61. Ancient marble floor cracked but still elegant, cream colored
+62. Ruin floor with fallen stone block sitting on it
+63. Desert ruin floor covered in fine sand, part buried
+64. Final dungeon floor dark and ominous, ancient stone with faint glow

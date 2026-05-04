@@ -1,0 +1,86 @@
+*Expected output: 1024x1024px image (8 tiles x 8 rows)*
+
+Pixel art RPG tileset image. Style: Stardew Valley quality — warm, charming, richly detailed, hand-crafted pixel art. Soft cel-shaded lighting, warm color palette, cozy countryside RPG feel. Deep greens, earthy browns, warm golden paths, bright flowers. NOT dark. NOT gritty. NOT Minecraft flat blocks. NOT corrupted or sci-fi. Pure black background #000000.
+Layout: arrange tiles in a GRID, 8 tiles per row. Each tile is 128x128 pixels. Total image size depends on tile count. No gaps between tiles. No borders. No labels. No text. Just tiles touching edge to edge on black background.
+
+Make exactly these 64 tiles, 8 per row, left to right:
+
+**ROW 1 — Water surfaces (8 tiles):**
+1. Still calm dark navy blue water with soft light streak highlights
+2. Water wave animation frame 1, gentle wave pattern
+3. Water wave frame 2, pattern shifted for animation
+4. Water wave frame 3, pattern shifted further
+5. Deep dark water, very dark navy almost black-blue
+6. Shallow light blue water with sandy bottom texture beneath
+7. Shore foam, white bubbly foam where water meets sand
+8. Waterfall top where water begins to fall, rushing white foam
+
+**ROW 2 — Water edges (8 tiles):**
+9. Water meeting grass shore — north edge transition
+10. Water meeting grass — south edge transition
+11. Water meeting grass — west edge transition
+12. Water meeting grass — east edge transition
+13. Water shore corner northwest, grass top-left water bottom-right
+14. Water shore corner northeast, grass top-right water bottom-left
+15. Water shore corner southwest
+16. Water shore corner southeast
+
+**ROW 3 — Oak tree parts (8 tiles = 2 full trees):**
+17. OAK TREE top-left: round leafy bright green canopy, highlight top-left
+18. OAK TREE top-right: canopy continues right, slight shadow
+19. OAK TREE bottom-left: lower canopy merging into thick brown trunk
+20. OAK TREE bottom-right: trunk base with roots, shadow, grass at feet
+21. PINE TREE top-left: dark triangular pine top, layered dark green, pointed
+22. PINE TREE top-right: pointed pine continues right
+23. PINE TREE bottom-left: wider lower branches, trunk appearing
+24. PINE TREE bottom-right: trunk base, ground shadow
+
+**ROW 4 — More tree parts (8 tiles = 2 full trees):**
+25. PALM TREE top-left: large tropical fronds spreading, bright green
+26. PALM TREE top-right: fronds drooping at tips
+27. PALM TREE bottom-left: tall thin brown trunk left side
+28. PALM TREE bottom-right: trunk base, slight lean, shadow
+29. DEAD TREE top-left: bare grey-brown branches, no leaves, spindly
+30. DEAD TREE top-right: bare branches continue, eerie
+31. DEAD TREE bottom-left: lower dead branches, cracked bark trunk
+32. DEAD TREE bottom-right: trunk base cracked bark, dark ground
+
+**ROW 5 — More tree parts (8 tiles = 2 full trees):**
+33. AUTUMN TREE top-left: round canopy in orange and red autumn colors
+34. AUTUMN TREE top-right: orange red yellow autumn leaves mix
+35. AUTUMN TREE bottom-left: lower canopy with falling leaf, orange trunk
+36. AUTUMN TREE bottom-right: trunk base with fallen leaves on ground
+37. SNOWY TREE top-left: round canopy but thick white snow on top
+38. SNOWY TREE top-right: snow-laden canopy continues, branches drooping
+39. SNOWY TREE bottom-left: snow-covered lower branches, warm brown trunk
+40. SNOWY TREE bottom-right: trunk base in snow with footprints around
+
+**ROW 6 — Bushes and shrubs (8 tiles):**
+41. Small round leafy green bush, darker shadow underneath, sitting in grass
+42. Large round dense bush, takes up most of tile, rich green
+43. Berry bush with small red berries visible on it
+44. Berry bush with orange berries
+45. Snowy bush covered in white snow, original green peeking through
+46. Thorny dry brown bush, dead looking
+47. Tropical colorful bush with bright flowers on it
+48. Small succulent round plant, desert style
+
+**ROW 7 — Flowers and small plants (8 tiles):**
+49. Red flower in grass, single bright bloom on stem
+50. Yellow sunflower-like bloom, face-forward, happy
+51. White daisy cluster, several small flowers grouped
+52. Purple flower, delicate petals
+53. Blue wildflower, small and wild-looking
+54. Pink blossom, soft and pretty
+55. Cactus small, desert plant, rounded with arms
+56. Tomato vine with small red tomatoes hanging from it
+
+**ROW 8 — Stumps, logs, rocks (8 tiles):**
+57. Tree stump with visible rings on top, mossy sides
+58. Hollow stump with dark inside opening
+59. Fallen log lying on grass, mossy on top
+60. Pile of small sticks and branches
+61. Small rounded grey rock in grass
+62. Medium mossy rock, darker green on top
+63. Large boulder, fills most of tile, slightly mossy
+64. Rock pile, several rocks stacked together

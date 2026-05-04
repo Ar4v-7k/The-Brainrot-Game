@@ -1,0 +1,89 @@
+*Expected output: 1024x1024px image (8 tiles x 8 rows)*
+
+Pixel art RPG tileset image. Style: Stardew Valley quality — warm, charming, richly detailed, hand-crafted pixel art. Soft cel-shaded lighting, warm color palette, cozy countryside RPG feel. Deep greens, earthy browns, warm golden paths, bright flowers. NOT dark. NOT gritty. NOT Minecraft flat blocks. NOT corrupted or sci-fi. Pure black background #000000.
+Layout: arrange tiles in a GRID, 8 tiles per row. Each tile is 128x128 pixels. Total image size depends on tile count. No gaps between tiles. No borders. No labels. No text. Just tiles touching edge to edge on black background.
+
+Make exactly these 64 tiles, 8 per row, left to right:
+
+**ROW 1 — Indoor floors (8 tiles):**
+1. Wood plank indoor floor, warm honey tones, plank lines horizontal
+2. Stone tile indoor floor, grey, visible grout lines in grid
+3. Deep red carpet floor, luxurious, soft texture
+4. Royal blue carpet floor
+5. Forest green carpet floor
+6. Fancy black and white checkerboard tile floor
+7. Clean white lab tile floor, clinical
+8. Rustic tavern floor, rough worn wood planks
+
+**ROW 2 — More floors and walls (8 tiles):**
+9. Fancy cream marble floor with light grey veining
+10. Dark obsidian floor, very dark reflective
+11. Ancient ruin indoor floor, cracked mosaic
+12. Signal facility floor, dark metallic with faint grid lines
+13. Plain cream interior wall, subtle texture
+14. Wallpapered interior wall, small floral pattern, warm tones
+15. Interior stone wall, grey rough stone
+16. Dark wood paneling wall, rich walnut brown
+
+**ROW 3 — Furniture top views (8 tiles):**
+17. Single bed top view, warm blanket visible, pillow
+18. Double bed top view, wider, colorful blanket
+19. Wooden table top view, round table
+20. Chair top view, simple wooden chair
+21. Dresser top view, wooden dresser with handles
+22. Chest of drawers, wider dresser
+23. Fireplace top view with small flame visible
+24. Cooking stove top view, burners visible
+
+**ROW 4 — More furniture (8 tiles):**
+25. Kitchen counter top view, L-shape or straight
+26. Rug decorative top view, ornate pattern, warm red and gold
+27. Small potted plant indoors, round pot with leafy plant
+28. Bookshelf top view, books visible from above
+29. Laboratory equipment, complex machine top view, blue screen glow
+30. PC storage machine top view, boxy with blue screen
+31. Heal machine top view, glowing green cross on top
+32. Wardrobe top view, closed doors
+
+**ROW 5 — Cave and dungeon features (8 tiles):**
+33. Stalactite hanging from ceiling, pointed downward
+34. Large stalactite, wider at base
+35. Stalagmite from floor, pointed upward
+36. Large stalagmite
+37. Cave column where stalactite and stalagmite meet
+38. Glowing cave pool, dark water with blue bioluminescent glow
+39. Cave mushroom cluster, pale glowing bioluminescent
+40. Cave shrine altar, ancient stone slab
+
+**ROW 6 — Signal corrupted tiles (8 tiles):**
+41. Corrupted grass, dark sickly grass with purple-green organic glow from soil, NOT sci-fi, NOT neon circuits, looks like diseased nature
+42. Corrupted cracked earth, dark earth with purple-green light from fissures
+43. Corrupted water, murky dark water with purple-green shimmer
+44. Corrupted dead tree stump with purple glow inside hollow
+45. Corrupted cave mushroom, twisted dark mushroom with purple-green bioluminescent glow
+46. Signal wound in earth, deep glowing crack in ground
+47. Corrupted ancient floor tile with organic glow
+48. Corrupted stone formation, twisted rock with glow seeping through
+
+**ROW 7 — Path junctions and transitions (8 tiles):**
+49. Dirt path T-junction, path going left right and down, grass fills top
+50. Dirt path T-junction, path going left right and up
+51. Dirt path T-junction, path going up down and right
+52. Dirt path crossroads, all four directions
+53. Dirt path corner turning from going right to going down
+54. Dirt path corner turning from going right to going up
+55. Cobblestone path T-junction all four minus top
+56. Cobblestone path crossroads all four directions
+
+**ROW 8 — Night variants (8 tiles):**
+57. Grass light tile but with night tinting, dark blue overlay, stars barely visible
+58. Dirt path with night tinting, darker and bluer
+59. Water at night, darker navy, moonlight reflection streak
+60. Town at night grass tile, slightly darker with warm lamp glow at edge
+61. Cave floor at night, even darker
+62. Forest floor at night, very dark green
+63. Snow at night, blue-white with moonlight
+64. Corrupted ground at night, glow even more visible against dark
+
+## BATCH 6 — Characters, UI, and Portraits (mixed sizes)
+*This batch has different sub-prompts — send each section separately to the image AI*

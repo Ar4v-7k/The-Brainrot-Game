@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 from dataclasses import dataclass
 import math
 from pathlib import Path
@@ -58,7 +59,7 @@ TILE_CHAR_TO_NAME = {
 }
 
 TILE_SIZE = 16
-TILE_IN_SHEET = 16
+TILE_IN_SHEET = 32
 
 _missing_tile_log: set = set()
 
@@ -98,39 +99,38 @@ _tileset_cache: pygame.Surface | None = None
 _tile_index_cache: Dict[str, Tuple[int, int]] = {}
 
 
-def draw_tile(surface: pygame.Surface, rect: pygame.Rect, char: str, x: int, y: int, night: bool, t: float, assets: AssetStore) -> None:
-    global _tileset_cache, _tile_index_cache
-
-    if _tileset_cache is None:
-        _tileset_cache = _load_tileset()
-    if not _tile_index_cache:
-        _tile_index_cache = _load_tile_index()
-
-    tile_name = TILE_CHAR_TO_NAME.get(char, "grass_light")
-
-    tile_pos = _tile_index_cache.get(tile_name)
-    if tile_pos is None:
-        if tile_name not in _missing_tile_log:
-            _missing_tile_log.add(tile_name)
-            print(f"[draw_tile] Missing tile: {tile_name!r}")
-        tile_name = "grass_light"
-        tile_pos = _tile_index_cache.get(tile_name, (0, 0))
-
-    row, col = tile_pos
-    src_x = col * TILE_IN_SHEET
-    src_y = row * TILE_IN_SHEET
-
-    tile_crop = _tileset_cache.subsurface(pygame.Rect(src_x, src_y, TILE_IN_SHEET, TILE_IN_SHEET))
-    surface.blit(tile_crop, rect.topleft)
-
-    if char == "x":
-        pygame.draw.polygon(surface, COLORS["select"], ((rect.centerx, rect.y + 4), (rect.x + 5, rect.y + 10), (rect.right - 5, rect.y + 10)))
-        pygame.draw.line(surface, COLORS["stroke"], (rect.centerx, rect.y + 4), (rect.centerx, rect.bottom - 4), 1)
-    if night:
-        tint = pygame.Surface((TILE_SIZE, TILE_SIZE), pygame.SRCALPHA)
-        tint.fill((18, 38, 82, 82))
-        surface.blit(tint, rect.topleft)
-
+def draw_tile(surface, rect, char, x, y, t=0):
+    # Load once
+    if not hasattr(draw_tile, '_sheet'):
+        import json
+        sheet_path = os.path.join('assets', 'sprites', 'overworld', 'tileset_master.png')
+        index_path = os.path.join('assets', 'sprites', 'overworld', 'tileset_master_index.json')
+        draw_tile._sheet = pygame.image.load(sheet_path).convert()
+        with open(index_path) as f:
+            draw_tile._index = json.load(f)
+    
+    CHAR_MAP = {
+        ".": "grass_light", "g": "grass_tall", "f": "flower_red",
+        "r": "dirt_path", "=": "stone_cobble", "s": "sand_pale",
+        "~": "water_ocean", "#": "wall_stone", "B": "cave_wall",
+        "D": "door_wood", "H": "wall_wood", "S": "sign_wood",
+        "T": "tree_bush", "i": "ice_smooth", "d": "cave_floor",
+        "j": "jungle_floor", "R": "ruin_floor", "m": "cave_wall",
+        "x": "warp_tile",
+    }
+    
+    tile_name = CHAR_MAP.get(char, "grass_light")
+    entry = draw_tile._index.get(tile_name)
+    if entry is None:
+        # fallback — bright magenta so we can see missing tiles
+        pygame.draw.rect(surface, (255, 0, 255), rect)
+        return
+    
+    row, col = entry[0], entry[1]
+    src_rect = pygame.Rect(col * 32, row * 32, 32, 32)
+    tile_surf = draw_tile._sheet.subsurface(src_rect)
+    scaled = pygame.transform.scale(tile_surf, (rect.width, rect.height))
+    surface.blit(scaled, rect.topleft)
 
 @dataclass(frozen=True)
 class MoveVisual:
@@ -2492,8 +2492,8 @@ def draw_adventure_map(surface: pygame.Surface, map_def, adv: AdventureState, t:
     end_y = min(map_def.height, start_y + VIRTUAL_HEIGHT // tile + 2)
     for y in range(start_y, end_y):
         for x in range(start_x, end_x):
-            rect = pygame.Rect(x * tile - cam_x, y * tile - cam_y, tile, tile)
-            draw_tile(surface, rect, map_def.tile_at(x, y), x, y, adv.is_night(), t, assets)
+            rect = pygame.Rect((x - start_x) * tile, (y - start_y) * tile, tile, tile)
+            draw_tile(surface, rect, map_def.tile_at(x, y), x, y, t)
     for pickup in map_def.pickups:
         if pickup.hidden or pickup.key in adv.picked_items:
             continue

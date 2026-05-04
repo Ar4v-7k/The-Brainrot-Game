@@ -1,0 +1,86 @@
+*Expected output: 1024x1024px image (8 tiles x 8 rows)*
+
+Pixel art RPG tileset image. Style: Stardew Valley quality — warm, charming, richly detailed, hand-crafted pixel art. Soft cel-shaded lighting, warm color palette, cozy countryside RPG feel. Deep greens, earthy browns, warm golden paths, bright flowers. NOT dark. NOT gritty. NOT Minecraft flat blocks. NOT corrupted or sci-fi. Pure black background #000000.
+Layout: arrange tiles in a GRID, 8 tiles per row. Each tile is 128x128 pixels. Total image size depends on tile count. No gaps between tiles. No borders. No labels. No text. Just tiles touching edge to edge on black background.
+
+Make exactly these 64 tiles, 8 per row, left to right:
+
+**ROW 1 — Chests and containers (8 tiles):**
+1. Wooden treasure chest closed, gold latch, warm brown wood grain
+2. Same chest open, golden sparkle glow visible inside
+3. Small chest closed
+4. Small chest open glowing
+5. Ancient stone chest, heavy looking
+6. Locked chest with chain and padlock
+7. Barrel with lid, sealed
+8. Sack of goods tied at top, burlap texture
+
+**ROW 2 — Campfires and lights (8 tiles):**
+9. Campfire lit with orange-red flames on grass, stone ring around it
+10. Campfire large with tall flames
+11. Campfire burned out grey ash
+12. Torch mounted on wall bracket, lit, warm flame
+13. Lantern hanging, warm yellow glow
+14. Lantern post in ground, lit
+15. Blue glowing cave crystal formation
+16. Purple glowing signal crystal, slightly eerie but still natural
+
+**ROW 3 — Berry trees (8 tiles):**
+17. Berry tree full with red tomato berries, small tree with berries visible
+18. Berry tree half-picked with fewer berries
+19. Berry tree empty, bare branches
+20. Berry tree full with orange citrus berries
+21. Berry tree half with orange berries
+22. Berry tree empty citrus
+23. Berry tree full with purple grape clusters
+24. Berry tree full with small green mint berries
+
+**ROW 4 — Dock and harbor (8 tiles):**
+25. Wooden dock plank horizontal, warm brown with nail dots
+26. Dock plank vertical
+27. Dock edge where plank meets water
+28. Dock post with rope tied around it
+29. Anchor on dock, iron anchor
+30. Coiled rope pile on dock
+31. Fishing crate stacked on dock
+32. Dock ladder going down into water
+
+**ROW 5 — Farm and nature objects (8 tiles):**
+33. Farm soil tilled in rows, dark earth with lines
+34. Farm soil with small green sprouts growing
+35. Mature crop ready to harvest, golden wheat
+36. Berry patch at ground level, small bushes with berries
+37. Water well stone circle top view
+38. Windmill top view, sails visible from above
+39. Fishing rod leaning against a post
+40. Fishing net drying on wooden frame
+
+**ROW 6 — Puzzle elements (8 tiles):**
+41. Pushable stone block, clearly looks different from normal rock, has handle marks
+42. Pushable block sitting on a pressure plate
+43. Pressure plate, unpressed, stone with carved symbol
+44. Pressure plate pressed down, glowing slightly
+45. Ancient lever switch, handle pointing up
+46. Ancient lever switch, handle pointing down
+47. Ice sliding block, pale blue cube
+48. Cracked wall section that might be breakable
+
+**ROW 7 — Items and pickups (8 tiles):**
+49. Pasta Capsule item on ground, like a small spaghetti-wrapped ball
+50. Rare golden Pasta Capsule, gleaming
+51. Berry on ground, single berry pickup
+52. Key item with sparkle effect
+53. Ancient artifact, glowing old object
+54. Signal Shard item, small glowing purple-green fragment
+55. Coin pile, gold coins
+56. Hidden item sparkle, barely visible glimmer on normal grass
+
+**ROW 8 — Stairs and bridges (8 tiles):**
+57. Stone stair going up, top-down view, steps visible
+58. Stone stair going down
+59. Wooden bridge horizontal, planks with rope rail
+60. Wooden bridge vertical
+61. Stone bridge horizontal, arched structure
+62. Bridge damaged with missing plank
+63. Wooden indoor stair going up
+64. Warp tile, stone floor with glowing golden circle carved in it
